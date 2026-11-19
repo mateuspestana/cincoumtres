@@ -118,7 +118,8 @@ export const Concha = forwardRef<ConchaApi, Props>(function Concha(
     if (!dados) return;
     const id = setTimeout(() => {
       const s = dados.serie;
-      setFalado(`${dataLonga(dados.meta.inicio, dia)}: ${num(s.titulares[dia])} titulares, ${num(s.suplentes[dia])} suplentes e ${num(s.vazias[dia])} cadeiras vazias.`);
+      const pl = (n: number, um: string, varios: string) => `${num(n)} ${n === 1 ? um : varios}`;
+      setFalado(`${dataLonga(dados.meta.inicio, dia)}: ${pl(s.titulares[dia], 'titular', 'titulares')}, ${pl(s.suplentes[dia], 'suplente', 'suplentes')} e ${pl(s.vazias[dia], 'cadeira vazia', 'cadeiras vazias')}.`);
     }, 450);
     return () => clearTimeout(id);
   }, [dia, dados]);

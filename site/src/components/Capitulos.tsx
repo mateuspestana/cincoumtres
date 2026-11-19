@@ -28,9 +28,9 @@ export function Contadores({ dados, dia }: { dados: Dados | null; dia: number })
     <div className="contadores">
       <p className="contadores__data">{dataCurta(dados.meta.inicio, dia)}</p>
       <p className="contadores__linha">
-        <b>{num(s.titulares[dia])}</b><span>titulares</span>
-        <b className="c-s">{num(s.suplentes[dia])}</b><span>suplentes</span>
-        <b>{num(s.vazias[dia])}</b><span>vazias</span>
+        <b>{num(s.titulares[dia])}</b><span>{s.titulares[dia] === 1 ? 'titular' : 'titulares'}</span>
+        <b className="c-s">{num(s.suplentes[dia])}</b><span>{s.suplentes[dia] === 1 ? 'suplente' : 'suplentes'}</span>
+        <b>{num(s.vazias[dia])}</b><span>{s.vazias[dia] === 1 ? 'vazia' : 'vazias'}</span>
       </p>
     </div>
   );
