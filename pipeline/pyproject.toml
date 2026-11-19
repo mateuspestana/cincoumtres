@@ -1,0 +1,10 @@
+[project]
+name = "cincoumtres-pipeline"
+version = "0.1.0"
+description = "Coleta e monta a ocupação das cadeiras da Câmara dos Deputados"
+authors = [{ name = "Matheus C. Pestana" }]
+requires-python = ">=3.12"
+dependencies = ["pandas>=2.2", "pyarrow>=17", "requests>=2.32"]
+
+[tool.uv]
+package = false

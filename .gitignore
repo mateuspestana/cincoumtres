@@ -1,0 +1,8 @@
+.DS_Store
+
+# dados brutos da Câmara e do TSE (têm CPF) e ambientes
+pipeline/bruto/
+pipeline/tse/
+pipeline/.venv
+pipeline/.venv.nosync/
+__pycache__/
