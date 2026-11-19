@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se usar o Cinco Um Três em um trabalho, cite-o com os metadados abaixo."
+title: "Cinco Um Três"
+abstract: "Quem entrou e quem saiu de cada uma das 513 cadeiras da Câmara dos Deputados, dia a dia, com os suplentes ligados a quem substituíram."
+type: software
+version: 0.1.0
+date-released: 2026-11-19
+authors:
+  - family-names: Pestana
+    given-names: "Matheus C."
+    affiliation: "MACAPE Pesquisas e Consultoria em Tecnologia Ltda"
+repository-code: "https://github.com/mateuspestana/cincoumtres"
+url: "https://cincoumtres.vercel.app"
+license: AGPL-3.0-only
+keywords:
+  - Câmara dos Deputados
+  - suplentes
+  - dados abertos
+  - legislatura
