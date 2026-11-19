@@ -538,3 +538,6 @@ html.motion .entra--2 { animation-delay: 0.08s; }
 
 .aviso { border-left: 3px solid var(--c-accent); padding: 0.2rem 0 0.2rem 1rem; }
 .aviso strong { font-weight: 600; }
+
+.cabecalho__legs a.leg { text-decoration: none; transition: border-color 0.2s, color 0.2s; }
+.cabecalho__legs a.leg:hover { border-color: var(--c-fg); color: var(--c-fg); }

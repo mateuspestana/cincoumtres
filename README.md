@@ -4,7 +4,7 @@
 [![licença dos textos e dados](https://img.shields.io/badge/textos%20e%20dados-CC%20BY%204.0-lightgrey)](LICENSE-CONTEUDO)
 [![atualizado](https://img.shields.io/github/last-commit/mateuspestana/cincoumtres?label=atualizado)](https://github.com/mateuspestana/cincoumtres/commits/main)
 
-Quem entrou e quem saiu de cada uma das 513 cadeiras da Câmara dos Deputados, dia a dia, na 57ª legislatura (2023 a 2027). Quando um titular sai e um suplente assume, o site liga um ao outro.
+Quem entrou e quem saiu de cada uma das 513 cadeiras da Câmara dos Deputados, dia a dia, na 57ª legislatura (2023 a 2027), com a 56ª (2019 a 2023) para consulta. Quando um titular sai e um suplente assume, o site liga um ao outro.
 
 **Site:** https://cincoumtres.vercel.app (também em https://cincoumtres.macape.dev)
 
@@ -27,6 +27,7 @@ Os códigos de vaga (SP-01, RJ-30 e assim por diante) são do site. A Câmara n�
 | `/deputado/<id>` | Linha do tempo de cada pessoa (648 páginas): períodos, partidos e a vaga que ocupou |
 | `/vaga/<código>` | A sequência de ocupantes de cada cadeira (513 páginas) |
 | `/como-inferimos` | As regras de ligação, os casos incertos e o CSV completo das vagas |
+| `/leg/56/` | A 56ª legislatura, só para consulta: home, `/leg/56/explorar/` e `/leg/56/como-inferimos/`, sem página por deputado e por vaga. A 57ª, a padrão, vive na raiz e também responde em `/leg/57/` |
 
 Quem sai do plenário sobe para uma faixa de destinos (ministérios, governos estaduais, prefeituras, licença, saída definitiva), e um fio liga essa pessoa ao suplente que entrou no lugar: contínuo quando a ligação é provável, tracejado quando é incerta.
 
@@ -108,14 +109,14 @@ site/
 
 ## 58ª legislatura
 
-A coleta e a camada de dados já aceitam a 58ª. Em fevereiro de 2027, ligar `ativa: True` da 58 em `pipeline/config.py` e rodar `make atualizar LEG=58`. O site gera uma legislatura por build (`NEXT_PUBLIC_LEG=58`).
+A coleta e a camada de dados já aceitam a 58ª. Em fevereiro de 2027, ligar `ativa: True` da 58 em `pipeline/config.py` e rodar `make atualizar LEG=58`. No site, trocar `LEG_PADRAO` e incluir a 58 em `LEGS` (`site/src/lib/legs.ts`): a padrão fica na raiz e as outras em `/leg/<número>/`.
 
 Antes disso, falta:
 
 - Conferir as cadeiras por UF. Hoje o pipeline as conta nos eleitos de 2026 do arquivo do TSE, que só traz os eleitos já totalizados (505 no momento, e não 513). A 57ª usa a tabela da Lei Complementar 78/1993.
 - A ordem de suplência saiu do arquivo atual do TSE, então a ficha do deputado não mostra mais "3º na lista".
-- Os capítulos da home citam datas da 57ª e precisam de texto próprio.
-- O seletor 57ª/58ª do cabeçalho só indica qual está disponível. Para manter a 57ª no ar ao lado da 58ª, são necessárias rotas por legislatura (`/57/...`).
+- Os capítulos da home citam datas da 57ª e precisam de texto próprio (as outras legislaturas já usam capítulos genéricos, montados a partir dos dados).
+- Ao virar a padrão, a 58ª passa a ocupar as rotas da raiz. Para manter páginas por deputado e por vaga da 57ª, criar `app/leg/[leg]/deputado/[id]` e `app/leg/[leg]/vaga/[id]`.
 
 ## Créditos
 

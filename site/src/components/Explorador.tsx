@@ -2,7 +2,6 @@
 // O instrumento completo: régua, busca, UF, arrumação por UF ou por partido na data, atalhos para os
 // dias marcantes e a tabela dos suplentes em exercício (a versão em texto da concha).
 import { useEffect, useMemo, useRef, useState } from 'react';
-import Link from 'next/link';
 import { Concha, type ConchaApi } from '@/concha/Concha';
 import type { Modo } from '@/concha/cena';
 import { montarFicha } from '@/concha/ficha';
@@ -10,6 +9,7 @@ import { CONFIANCA, REGRA_CURTA } from '@/lib/estado';
 import { dataCurta, diaDaData, isoDoDia } from '@/lib/tempo';
 import type { Dados } from '@/lib/tipos';
 import { Contadores, Legenda } from './Capitulos';
+import { LinkPagina } from './LinkPagina';
 
 const semAcento = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 
@@ -145,12 +145,12 @@ export function Explorador({ leg, diaPadrao, saltos, ufs }: { leg: number; diaPa
           <tbody>
             {meta && linhas.map((f) => (
               <tr key={f.vagaId}>
-                <td className="mono"><Link href={`/vaga/${f.vagaId.toLowerCase()}/`}>{f.vagaId}</Link></td>
-                <td>{f.pessoa ? <Link href={`/deputado/${f.pessoa.id}/`}>{f.pessoa.nome}</Link> : <span className="tag tag--m">vazia</span>}
+                <td className="mono"><LinkPagina leg={leg} caminho={`/vaga/${f.vagaId.toLowerCase()}/`}>{f.vagaId}</LinkPagina></td>
+                <td>{f.pessoa ? <LinkPagina leg={leg} caminho={`/deputado/${f.pessoa.id}/`}>{f.pessoa.nome}</LinkPagina> : <span className="tag tag--m">vazia</span>}
                   {f.cond === 'e' && <span className="tag" style={{ marginLeft: 6 }}>efetivado</span>}</td>
                 <td className="mono" data-l="partido">{f.partido ?? ''}</td>
                 <td className="mono" data-l="desde">{f.desde != null ? dataCurta(meta.inicio, f.desde) : ''}</td>
-                <td data-l="no lugar de">{f.outro ? <Link href={`/deputado/${f.outro.id}/`}>{f.outro.nome}</Link> : ''}</td>
+                <td data-l="no lugar de">{f.outro ? <LinkPagina leg={leg} caminho={`/deputado/${f.outro.id}/`}>{f.outro.nome}</LinkPagina> : ''}</td>
                 <td data-l="motivo">{f.motivo ? meta.motivos[f.motivo] : f.regra ? REGRA_CURTA[f.regra] : ''}</td>
                 <td data-l="ligação">{f.conf ? <span className={`tag tag--${f.conf}`}>{CONFIANCA[f.conf].replace('confiança ', '')}</span> : ''}</td>
               </tr>

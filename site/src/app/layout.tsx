@@ -3,7 +3,9 @@ import { Cabecalho } from '@/components/Cabecalho';
 import { Simbolo } from '@/components/Marca';
 import { Motion } from '@/components/Motion';
 import { Rodape } from '@/components/Rodape';
-import { legislaturas, LEG_ATUAL } from '@/lib/dados';
+import { dados, legislaturas } from '@/lib/dados';
+import { LEG_PADRAO } from '@/lib/legs';
+import { dataLonga } from '@/lib/tempo';
 import { SITE } from '@/lib/site';
 import { mono, sans } from './fonts';
 import './globals.css';
@@ -28,7 +30,7 @@ const flags = `document.documentElement.classList.add('js');if(!matchMedia('(pre
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Dataset',
-  name: `Ocupação das cadeiras da Câmara dos Deputados, ${LEG_ATUAL}ª legislatura`,
+  name: `Ocupação das cadeiras da Câmara dos Deputados, ${LEG_PADRAO}ª legislatura`,
   description: SITE.descricao,
   creator: { '@type': 'Person', name: 'Matheus C. Pestana' },
   publisher: { '@type': 'Organization', name: 'MACAPE Pesquisas e Consultoria em Tecnologia Ltda.', url: 'https://macape.dev' },
@@ -38,6 +40,10 @@ const jsonLd = {
 
 export default function RootLayout({ children }: LayoutProps<'/'>) {
   const legs = legislaturas();
+  const rodape = legs.map((l) => {
+    const meta = l.disponivel ? dados(l.leg).meta : null;
+    return { ...l, ate: meta ? dataLonga(meta.inicio, meta.dias - 1) : null };
+  });
   return (
     <html lang="pt-BR" className={`${sans.variable} ${mono.variable}`} suppressHydrationWarning>
       <head>
@@ -69,7 +75,7 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
         <script dangerouslySetInnerHTML={{ __html: `if(document.documentElement.classList.contains('sem-loader'))document.getElementById('loader').hidden=true` }} />
         <Cabecalho legs={legs} />
         <main id="main" tabIndex={-1}>{children}</main>
-        <Rodape />
+        <Rodape legs={rodape} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, '\\u003c') }} />
         <Motion />
       </body>

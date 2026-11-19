@@ -8,6 +8,7 @@ import { gsap } from 'gsap';
 import { addLoaderTask } from '@/engine';
 import { carregarDados } from '@/lib/carregar';
 import { CONDICAO, CONFIANCA } from '@/lib/estado';
+import { rota, temPaginas } from '@/lib/legs';
 import { dataCurta, dataLonga, num } from '@/lib/tempo';
 import type { Dados } from '@/lib/tipos';
 import { Cena, type Alvo, type Modo } from './cena';
@@ -248,8 +249,8 @@ export const Concha = forwardRef<ConchaApi, Props>(function Concha(
             )}
             {fixo && (
               <div className="ficha__acoes">
-                {ficha.pessoa && <Link href={`/deputado/${ficha.pessoa.id}/`} aria-label={`Página de ${ficha.pessoa.nome}`}>Página do deputado</Link>}
-                <Link href={`/vaga/${ficha.vagaId.toLowerCase()}/`}>Linha da vaga</Link>
+                {temPaginas(leg) && ficha.pessoa && <Link href={rota(leg, `/deputado/${ficha.pessoa.id}/`)} aria-label={`Página de ${ficha.pessoa.nome}`}>Página do deputado</Link>}
+                {temPaginas(leg) && <Link href={rota(leg, `/vaga/${ficha.vagaId.toLowerCase()}/`)}>Linha da vaga</Link>}
                 <button type="button" onClick={fechar}>Fechar</button>
               </div>
             )}

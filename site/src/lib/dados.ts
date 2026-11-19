@@ -1,9 +1,10 @@
 // Leitura dos dados no build (páginas estáticas). No cliente, use lib/carregar.ts.
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { LEG_PADRAO } from './legs';
 import type { Dados, Legislatura, Meta, Pessoa, Serie, Vaga } from './tipos';
 
-export const LEG_ATUAL = Number(process.env.NEXT_PUBLIC_LEG ?? 57);
+export const LEG_ATUAL = LEG_PADRAO;
 const PASTA = join(process.cwd(), 'public', 'data');
 const cache = new Map<number, Dados>();
 
