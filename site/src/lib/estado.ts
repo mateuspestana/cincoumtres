@@ -49,5 +49,5 @@ export function contar(vagas: Vaga[], dia: number) {
 export const REGRA_CURTA: Record<string, string> = {
   pf: 'saída do titular na janela', pfp: 'saída mais próxima na janela', vt: 'saiu na volta do titular',
   rl: 'remanejado na lista', ss: 'saída de outro suplente', rc: 'recontagem', ef: 'efetivação',
-  sd: 'vaga sem eleito empossado', vm: 'vaga livre da mesma lista', vu: 'vaga livre da UF', vl: 'vaga livre', us: 'única saída na UF', vp: 'voltou à própria vaga',
+  sd: 'vaga sem eleito empossado', vm: 'vaga livre da mesma lista', vu: 'vaga livre da UF', vl: 'vaga livre', us: 'única saída na UF', vp: 'voltou à própria vaga', vo: 'registro da Câmara com sobreposição',
 };

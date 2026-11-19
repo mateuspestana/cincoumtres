@@ -8,6 +8,8 @@ const LINKS = [
   { href: '/como-inferimos/', rotulo: 'Como inferimos' },
 ];
 
+const LEG_NO_AR = Number(process.env.NEXT_PUBLIC_LEG ?? 57);
+
 export function Cabecalho({ legs }: { legs: { leg: number; disponivel: boolean; inicio: string }[] }) {
   const path = usePathname();
   return (
@@ -26,7 +28,7 @@ export function Cabecalho({ legs }: { legs: { leg: number; disponivel: boolean; 
           ))}
           <li className="cabecalho__legs" aria-label="Legislatura">
             {legs.map((l) => (
-              <span key={l.leg} className={l.disponivel ? 'leg leg--ativa' : 'leg'} title={l.disponivel ? undefined : `Começa em ${l.inicio.split('-').reverse().join('/')}`}>
+              <span key={l.leg} className={l.leg === LEG_NO_AR ? 'leg leg--ativa' : 'leg'} title={l.disponivel ? undefined : `Começa em ${l.inicio.split('-').reverse().join('/')}`}>
                 {l.leg}ª{!l.disponivel && <span className="sr-only"> (começa em {l.inicio.split('-').reverse().join('/')})</span>}
               </span>
             ))}

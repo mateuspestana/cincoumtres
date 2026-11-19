@@ -23,6 +23,7 @@ REGRAS = {
     "recontagem/retotalização": "rc", "efetivação": "ef", "posse em vaga sem titular original": "sd",
     "vaga livre, mesma chave": "vm", "vaga livre na UF": "vu", "vaga livre": "vl",
     "única saída na UF (partido diferente)": "us", "volta à vaga que já foi dele": "vp",
+    "volta com a vaga ocupada": "vo",
 }
 REGRAS_TEXTO = {
     "pf": "O titular da mesma UF e do mesmo partido ou federação saiu até 10 dias antes da posse.",
@@ -38,6 +39,7 @@ REGRAS_TEXTO = {
     "vl": "Sem saída na janela; ficou numa vaga livre da UF.",
     "us": "Única saída na UF na janela, de outro partido.",
     "vp": "Tinha perdido a vaga por decisão judicial e voltou a ela.",
+    "vo": "O registro da Câmara mantém o dono da vaga e quem a ocupava em exercício ao mesmo tempo; o dono ficou numa vaga livre da UF.",
 }
 MOTIVOS = {
     "Ministro de Estado": "min", "Secretário de Estado": "see", "Secretário municipal (capital)": "sem",

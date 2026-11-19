@@ -25,6 +25,14 @@ CADEIRAS_LC78 = {
 }
 
 LEGISLATURAS = {
+    56: {
+        "inicio": dt.date(2019, 2, 1),
+        "fim": dt.date(2023, 1, 31),
+        "ano_eleicao": 2018,
+        "tse": PASTA_TSE / "candidatos_2018.parquet",
+        "cadeiras": CADEIRAS_LC78,
+        "ativa": True,
+    },
     57: {
         "inicio": dt.date(2023, 2, 1),
         "fim": dt.date(2027, 1, 31),

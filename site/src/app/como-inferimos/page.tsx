@@ -65,7 +65,7 @@ export default function ComoInferimos() {
         <p>Para cada posse de suplente, as regras são testadas nesta ordem, e a primeira que vale decide:</p>
         <ol>
           <li>se o suplente saiu da Câmara no mesmo dia em que um titular da UF reassumiu, ele estava na vaga desse titular;</li>
-          <li>um titular da mesma UF e do mesmo partido ou federação de {meta.leg === 57 ? '2022' : 'eleição'} saiu até 10 dias antes da posse (havendo mais de um, fica a saída mais próxima);</li>
+          <li>um titular da mesma UF e do mesmo partido ou federação de {({ 56: '2018', 57: '2022', 58: '2026' } as Record<number, string>)[meta.leg] ?? 'eleição'} saiu até 10 dias antes da posse (havendo mais de um, fica a saída mais próxima);</li>
           <li>outro suplente do mesmo partido ou federação saiu até 10 dias antes;</li>
           <li>sem nenhuma saída na janela, o suplente vai para uma vaga livre da mesma lista (confiança média) ou, em último caso, para qualquer vaga livre da UF (confiança baixa).</li>
         </ol>

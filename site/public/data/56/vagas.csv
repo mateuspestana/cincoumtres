@@ -1,0 +1,839 @@
+vaga,uf,id_camara,nome,condicao,inicio,fim,confianca,regra,motivo_saida
+AC-01,AC,141434,Flaviano Melo,titular,2019-02-01,,,,Outro
+AC-02,AC,178839,Jéssica Sales,titular,2019-02-01,,,,Outro
+AC-03,AC,178836,Alan Rick,titular,2019-02-01,2022-07-14,,,Licença (afastamento conjunto)
+AC-03,AC,123756,Antônia Lúcia,suplente,2022-07-14,2022-11-12,alta,única saída na UF (partido diferente),Volta do titular
+AC-03,AC,178836,Alan Rick,titular,2022-11-12,,,,Outro
+AC-04,AC,73943,Perpétua Almeida,titular,2019-02-01,,,,Outro
+AC-05,AC,204435,Jesus Sérgio,titular,2019-02-01,,,,Outro
+AC-06,AC,204469,Manuel Marcos,titular,2019-02-01,2020-11-05,,,Perda de mandato
+AC-06,AC,178825,Leo de Brito,titular,2020-11-06,,baixa,vaga livre,Outro
+AC-07,AC,204471,Mara Rocha,titular,2019-02-01,,,,Outro
+AC-08,AC,204434,Dra. Vanda Milani,titular,2019-02-01,,,,Outro
+AM-01,AM,204572,Capitão Alberto Neto,titular,2019-02-01,,,,Outro
+AM-02,AM,74356,Silas Câmara,titular,2019-02-01,,,,Outro
+AM-03,AM,74090,Átila Lins,titular,2019-02-01,,,,Outro
+AM-04,AM,204556,Marcelo Ramos,titular,2019-02-01,,,,Outro
+AM-05,AM,204557,Sidney Leite,titular,2019-02-01,,,,Outro
+AM-06,AM,204569,Delegado Pablo,titular,2019-02-01,,,,Outro
+AM-07,AM,204555,José Ricardo,titular,2019-02-01,,,,Outro
+AM-08,AM,204551,Bosco Saraiva,titular,2019-02-01,,,,Outro
+AP-01,AP,204375,Leda Sadala,titular,2019-02-01,,,,Outro
+AP-02,AP,160641,Professora Marcivania,titular,2019-02-01,,,,Outro
+AP-03,AP,178831,André Abdon,titular,2019-02-01,,,,Outro
+AP-04,AP,160591,Vinicius Gurgel,titular,2019-02-01,2019-12-05,,,Licença para tratamento de saúde
+AP-04,AP,205535,Patricia Ferraz,suplente,2019-12-05,2020-06-22,alta,partido/federação,Volta do titular
+AP-04,AP,160591,Vinicius Gurgel,titular,2020-06-22,2021-11-30,,,Licença para tratamento de saúde
+AP-04,AP,218245,Jorielson,suplente,2021-12-01,2022-04-30,alta,partido/federação,Volta do titular
+AP-04,AP,160591,Vinicius Gurgel,titular,2022-04-30,2022-09-20,,,Licença (afastamento conjunto)
+AP-04,AP,205535,Patricia Ferraz,suplente,2022-09-21,2023-01-19,alta,partido/federação,Volta do titular
+AP-04,AP,160591,Vinicius Gurgel,titular,2023-01-19,,,,Outro
+AP-05,AP,204353,Aline Gurgel,titular,2019-02-01,,,,Outro
+AP-06,AP,204379,Acácio Favacho,titular,2019-02-01,,,,Outro
+AP-07,AP,204352,Camilo Capiberibe,titular,2019-02-01,,,,Outro
+AP-08,AP,160645,Luiz Carlos,titular,2019-02-01,2021-07-22,,,Secretário de Estado
+AP-08,AP,217330,Pedro Dalua,suplente,2021-07-28,2022-04-04,alta,única saída na UF (partido diferente),Volta do titular
+AP-08,AP,160645,Luiz Carlos,titular,2022-04-04,,,,Outro
+PA-01,PA,178908,Delegado Éder Mauro,titular,2019-02-01,,,,Outro
+PA-02,PA,178910,Joaquim Passarinho,titular,2019-02-01,,,,Outro
+PA-03,PA,204497,Júnior Ferrari,titular,2019-02-01,,,,Outro
+PA-04,PA,178909,Hélio Leite,titular,2019-02-01,,,,Outro
+PA-05,PA,204498,Olival Marques,titular,2019-02-01,,,,Outro
+PA-06,PA,74075,Elcione Barbalho,titular,2019-02-01,,,,Outro
+PA-07,PA,74079,José Priante,titular,2019-02-01,,,,Outro
+PA-08,PA,204496,Celso Sabino,titular,2019-02-01,,,,Outro
+PA-09,PA,74352,Nilson Pinto,titular,2019-02-01,,,,Outro
+PA-10,PA,204495,Airton Faleiro,titular,2019-02-01,,,,Outro
+PA-11,PA,141335,Beto Faro,titular,2019-02-01,,,,Outro
+PA-12,PA,204500,Eduardo Costa,titular,2019-02-01,,,,Outro
+PA-13,PA,204538,Paulo Bengtson,titular,2019-02-01,,,,Outro
+PA-14,PA,135054,Cristiano Vale,titular,2019-02-01,,,,Outro
+PA-15,PA,204505,Vavá Martins,titular,2019-02-01,,,,Outro
+PA-16,PA,204499,Cássio Andrade,titular,2019-02-01,,,,Outro
+PA-17,PA,134812,Edmilson Rodrigues,titular,2019-02-01,2021-01-01,,,Renúncia
+PA-17,PA,215044,Vivi Reis,efetivado,2021-01-01,,alta,partido/federação,Outro
+RO-01,RO,178954,Lucio Mosquini,titular,2019-02-01,,,,Outro
+RO-02,RO,204360,Silvia Cristina,titular,2019-02-01,,,,Outro
+RO-03,RO,204359,Léo Moraes,titular,2019-02-01,,,,Outro
+RO-04,RO,108338,Jaqueline Cassol,titular,2019-02-01,,,,Outro
+RO-05,RO,141508,Mauro Nazif,titular,2019-02-01,,,,Outro
+RO-06,RO,178953,Expedito Netto,titular,2019-02-01,,,,Outro
+RO-07,RO,178956,Mariana Carvalho,titular,2019-02-01,2022-06-08,,,Licença (afastamento conjunto)
+RO-07,RO,219592,Lucas Follador,suplente,2022-06-08,2022-10-07,alta,única saída na UF (partido diferente),Volta do titular
+RO-07,RO,178956,Mariana Carvalho,titular,2022-10-07,,,,Outro
+RO-08,RO,204378,Coronel Chrisóstomo,titular,2019-02-01,,,,Outro
+RR-01,RR,178959,Hiran Gonçalves,titular,2019-02-01,,,,Outro
+RR-02,RR,141417,Edio Lopes,titular,2019-02-01,,,,Outro
+RR-03,RR,160531,Jhonatan de Jesus,titular,2019-02-01,,,,Outro
+RR-04,RR,204465,Haroldo Cathedral,titular,2019-02-01,2022-04-12,,,Licença (afastamento conjunto)
+RR-04,RR,214477,RRenato Queiroz,suplente,2022-04-13,2022-08-11,alta,única saída na UF (partido diferente),Volta do titular
+RR-04,RR,204465,Haroldo Cathedral,titular,2022-08-11,,,,Outro
+RR-05,RR,178961,Shéridan,titular,2019-02-01,,,,Outro
+RR-06,RR,204479,Nicoletti,titular,2019-02-01,,,,Outro
+RR-07,RR,204468,Joenia Wapichana,titular,2019-02-01,,,,Outro
+RR-08,RR,204475,Ottaci Nascimento,titular,2019-02-01,2020-09-09,,,Licença (afastamento conjunto)
+RR-08,RR,214477,RRenato Queiroz,suplente,2020-09-10,2021-01-09,alta,única saída na UF (partido diferente),Volta do titular
+RR-08,RR,204475,Ottaci Nascimento,titular,2021-01-09,,,,Outro
+TO-01,TO,178993,Carlos Henrique Gaguim,titular,2019-02-01,,,,Outro
+TO-02,TO,160639,Professora Dorinha Seabra Rezende,titular,2019-02-01,2022-07-06,,,Licença (afastamento conjunto)
+TO-02,TO,141480,Lázaro Botelho,suplente,2022-07-07,2022-11-04,alta,única saída na UF (partido diferente),Volta do titular
+TO-02,TO,160639,Professora Dorinha Seabra Rezende,titular,2022-11-04,,,,Outro
+TO-03,TO,204364,Eli Borges,titular,2019-02-01,,,,Outro
+TO-04,TO,143084,Tiago Dimas,titular,2019-02-01,,,,Outro
+TO-05,TO,178994,Dulce Miranda,titular,2019-02-01,,,,Outro
+TO-06,TO,137070,Vicentinho Júnior,titular,2019-02-01,,,,Outro
+TO-07,TO,204363,Osires Damaso,titular,2019-02-01,2022-06-07,,,Licença (afastamento conjunto)
+TO-07,TO,219568,Tiago Andrino,suplente,2022-06-07,2022-10-06,alta,única saída na UF (partido diferente),Volta do titular
+TO-07,TO,204363,Osires Damaso,titular,2022-10-06,,,,Outro
+TO-08,TO,204370,Célio Moura,titular,2019-02-01,,,,Outro
+AL-01,AL,204436,Isnaldo Bulhões Jr.,titular,2019-02-01,,,,Outro
+AL-02,AL,160541,Arthur Lira,titular,2019-02-01,,,,Outro
+AL-03,AL,204438,Sergio Toledo,titular,2019-02-01,,,,Outro
+AL-04,AL,204437,Severino Pessoa,titular,2019-02-01,,,,Outro
+AL-05,AL,178842,Jhc,titular,2019-02-01,2021-01-01,,,Renúncia
+AL-05,AL,178844,Pedro Vilela,efetivado,2021-01-01,,alta,única saída na UF (partido diferente),Outro
+AL-06,AL,178843,Marx Beltrão,titular,2019-02-01,,,,Outro
+AL-07,AL,204466,Tereza Nelma,titular,2019-02-01,,,,Outro
+AL-08,AL,171617,Paulão,titular,2019-02-01,,,,Outro
+AL-09,AL,194260,Nivaldo Albuquerque,titular,2019-02-01,,,,Outro
+BA-01,BA,160508,Afonso Florence,titular,2019-02-01,2023-01-03,,,Secretário de Estado
+BA-01,BA,74574,Paulo Magalhães,suplente,2023-01-03,2023-01-05,alta,única saída na UF (partido diferente),Volta do titular
+BA-01,BA,160508,Afonso Florence,titular,2023-01-05,,,,Outro
+BA-02,BA,178857,Jorge Solla,titular,2019-02-01,,,,Outro
+BA-03,BA,74141,Josias Gomes,titular,2019-02-01,2019-03-13,,,Secretário de Estado
+BA-03,BA,209189,Joseildo Ramos,suplente,2019-03-13,2019-10-22,alta,partido/federação,Volta do titular
+BA-03,BA,74141,Josias Gomes,titular,2019-10-22,2019-10-29,,,Secretário de Estado
+BA-03,BA,209189,Joseildo Ramos,suplente,2019-10-30,2021-09-17,alta,partido/federação,Efetivação
+BA-03,BA,209189,Joseildo Ramos,efetivado,2021-09-17,,alta,efetivação,Outro
+BA-04,BA,74571,Nelson Pellegrino,titular,2019-02-01,2019-11-28,,,Secretário de Estado
+BA-04,BA,74574,Paulo Magalhães,suplente,2019-11-28,2021-01-29,alta,única saída na UF (partido diferente),Volta do titular
+BA-04,BA,74141,Josias Gomes,titular,2021-01-29,2021-02-03,baixa,volta com a vaga ocupada,Secretário de Estado
+BA-04,BA,74574,Paulo Magalhães,suplente,2021-02-04,2022-04-01,alta,única saída na UF (partido diferente),Volta do titular
+BA-04,BA,74141,Josias Gomes,titular,2022-04-01,,media,vaga livre,Outro
+BA-05,BA,160610,Valmir Assunção,titular,2019-02-01,,,,Outro
+BA-06,BA,160569,Waldenor Pereira,titular,2019-02-01,,,,Outro
+BA-07,BA,204559,Zé Neto,titular,2019-02-01,,,,Outro
+BA-08,BA,160553,Antonio Brito,titular,2019-02-01,,,,Outro
+BA-09,BA,205476,Charles Fernandes,titular,2019-02-01,,,,Outro
+BA-10,BA,160619,José Nunes,titular,2019-02-01,2022-04-28,,,Secretário de Estado
+BA-10,BA,74574,Paulo Magalhães,suplente,2022-05-02,2022-11-09,alta,partido/federação,Volta do titular
+BA-10,BA,160619,José Nunes,titular,2022-11-09,,,,Outro
+BA-11,BA,204573,Otto Alencar Filho,titular,2019-02-01,,,,Outro
+BA-12,BA,73808,Sérgio Brito,titular,2019-02-01,2019-03-14,,,Secretário de Estado
+BA-12,BA,74574,Paulo Magalhães,suplente,2019-03-14,2019-10-02,alta,partido/federação,Volta do titular
+BA-12,BA,73808,Sérgio Brito,titular,2019-10-02,,,,Outro
+BA-13,BA,160600,Arthur Oliveira Maia,titular,2019-02-01,,,,Outro
+BA-14,BA,178854,Elmar Nascimento,titular,2019-02-01,,,,Outro
+BA-15,BA,92102,Leur Lomanto Júnior,titular,2019-02-01,,,,Outro
+BA-16,BA,178860,Paulo Azi,titular,2019-02-01,,,,Outro
+BA-17,BA,93083,Cacá Leão,titular,2019-02-01,,,,Outro
+BA-18,BA,74537,Claudio Cajado,titular,2019-02-01,,,,Outro
+BA-19,BA,178858,Mário Negromonte Jr.,titular,2019-02-01,,,,Outro
+BA-20,BA,178861,Ronaldo Carletto,titular,2019-02-01,,,,Outro
+BA-21,BA,204553,Pastor Sargento Isidório,titular,2019-02-01,,,,Outro
+BA-22,BA,197438,Tito,titular,2019-02-01,2020-05-29,,,Licença (afastamento conjunto)
+BA-22,BA,213679,Dr. João,suplente,2020-05-29,2020-09-29,alta,única saída na UF (partido diferente),Volta do titular
+BA-22,BA,197438,Tito,titular,2020-09-29,,,,Outro
+BA-23,BA,74057,Alice Portugal,titular,2019-02-01,,,,Outro
+BA-24,BA,74060,Daniel Almeida,titular,2019-02-01,,,,Outro
+BA-25,BA,204571,Alex Santana,titular,2019-02-01,,,,Outro
+BA-26,BA,160666,Félix Mendonça Júnior,titular,2019-02-01,,,,Outro
+BA-27,BA,204554,Abílio Santana,titular,2019-02-01,2022-07-13,,,Licença (afastamento conjunto)
+BA-27,BA,214865,Joceval Rodrigues,suplente,2022-07-13,2022-11-11,alta,única saída na UF (partido diferente),Volta do titular
+BA-27,BA,204554,Abílio Santana,titular,2022-11-11,,,,Outro
+BA-28,BA,204564,Igor Kannário,titular,2019-02-01,,,,Outro
+BA-29,BA,74554,José Rocha,titular,2019-02-01,,,,Outro
+BA-30,BA,141458,João Carlos Bacelar,titular,2019-02-01,,,,Outro
+BA-31,BA,204576,João Roma,titular,2019-02-01,2021-02-24,,,Ministro de Estado
+BA-31,BA,178862,Tia Eron,suplente,2021-03-03,2021-11-16,alta,partido/federação,Volta do titular
+BA-31,BA,204576,João Roma,titular,2021-11-16,2021-11-18,,,Ministro de Estado
+BA-31,BA,178862,Tia Eron,suplente,2021-11-18,2022-03-31,alta,partido/federação,Volta do titular
+BA-31,BA,204576,João Roma,titular,2022-03-31,,,,Outro
+BA-32,BA,150418,Márcio Marinho,titular,2019-02-01,,,,Outro
+BA-33,BA,139285,Lídice da Mata,titular,2019-02-01,,,,Outro
+BA-34,BA,204558,Marcelo Nilo,titular,2019-02-01,,,,Outro
+BA-35,BA,69871,Bacelar,titular,2019-02-01,,,,Outro
+BA-36,BA,178863,Uldurico Junior,titular,2019-02-01,,,,Outro
+BA-37,BA,204567,Raimundo Costa,titular,2019-02-01,,,,Outro
+BA-38,BA,204560,Adolfo Viana,titular,2019-02-01,,,,Outro
+BA-39,BA,204565,Professora Dayane Pimentel,titular,2019-02-01,,,,Outro
+CE-01,CE,133439,André Figueiredo,titular,2019-02-01,,,,Outro
+CE-02,CE,204541,Eduardo Bismarck,titular,2019-02-01,,,,Outro
+CE-03,CE,204533,Idilvan Alencar,titular,2019-02-01,,,,Outro
+CE-04,CE,74299,Leônidas Cristino,titular,2019-02-01,,,,Outro
+CE-05,CE,204486,Mauro Benevides Filho,titular,2019-02-01,2019-05-28,,,Secretário de Estado
+CE-05,CE,74212,Aníbal Gomes,suplente,2019-05-28,2019-10-01,alta,única saída na UF (partido diferente),Volta do titular
+CE-05,CE,204486,Mauro Benevides Filho,titular,2019-10-01,2021-01-06,,,Secretário municipal (capital)
+CE-05,CE,74212,Aníbal Gomes,suplente,2021-01-06,2021-02-24,alta,única saída na UF (partido diferente),Volta do titular
+CE-05,CE,204486,Mauro Benevides Filho,titular,2021-02-24,2021-03-03,,,Secretário de Estado
+CE-05,CE,74212,Aníbal Gomes,suplente,2021-03-03,2021-11-08,alta,única saída na UF (partido diferente),Volta do titular
+CE-05,CE,204486,Mauro Benevides Filho,titular,2021-11-08,2021-12-17,,,Secretário de Estado
+CE-05,CE,74212,Aníbal Gomes,suplente,2021-12-17,2022-01-03,alta,única saída na UF (partido diferente),Volta do titular
+CE-05,CE,204486,Mauro Benevides Filho,titular,2022-01-03,,,,Outro
+CE-06,CE,204489,Robério Monteiro,titular,2019-02-01,2021-05-05,,,Secretário de Estado
+CE-06,CE,216545,Totonho Lopes,suplente,2021-05-05,2021-08-12,alta,partido/federação,Volta do titular
+CE-06,CE,204489,Robério Monteiro,titular,2021-08-12,,,,Outro
+CE-07,CE,141464,José Airton Félix Cirilo,titular,2019-02-01,,,,Outro
+CE-08,CE,141470,José Guimarães,titular,2019-02-01,,,,Outro
+CE-09,CE,178866,Luizianne Lins,titular,2019-02-01,2020-12-21,,,Licença (afastamento conjunto)
+CE-09,CE,129618,Gorete Pereira,suplente,2020-12-21,2021-01-31,alta,única saída na UF (partido diferente),Secretário de Estado
+CE-09,CE,215361,Rachel Marques,suplente,2021-02-01,2021-02-10,media,"vaga livre, mesma chave",Volta do titular
+CE-09,CE,129618,Gorete Pereira,suplente,2021-02-10,2021-04-21,alta,volta do titular,Volta do titular
+CE-09,CE,178866,Luizianne Lins,titular,2021-04-21,,,,Outro
+CE-10,CE,204487,Capitão Wagner,titular,2019-02-01,2020-08-03,,,Licença (afastamento conjunto)
+CE-10,CE,213854,Dr. Agripino Magalhães,suplente,2020-08-04,2020-12-02,alta,partido/federação,Volta do titular
+CE-10,CE,204487,Capitão Wagner,titular,2020-12-02,2022-03-14,,,Licença (afastamento conjunto)
+CE-10,CE,218879,Nelho Bezerra,suplente,2022-03-16,2022-07-14,alta,partido/federação,Volta do titular
+CE-10,CE,204487,Capitão Wagner,titular,2022-07-14,,,,Outro
+CE-11,CE,195866,Vaidon Oliveira,titular,2019-02-01,2020-07-01,,,Licença (afastamento conjunto)
+CE-11,CE,213856,Deuzinho Filho,suplente,2020-07-02,2020-10-30,alta,partido/federação,Volta do titular
+CE-11,CE,195866,Vaidon Oliveira,titular,2020-10-30,2022-06-02,,,Licença (afastamento conjunto)
+CE-11,CE,213854,Dr. Agripino Magalhães,suplente,2022-06-02,2022-10-01,alta,partido/federação,Volta do titular
+CE-11,CE,195866,Vaidon Oliveira,titular,2022-10-01,,,,Outro
+CE-12,CE,178997,Moses Rodrigues,titular,2019-02-01,2019-10-09,,,Licença (afastamento conjunto)
+CE-12,CE,122466,Ronaldo Martins,suplente,2019-10-09,2020-02-08,alta,única saída na UF (partido diferente),Volta do titular
+CE-12,CE,178997,Moses Rodrigues,titular,2020-02-08,2022-08-03,,,Licença (afastamento conjunto)
+CE-12,CE,122466,Ronaldo Martins,suplente,2022-08-03,2022-12-02,alta,única saída na UF (partido diferente),Volta do titular
+CE-12,CE,178997,Moses Rodrigues,titular,2022-12-02,,,,Outro
+CE-13,CE,204550,Júnior Mano,titular,2019-02-01,,,,Outro
+CE-14,CE,204549,AJ Albuquerque,titular,2019-02-01,,,,Outro
+CE-15,CE,204481,Dr. Jaziel,titular,2019-02-01,,,,Outro
+CE-16,CE,204542,Denis Bezerra,titular,2019-02-01,2021-04-13,,,Licença (afastamento conjunto)
+CE-16,CE,178868,Odorico Monteiro,suplente,2021-04-16,2021-08-12,alta,partido/federação,Volta do titular
+CE-16,CE,204542,Denis Bezerra,titular,2021-08-12,,,,Outro
+CE-17,CE,143632,Domingos Neto,titular,2019-02-01,2020-08-12,,,Licença (afastamento conjunto)
+CE-17,CE,122466,Ronaldo Martins,suplente,2020-08-12,2020-12-13,alta,única saída na UF (partido diferente),Volta do titular
+CE-17,CE,143632,Domingos Neto,titular,2020-12-13,,,,Outro
+CE-18,CE,74305,Roberto Pessoa,titular,2019-02-01,2020-06-17,,,Licença (afastamento conjunto)
+CE-18,CE,62881,Danilo Forte,suplente,2020-06-17,2020-10-16,alta,partido/federação,Volta do titular
+CE-18,CE,74305,Roberto Pessoa,titular,2020-10-16,2020-12-10,,,Renúncia
+CE-18,CE,62881,Danilo Forte,suplente,2020-12-10,2020-12-10,alta,partido/federação,Efetivação
+CE-18,CE,62881,Danilo Forte,efetivado,2020-12-10,,alta,efetivação,Outro
+CE-19,CE,204548,Heitor Freire,titular,2019-02-01,,,,Outro
+CE-20,CE,90201,Pedro Augusto Bezerra,titular,2019-02-01,,,,Outro
+CE-21,CE,204488,Célio Studart,titular,2019-02-01,,,,Outro
+CE-22,CE,160669,Genecias Noronha,titular,2019-02-01,,,,Outro
+MA-01,MA,178884,Hildo Rocha,titular,2019-02-01,2023-01-23,,,Renúncia
+MA-01,MA,182146,Wolmer Araújo,efetivado,2023-01-23,,alta,única saída na UF (partido diferente),Outro
+MA-02,MA,112437,João Marcelo Souza,titular,2019-02-01,2022-03-30,,,Licença (afastamento conjunto)
+MA-02,MA,178888,Victor Mendes,suplente,2022-03-30,2022-07-30,alta,partido/federação,Volta do titular
+MA-02,MA,112437,João Marcelo Souza,titular,2022-07-30,,,,Outro
+MA-03,MA,81055,Márcio Jerry,titular,2019-02-01,2021-01-11,,,Secretário de Estado
+MA-03,MA,74200,Gastão Vieira,suplente,2021-01-11,2021-01-29,baixa,vaga livre na UF,Volta do titular
+MA-03,MA,81055,Márcio Jerry,titular,2021-01-29,2021-02-01,,,Secretário de Estado
+MA-03,MA,168175,Simplício Araújo,suplente,2021-02-01,2021-02-02,alta,única saída na UF (partido diferente),Secretário de Estado
+MA-03,MA,74200,Gastão Vieira,suplente,2021-02-02,2021-11-08,alta,volta do titular,Volta do titular
+MA-03,MA,81055,Márcio Jerry,titular,2021-11-08,2021-11-12,,,Secretário de Estado
+MA-03,MA,74200,Gastão Vieira,suplente,2021-11-17,2022-04-05,alta,única saída na UF (partido diferente),Volta do titular
+MA-03,MA,81055,Márcio Jerry,titular,2022-04-05,,,,Outro
+MA-04,MA,178887,Rubens Pereira Júnior,titular,2019-02-01,2019-02-25,,,Secretário de Estado
+MA-04,MA,168175,Simplício Araújo,suplente,2019-02-26,2019-03-15,alta,única saída na UF (partido diferente),Secretário de Estado
+MA-04,MA,74200,Gastão Vieira,suplente,2019-03-19,2020-06-03,alta,volta do titular,Volta do titular
+MA-04,MA,178887,Rubens Pereira Júnior,titular,2020-06-03,2020-06-05,,,Licença (afastamento conjunto)
+MA-04,MA,74200,Gastão Vieira,suplente,2020-06-05,2020-10-04,alta,única saída na UF (partido diferente),Volta do titular
+MA-04,MA,178887,Rubens Pereira Júnior,titular,2020-10-04,2021-01-11,,,Secretário de Estado
+MA-04,MA,212625,Dr. Gonçalo,suplente,2021-01-11,2021-01-29,baixa,vaga livre na UF,Volta do titular
+MA-04,MA,178887,Rubens Pereira Júnior,titular,2021-01-29,2021-02-02,,,Secretário de Estado
+MA-04,MA,212625,Dr. Gonçalo,suplente,2021-02-02,2021-08-03,alta,volta do titular,Volta do titular
+MA-04,MA,178887,Rubens Pereira Júnior,titular,2021-08-03,,,,Outro
+MA-05,MA,204552,Eduardo Braide,titular,2019-02-01,2021-01-01,,,Renúncia
+MA-05,MA,215043,Josivaldo JP,efetivado,2021-01-01,,alta,única saída na UF (partido diferente),Outro
+MA-06,MA,204570,Pastor Gil,titular,2019-02-01,,,,Outro
+MA-07,MA,204563,Josimar Maranhãozinho,titular,2019-02-01,2020-02-11,,,Licença (afastamento conjunto)
+MA-07,MA,128760,Paulo Marinho Jr,suplente,2020-02-13,2020-06-11,alta,única saída na UF (partido diferente),Volta do titular
+MA-07,MA,204563,Josimar Maranhãozinho,titular,2020-06-11,2022-04-17,,,Licença (afastamento conjunto)
+MA-07,MA,128760,Paulo Marinho Jr,suplente,2022-04-19,2022-08-18,alta,única saída na UF (partido diferente),Volta do titular
+MA-07,MA,204563,Josimar Maranhãozinho,titular,2022-08-18,,,,Outro
+MA-08,MA,204574,Junior Lourenço,titular,2019-02-01,2020-06-20,,,Licença para tratamento de saúde
+MA-08,MA,128760,Paulo Marinho Jr,suplente,2020-06-24,2020-10-26,alta,única saída na UF (partido diferente),Volta do titular
+MA-08,MA,204574,Junior Lourenço,titular,2020-10-26,,,,Outro
+MA-09,MA,178886,Juscelino Filho,titular,2019-02-01,2023-01-01,,,Ministro de Estado
+MA-09,MA,168175,Simplício Araújo,suplente,2023-01-03,,alta,única saída na UF (partido diferente),Outro
+MA-10,MA,204566,Marreca Filho,titular,2019-02-01,,,,Outro
+MA-11,MA,204575,Gil Cutrim,titular,2019-02-01,,,,Outro
+MA-12,MA,178881,Aluisio Mendes,titular,2019-02-01,,,,Outro
+MA-13,MA,178882,André Fufuca,titular,2019-02-01,,,,Outro
+MA-14,MA,141408,Cleber Verde,titular,2019-02-01,2019-12-02,,,Licença (afastamento conjunto)
+MA-14,MA,212625,Dr. Gonçalo,suplente,2019-12-04,2020-04-02,alta,única saída na UF (partido diferente),Volta do titular
+MA-14,MA,141408,Cleber Verde,titular,2020-04-02,,,,Outro
+MA-15,MA,204561,Bira do Pindaré,titular,2019-02-01,,,,Outro
+MA-16,MA,204562,Edilázio Júnior,titular,2019-02-01,,,,Outro
+MA-17,MA,178889,Zé Carlos,titular,2019-02-01,,,,Outro
+MA-18,MA,122974,Pedro Lucas Fernandes,titular,2019-02-01,,,,Outro
+PB-01,PB,204421,Edna Henrique,titular,2019-02-01,2021-12-15,,,Licença para tratamento de saúde
+PB-01,PB,122195,Leonardo Gadelha,suplente,2021-12-23,2022-06-17,alta,única saída na UF (partido diferente),Volta do titular
+PB-01,PB,178912,Pedro Cunha Lima,titular,2022-06-17,,baixa,volta com a vaga ocupada,Outro
+PB-02,PB,178912,Pedro Cunha Lima,titular,2019-02-01,2021-04-08,,,Licença (afastamento conjunto)
+PB-02,PB,216313,Rafafá,suplente,2021-04-13,2021-07-29,alta,partido/federação,Volta do titular
+PB-02,PB,160635,Ruy Carneiro,titular,2021-07-29,,baixa,volta com a vaga ocupada,Outro
+PB-03,PB,160635,Ruy Carneiro,titular,2019-02-01,2021-03-30,,,Licença (afastamento conjunto)
+PB-03,PB,122195,Leonardo Gadelha,suplente,2021-03-31,2021-08-07,alta,única saída na UF (partido diferente),Volta do titular
+PB-03,PB,178912,Pedro Cunha Lima,titular,2021-08-07,2022-02-16,baixa,volta com a vaga ocupada,Licença (afastamento conjunto)
+PB-03,PB,218741,Patrick Dorneles,suplente,2022-02-22,2022-04-15,alta,partido/federação,Volta do titular
+PB-03,PB,204421,Edna Henrique,titular,2022-04-15,,baixa,volta com a vaga ocupada,Outro
+PB-04,PB,141422,Efraim Filho,titular,2019-02-01,,,,Outro
+PB-05,PB,74467,Damião Feliciano,titular,2019-02-01,,,,Outro
+PB-06,PB,160527,Aguinaldo Ribeiro,titular,2019-02-01,2022-07-15,,,Licença (afastamento conjunto)
+PB-06,PB,220008,Eliza Virgínia,suplente,2022-07-19,2022-11-13,alta,partido/federação,Volta do titular
+PB-06,PB,160527,Aguinaldo Ribeiro,titular,2022-11-13,,,,Outro
+PB-07,PB,74043,Wellington Roberto,titular,2019-02-01,,,,Outro
+PB-08,PB,160674,Hugo Motta,titular,2019-02-01,,,,Outro
+PB-09,PB,204394,Gervásio Maia,titular,2019-02-01,,,,Outro
+PB-10,PB,204420,Julian Lemos,titular,2019-02-01,,,,Outro
+PB-11,PB,204393,Frei Anastacio Ribeiro,titular,2019-02-01,,,,Outro
+PB-12,PB,74044,Wilson Santiago,titular,2019-02-01,2019-12-23,,,Outro
+PB-12,PB,74044,Wilson Santiago,titular,2020-02-05,,,,Outro
+PE-01,PE,160528,Danilo Cabral,titular,2019-02-01,,,,Outro
+PE-02,PE,72442,Felipe Carreras,titular,2019-02-01,,,,Outro
+PE-03,PE,74419,Gonzaga Patriota,titular,2019-02-01,,,,Outro
+PE-04,PE,204429,João H. Campos,titular,2019-02-01,2021-01-01,,,Renúncia
+PE-04,PE,92172,Milton Coelho,efetivado,2021-01-01,,alta,partido/federação,Outro
+PE-05,PE,178922,Tadeu Alencar,titular,2019-02-01,2023-01-02,,,Renúncia
+PE-05,PE,167614,Severino Ninho,efetivado,2023-01-02,,alta,partido/federação,Outro
+PE-06,PE,157130,Túlio Gadêlha,titular,2019-02-01,,,,Outro
+PE-07,PE,74439,Wolney Queiroz,titular,2019-02-01,,,,Outro
+PE-08,PE,141421,Eduardo da Fonte,titular,2019-02-01,,,,Outro
+PE-09,PE,92699,Fernando Monteiro,titular,2019-02-01,,,,Outro
+PE-10,PE,204422,Ossesio Silva,titular,2019-02-01,,,,Outro
+PE-11,PE,204425,Silvio Costa Filho,titular,2019-02-01,,,,Outro
+PE-12,PE,204426,Carlos Veras,titular,2019-02-01,,,,Outro
+PE-13,PE,204428,Marília Arraes,titular,2019-02-01,,,,Outro
+PE-14,PE,141431,Fernando Coelho Filho,titular,2019-02-01,,,,Outro
+PE-15,PE,141523,Raul Henry,titular,2019-02-01,,,,Outro
+PE-16,PE,160642,Pastor Eurico,titular,2019-02-01,,,,Outro
+PE-17,PE,73801,Renildo Calheiros,titular,2019-02-01,,,,Outro
+PE-18,PE,204427,Fernando Rodolfo,titular,2019-02-01,,,,Outro
+PE-19,PE,178920,Ricardo Teobaldo,titular,2019-02-01,,,,Outro
+PE-20,PE,178916,Daniel Coelho,titular,2019-02-01,2023-01-02,,,Secretário de Estado
+PE-20,PE,178923,Zeca Cavalcanti,suplente,2023-01-06,,baixa,vaga livre na UF,Outro
+PE-21,PE,178921,Sebastião Oliveira,titular,2019-02-01,,,,Outro
+PE-22,PE,204423,André Ferreira,titular,2019-02-01,,,,Outro
+PE-23,PE,74471,André de Paula,titular,2019-02-01,2023-01-02,,,Ministro de Estado
+PE-23,PE,219920,Fabio Barros,suplente,2023-01-02,,baixa,vaga livre na UF,Outro
+PE-24,PE,74478,Luciano Bivar,titular,2019-02-01,,,,Outro
+PE-25,PE,160665,Augusto Coutinho,titular,2019-02-01,,,,Outro
+PI-01,PI,67138,Iracema Portella,titular,2019-02-01,2022-04-04,,,Licença (afastamento conjunto)
+PI-01,PI,74319,Paes Landim,suplente,2022-04-04,2022-08-03,alta,única saída na UF (partido diferente),Volta do titular
+PI-01,PI,67138,Iracema Portella,titular,2022-08-03,,,,Outro
+PI-02,PI,204430,Margarete Coelho,titular,2019-02-01,2023-01-03,,,Renúncia
+PI-02,PI,74319,Paes Landim,suplente,2023-01-04,2023-01-04,alta,única saída na UF (partido diferente),Efetivação
+PI-02,PI,74319,Paes Landim,efetivado,2023-01-04,,alta,efetivação,Outro
+PI-03,PI,159237,Assis Carvalho,titular,2019-02-01,2020-07-05,,,Falecimento
+PI-03,PI,188097,Merlong Solano,suplente,2020-07-08,2020-07-08,alta,partido/federação,Efetivação
+PI-03,PI,188097,Merlong Solano,efetivado,2020-07-08,,alta,efetivação,Outro
+PI-04,PI,178925,Rejane Dias,titular,2019-02-01,2023-01-12,,,Renúncia
+PI-04,PI,151965,Maia Filho,efetivado,2023-01-12,,alta,única saída na UF (partido diferente),Outro
+PI-05,PI,204431,Marcos Aurélio Sampaio,titular,2019-02-01,,,,Outro
+PI-06,PI,191923,Flávio Nogueira,titular,2019-02-01,,,,Outro
+PI-07,PI,178924,Capitão Fábio Abreu,titular,2019-02-01,2019-03-28,,,Secretário de Estado
+PI-07,PI,188097,Merlong Solano,suplente,2019-03-28,2019-06-11,alta,única saída na UF (partido diferente),Secretário de Estado
+PI-07,PI,74319,Paes Landim,suplente,2019-06-11,2019-10-16,alta,volta do titular,Volta do titular
+PI-07,PI,178924,Capitão Fábio Abreu,titular,2019-10-16,2019-10-22,,,Secretário de Estado
+PI-07,PI,188097,Merlong Solano,suplente,2019-10-22,2019-11-05,alta,única saída na UF (partido diferente),Secretário de Estado
+PI-07,PI,74319,Paes Landim,suplente,2019-11-05,2020-06-12,alta,volta do titular,Volta do titular
+PI-07,PI,178924,Capitão Fábio Abreu,titular,2020-06-12,,,,Outro
+PI-08,PI,74459,Átila Lira,titular,2019-02-01,,,,Outro
+PI-09,PI,74317,Júlio Cesar,titular,2019-02-01,,,,Outro
+PI-10,PI,204432,Marina Santos,titular,2019-02-01,,,,Outro
+RN-01,RN,178952,Walter Alves,titular,2019-02-01,2023-01-01,,,Renúncia
+RN-01,RN,180018,Thiago Cartaxo,efetivado,2023-01-01,,alta,única saída na UF (partido diferente),Outro
+RN-02,RN,178948,Beto Rosado,titular,2019-02-01,,,,Outro
+RN-03,RN,141459,João Maia,titular,2019-02-01,,,,Outro
+RN-04,RN,178951,Rafael Motta,titular,2019-02-01,,,,Outro
+RN-05,RN,141428,Fábio Faria,titular,2019-02-01,2020-06-17,,,Ministro de Estado
+RN-05,RN,213762,Carla Dickson,suplente,2020-06-17,2022-12-22,alta,única saída na UF (partido diferente),Volta do titular
+RN-05,RN,141428,Fábio Faria,titular,2022-12-22,,,,Outro
+RN-06,RN,204473,General Girão,titular,2019-02-01,,,,Outro
+RN-07,RN,204453,Natália Bonavides,titular,2019-02-01,,,,Outro
+RN-08,RN,109429,Benes Leocádio,titular,2019-02-01,,,,Outro
+SE-01,SE,171623,Fabio Reis,titular,2019-02-01,,,,Outro
+SE-02,SE,68720,Fábio Henrique,titular,2019-02-01,,,,Outro
+SE-03,SE,151208,Laercio Oliveira,titular,2019-02-01,,,,Outro
+SE-04,SE,74052,Bosco Costa,titular,2019-02-01,,,,Outro
+SE-05,SE,204385,Valdevan Noventa,titular,2019-02-01,2022-04-27,,,Perda de mandato
+SE-05,SE,160542,Márcio Macêdo,titular,2022-04-27,2022-06-03,baixa,vaga livre,Recontagem/retotalização
+SE-05,SE,204385,Valdevan Noventa,titular,2022-06-03,2022-06-14,alta,recontagem/retotalização,Perda de mandato
+SE-05,SE,160542,Márcio Macêdo,titular,2022-06-14,2023-01-01,alta,volta à vaga que já foi dele,Ministro de Estado
+SE-05,SE,221183,Márcio Dória,suplente,2023-01-06,,baixa,vaga livre na UF,Outro
+SE-06,SE,178969,Fábio Mitidieri,titular,2019-02-01,2022-07-04,,,Licença (afastamento conjunto)
+SE-06,SE,105534,Alexandre Figueiredo,suplente,2022-07-06,2022-11-03,alta,única saída na UF (partido diferente),Volta do titular
+SE-06,SE,178969,Fábio Mitidieri,titular,2022-11-03,2023-01-01,,,Renúncia
+SE-06,SE,105534,Alexandre Figueiredo,efetivado,2023-01-01,,baixa,vaga livre na UF,Outro
+SE-07,SE,178970,João Daniel,titular,2019-02-01,,,,Outro
+SE-08,SE,204408,Gustinho Ribeiro,titular,2019-02-01,,,,Outro
+DF-01,DF,204381,Luis Miranda,titular,2019-02-01,,,,Outro
+DF-02,DF,204380,Celina Leão,titular,2019-02-01,2020-05-21,,,Secretário de Estado
+DF-02,DF,74806,Tadeu Filippelli,suplente,2020-05-21,2020-12-11,alta,única saída na UF (partido diferente),Volta do titular
+DF-02,DF,204380,Celina Leão,titular,2020-12-11,2023-01-01,,,Renúncia
+DF-02,DF,211498,Renato Santana,suplente,2023-01-01,,baixa,vaga livre na UF,Outro
+DF-03,DF,204377,Paula Belmonte,titular,2019-02-01,2023-01-01,,,Renúncia
+DF-03,DF,204011,Marcos Pacco,efetivado,2023-01-01,,baixa,vaga livre na UF,Outro
+DF-04,DF,204354,Flávia Arruda,titular,2019-02-01,2021-03-31,,,Ministro de Estado
+DF-04,DF,141478,Laerte Bessa,suplente,2021-04-07,2022-03-31,alta,partido/federação,Volta do titular
+DF-04,DF,204354,Flávia Arruda,titular,2022-03-31,,,,Outro
+DF-05,DF,204372,Julio Cesar Ribeiro,titular,2019-02-01,2023-01-01,,,Secretário de Estado
+DF-05,DF,74806,Tadeu Filippelli,efetivado,2023-01-01,,baixa,vaga livre na UF,Outro
+DF-06,DF,204374,Bia Kicis,titular,2019-02-01,,,,Outro
+DF-07,DF,160575,Erika Kokay,titular,2019-02-01,,,,Outro
+DF-08,DF,204383,Professor Israel Batista,titular,2019-02-01,,,,Outro
+GO-01,GO,204412,Dr. Zacharias Calil,titular,2019-02-01,,,,Outro
+GO-02,GO,204386,Jose Mario Schreiner,titular,2019-02-01,,,,Outro
+GO-03,GO,121948,Adriano do Baldy,titular,2019-02-01,,,,Outro
+GO-04,GO,204390,Professor Alcides,titular,2019-02-01,,,,Outro
+GO-05,GO,164359,Delegado Waldir,titular,2019-02-01,,,,Outro
+GO-06,GO,179587,Major Vitor Hugo,titular,2019-02-01,,,,Outro
+GO-07,GO,160598,Flávia Morais,titular,2019-02-01,,,,Outro
+GO-08,GO,204391,José Nelto,titular,2019-02-01,,,,Outro
+GO-09,GO,166402,Magda Mofatto,titular,2019-02-01,,,,Outro
+GO-10,GO,74366,João Campos,titular,2019-02-01,,,,Outro
+GO-11,GO,204413,Alcides Rodrigues,titular,2019-02-01,,,,Outro
+GO-12,GO,204389,Elias Vaz,titular,2019-02-01,,,,Outro
+GO-13,GO,204419,Glaustin da Fokus,titular,2019-02-01,,,,Outro
+GO-14,GO,204392,Francisco Jr.,titular,2019-02-01,,,,Outro
+GO-15,GO,178876,Célio Silveira,titular,2019-02-01,,,,Outro
+GO-16,GO,74371,Rubens Otoni,titular,2019-02-01,,,,Outro
+GO-17,GO,178879,Lucas Vergilio,titular,2019-02-01,,,,Outro
+MS-01,MS,204358,Beto Pereira,titular,2019-02-01,,,,Outro
+MS-02,MS,204357,Rose Modesto,titular,2019-02-01,,,,Outro
+MS-03,MS,204351,Dr. Luiz Ovando,titular,2019-02-01,,,,Outro
+MS-04,MS,204382,Loester Trutis,titular,2019-02-01,,,,Outro
+MS-05,MS,178901,Tereza Cristina,titular,2019-02-01,2019-02-05,,,Ministro de Estado
+MS-05,MS,74374,Geraldo Resende,suplente,2019-02-05,2019-02-06,alta,única saída na UF (partido diferente),Secretário de Estado
+MS-05,MS,207176,Bia Cavassa,suplente,2019-02-06,2019-07-09,alta,volta do titular,Volta do titular
+MS-05,MS,178901,Tereza Cristina,titular,2019-07-09,2019-07-16,,,Ministro de Estado
+MS-05,MS,74374,Geraldo Resende,suplente,2019-07-16,2019-07-17,alta,única saída na UF (partido diferente),Secretário de Estado
+MS-05,MS,207176,Bia Cavassa,suplente,2019-07-17,2019-08-06,alta,volta do titular,Volta do titular
+MS-05,MS,178901,Tereza Cristina,titular,2019-08-06,2019-08-08,,,Ministro de Estado
+MS-05,MS,74374,Geraldo Resende,suplente,2019-08-08,2019-08-09,alta,única saída na UF (partido diferente),Secretário de Estado
+MS-05,MS,207176,Bia Cavassa,suplente,2019-08-09,2021-01-29,alta,volta do titular,Volta do titular
+MS-05,MS,178901,Tereza Cristina,titular,2021-01-29,2021-02-02,,,Ministro de Estado
+MS-05,MS,74374,Geraldo Resende,suplente,2021-02-02,2021-02-03,alta,única saída na UF (partido diferente),Secretário de Estado
+MS-05,MS,207176,Bia Cavassa,suplente,2021-02-03,2022-03-31,alta,volta do titular,Volta do titular
+MS-05,MS,178901,Tereza Cristina,titular,2022-03-31,,,,Outro
+MS-06,MS,141411,Dagoberto Nogueira,titular,2019-02-01,,,,Outro
+MS-07,MS,160587,Fábio Trad,titular,2019-02-01,,,,Outro
+MS-08,MS,74376,Vander Loubet,titular,2019-02-01,,,,Outro
+MT-01,MT,141401,Carlos Bezerra,titular,2019-02-01,2019-02-27,,,Licença (afastamento conjunto)
+MT-01,MT,141552,Valtenir Pereira,suplente,2019-02-27,2019-06-29,alta,partido/federação,Volta do titular
+MT-01,MT,141401,Carlos Bezerra,titular,2019-06-29,2021-05-12,,,Licença (afastamento conjunto)
+MT-01,MT,141552,Valtenir Pereira,suplente,2021-05-12,2021-10-10,alta,partido/federação,Volta do titular
+MT-01,MT,141401,Carlos Bezerra,titular,2021-10-10,2022-03-01,,,Licença (afastamento conjunto)
+MT-01,MT,141552,Valtenir Pereira,suplente,2022-03-02,2022-07-15,alta,partido/federação,Volta do titular
+MT-01,MT,141401,Carlos Bezerra,titular,2022-07-15,,,,Outro
+MT-02,MT,204474,Juarez Costa,titular,2019-02-01,,,,Outro
+MT-03,MT,204472,José Medeiros,titular,2019-02-01,,,,Outro
+MT-04,MT,146307,Neri Geller,titular,2019-02-01,,,,Outro
+MT-05,MT,204449,Nelson Barbudo,titular,2019-02-01,,,,Outro
+MT-06,MT,204467,Professora Rosa Neide,titular,2019-02-01,,,,Outro
+MT-07,MT,198783,Emanuel Pinheiro Neto,titular,2019-02-01,,,,Outro
+MT-08,MT,204439,Dr. Leonardo,titular,2019-02-01,,,,Outro
+ES-01,ES,204371,Felipe Rigoni,titular,2019-02-01,,,,Outro
+ES-02,ES,160517,Paulo Folletto,titular,2019-02-01,2019-02-05,,,Secretário de Estado
+ES-02,ES,206231,Ted Conti,suplente,2019-02-05,2022-03-30,alta,partido/federação,Volta do titular
+ES-02,ES,160517,Paulo Folletto,titular,2022-03-30,,,,Outro
+ES-03,ES,66179,Norma Ayub,titular,2019-02-01,,,,Outro
+ES-04,ES,178874,Sergio Vidigal,titular,2019-02-01,2020-12-31,,,Renúncia
+ES-04,ES,74165,Neucimar Fraga,efetivado,2021-01-01,,alta,única saída na UF (partido diferente),Outro
+ES-05,ES,178871,Evair Vieira de Melo,titular,2019-02-01,,,,Outro
+ES-06,ES,204355,Da Vitoria,titular,2019-02-01,,,,Outro
+ES-07,ES,160534,Lauriete,titular,2019-02-01,,,,Outro
+ES-08,ES,204356,Amaro Neto,titular,2019-02-01,,,,Outro
+ES-09,ES,81297,Dra. Soraya Manato,titular,2019-02-01,,,,Outro
+ES-10,ES,178873,Helder Salomão,titular,2019-02-01,,,,Outro
+MG-01,MG,74156,Leonardo Monteiro,titular,2019-02-01,,,,Outro
+MG-02,MG,171619,Margarida Salomão,titular,2019-02-01,2021-01-01,,,Renúncia
+MG-02,MG,141372,Aelton Freitas,efetivado,2021-01-01,,alta,única saída na UF (partido diferente),Outro
+MG-03,MG,74159,Odair Cunha,titular,2019-02-01,,,,Outro
+MG-04,MG,160556,Padre João,titular,2019-02-01,,,,Outro
+MG-05,MG,74160,Patrus Ananias,titular,2019-02-01,,,,Outro
+MG-06,MG,204492,Paulo Guedes,titular,2019-02-01,,,,Outro
+MG-07,MG,74161,Reginaldo Lopes,titular,2019-02-01,,,,Outro
+MG-08,MG,204480,Rogério Correia,titular,2019-02-01,,,,Outro
+MG-09,MG,204545,Alê Silva,titular,2019-02-01,,,,Outro
+MG-10,MG,204490,Charlles Evangelista,titular,2019-02-01,,,,Outro
+MG-11,MG,204512,Delegado Marcelo Freitas,titular,2019-02-01,,,,Outro
+MG-12,MG,204520,Junio Amaral,titular,2019-02-01,,,,Outro
+MG-13,MG,204547,Léo Motta,titular,2019-02-01,,,,Outro
+MG-14,MG,179000,Marcelo Álvaro Antônio,titular,2019-02-06,2019-02-07,,,Ministro de Estado
+MG-14,MG,207309,Enéias Reis,suplente,2019-02-07,2019-07-09,alta,partido/federação,Volta do titular
+MG-14,MG,179000,Marcelo Álvaro Antônio,titular,2019-07-09,2019-07-16,,,Ministro de Estado
+MG-14,MG,207309,Enéias Reis,suplente,2019-07-16,2019-08-06,alta,partido/federação,Volta do titular
+MG-14,MG,179000,Marcelo Álvaro Antônio,titular,2019-08-06,2019-08-08,,,Ministro de Estado
+MG-14,MG,207309,Enéias Reis,suplente,2019-08-08,2020-12-11,alta,partido/federação,Volta do titular
+MG-14,MG,179000,Marcelo Álvaro Antônio,titular,2020-12-11,,,,Outro
+MG-15,MG,74646,Aécio Neves,titular,2019-02-01,,,,Outro
+MG-16,MG,160758,Domingos Sávio,titular,2019-02-01,,,,Outro
+MG-17,MG,74655,Eduardo Barbosa,titular,2019-02-01,,,,Outro
+MG-18,MG,141516,Paulo Abi-Ackel,titular,2019-02-01,,,,Outro
+MG-19,MG,141531,Rodrigo de Castro,titular,2019-02-01,,,,Outro
+MG-20,MG,141427,Fábio Ramalho,titular,2019-02-01,,,,Outro
+MG-21,MG,204539,Hercílio Coelho Diniz,titular,2019-02-01,,,,Outro
+MG-22,MG,74749,Mauro Lopes,titular,2019-02-01,,,,Outro
+MG-23,MG,178896,Newton Cardoso Jr,titular,2019-02-01,,,,Outro
+MG-24,MG,204515,André Janones,titular,2019-02-01,,,,Outro
+MG-25,MG,198197,Greyce Elias,titular,2019-02-01,2019-11-07,,,Licença (afastamento conjunto)
+MG-25,MG,212504,Fernando Borja,suplente,2019-11-12,2020-02-29,alta,partido/federação,Outro
+MG-25,MG,198197,Greyce Elias,titular,2020-03-07,,,,Outro
+MG-26,MG,160510,Luis Tibé,titular,2019-02-01,,,,Outro
+MG-27,MG,161550,Emidinho Madeira,titular,2019-02-01,,,,Outro
+MG-28,MG,73586,Júlio Delgado,titular,2019-02-01,,,,Outro
+MG-29,MG,204483,Vilson da Fetaemg,titular,2019-02-01,,,,Outro
+MG-30,MG,160588,Diego Andrade,titular,2019-02-01,,,,Outro
+MG-31,MG,178895,Misael Varella,titular,2019-02-01,,,,Outro
+MG-32,MG,92776,Stefano Aguiar,titular,2019-02-01,,,,Outro
+MG-33,MG,204523,Lucas Gonzalez,titular,2019-02-01,,,,Outro
+MG-34,MG,204519,Tiago Mitraud,titular,2019-02-01,,,,Outro
+MG-35,MG,204518,Dr. Frederico,titular,2019-02-01,,,,Outro
+MG-36,MG,204494,Fred Costa,titular,2019-02-01,,,,Outro
+MG-37,MG,74158,Mário Heringer,titular,2019-02-01,,,,Outro
+MG-38,MG,177282,Subtenente Gonzaga,titular,2019-02-01,,,,Outro
+MG-39,MG,204510,Franco Cartafina,titular,2019-02-01,,,,Outro
+MG-40,MG,146788,Marcelo Aro,titular,2019-02-01,,,,Outro
+MG-41,MG,160599,Dimas Fabiano,titular,2019-02-01,,,,Outro
+MG-42,MG,204524,Pinheirinho,titular,2019-02-01,,,,Outro
+MG-43,MG,204491,Gilberto Abramo,titular,2019-02-01,,,,Outro
+MG-44,MG,98057,Lafayette de Andrada,titular,2019-02-01,,,,Outro
+MG-45,MG,160640,Eros Biondini,titular,2019-02-01,,,,Outro
+MG-46,MG,160518,Weliton Prado,titular,2019-02-01,,,,Outro
+MG-47,MG,141513,Bilac Pinto,titular,2019-02-01,2019-08-29,,,Secretário de Estado
+MG-47,MG,211866,Fabiano Tolentino,suplente,2019-08-29,2020-03-25,alta,única saída na UF (partido diferente),Volta do titular
+MG-47,MG,141513,Bilac Pinto,titular,2020-03-25,,,,Outro
+MG-48,MG,204517,Zé Vitor,titular,2019-02-01,,,,Outro
+MG-49,MG,204508,Igor Timo,titular,2019-02-01,,,,Outro
+MG-50,MG,74585,Lincoln Portela,titular,2019-02-01,,,,Outro
+MG-51,MG,204482,Euclydes Pettersen,titular,2019-02-01,,,,Outro
+MG-52,MG,204509,Áurea Carolina,titular,2019-02-01,2020-02-04,,,Outro
+MG-52,MG,204509,Áurea Carolina,titular,2020-06-03,,,,Outro
+MG-53,MG,160632,Zé Silva,titular,2019-02-01,,,,Outro
+RJ-01,RJ,204460,Carlos Jordy,titular,2019-02-01,,,,Outro
+RJ-02,RJ,204462,Chris Tonietto,titular,2019-02-01,,,,Outro
+RJ-03,RJ,204454,Daniel Silveira,titular,2019-02-01,,,,Outro
+RJ-04,RJ,204451,Delegado Antônio Furtado,titular,2019-02-01,,,,Outro
+RJ-05,RJ,204477,Felício Laterça,titular,2019-02-01,,,,Outro
+RJ-06,RJ,204442,Gurgel,titular,2019-02-01,,,,Outro
+RJ-07,RJ,204444,Helio Lopes,titular,2019-02-01,,,,Outro
+RJ-08,RJ,196358,Lourival Gomes,titular,2019-02-01,,,,Outro
+RJ-09,RJ,204455,Luiz Lima,titular,2019-02-01,,,,Outro
+RJ-10,RJ,204458,Major Fabiana,titular,2019-02-01,2019-08-07,,,Secretário de Estado
+RJ-10,RJ,211649,Ricardo Pericar,suplente,2019-08-07,2019-10-24,alta,partido/federação,Volta do titular
+RJ-10,RJ,204458,Major Fabiana,titular,2019-10-24,,,,Outro
+RJ-11,RJ,204452,Márcio Labre,titular,2019-02-01,,,,Outro
+RJ-12,RJ,204446,Professor Joziel,titular,2019-02-01,,,,Outro
+RJ-13,RJ,204457,Juninho do Pneu,titular,2019-02-01,2021-06-16,,,Secretário de Estado
+RJ-13,RJ,74856,Laura Carneiro,suplente,2021-06-23,2021-06-24,alta,partido/federação,Secretário municipal (capital)
+RJ-13,RJ,74254,Leonardo Picciani,suplente,2021-06-25,2021-08-10,baixa,vaga livre na UF,Volta do titular
+RJ-13,RJ,122158,Pedro Paulo,titular,2021-08-10,2021-08-11,baixa,volta com a vaga ocupada,Secretário municipal (capital)
+RJ-13,RJ,74856,Laura Carneiro,suplente,2021-08-12,2021-08-13,alta,partido/federação,Secretário municipal (capital)
+RJ-13,RJ,217480,Jones Moura,efetivado,2021-09-15,,baixa,vaga livre na UF,Outro
+RJ-14,RJ,122158,Pedro Paulo,titular,2019-02-01,2021-01-01,,,Secretário municipal (capital)
+RJ-14,RJ,178943,Marcos Soares,suplente,2021-01-02,2021-01-27,alta,partido/federação,Volta do titular
+RJ-14,RJ,122158,Pedro Paulo,titular,2021-01-27,2021-02-04,,,Secretário municipal (capital)
+RJ-14,RJ,178943,Marcos Soares,suplente,2021-02-04,2021-02-24,alta,partido/federação,Volta do titular
+RJ-14,RJ,122158,Pedro Paulo,titular,2021-02-24,2021-03-03,,,Secretário municipal (capital)
+RJ-14,RJ,178943,Marcos Soares,suplente,2021-03-03,2021-04-19,alta,partido/federação,Volta do titular
+RJ-14,RJ,122158,Pedro Paulo,titular,2021-04-19,2021-04-20,,,Secretário de Estado
+RJ-14,RJ,178943,Marcos Soares,suplente,2021-04-20,2021-11-18,alta,partido/federação,Volta do titular
+RJ-14,RJ,204478,Vinicius Farah,titular,2021-11-18,2021-11-19,baixa,volta com a vaga ocupada,Secretário de Estado
+RJ-14,RJ,74253,Julio Lopes,suplente,2021-11-19,2022-04-01,baixa,vaga livre na UF,Volta do titular
+RJ-14,RJ,122158,Pedro Paulo,titular,2022-04-01,,,,Outro
+RJ-15,RJ,74693,Rodrigo Maia,titular,2019-02-01,2021-08-31,,,Secretário de Estado
+RJ-15,RJ,191945,Zé Augusto Nalin,suplente,2021-08-31,2021-10-27,alta,partido/federação,Volta do titular
+RJ-15,RJ,74693,Rodrigo Maia,titular,2021-10-27,2021-11-30,,,Secretário de Estado
+RJ-15,RJ,74254,Leonardo Picciani,suplente,2021-11-30,2022-04-01,baixa,vaga livre na UF,Volta do titular
+RJ-15,RJ,204478,Vinicius Farah,titular,2022-04-01,,baixa,volta com a vaga ocupada,Outro
+RJ-16,RJ,178947,Sóstenes Cavalcante,titular,2019-02-01,,,,Outro
+RJ-17,RJ,205548,David Miranda,efetivado,2019-02-01,,alta,posse em vaga sem titular original,Outro
+RJ-18,RJ,152605,Glauber Braga,titular,2019-02-01,,,,Outro
+RJ-19,RJ,76874,Marcelo Freixo,titular,2019-02-01,2023-01-17,,,Renúncia
+RJ-20,RJ,204464,Talíria Petrone,titular,2019-02-01,,,,Outro
+RJ-21,RJ,204459,Daniela do Waguinho,titular,2019-02-01,2023-01-01,,,Ministro de Estado
+RJ-21,RJ,178943,Marcos Soares,suplente,2023-01-01,,baixa,vaga livre na UF,Outro
+RJ-22,RJ,204456,Gutemberg Reis,titular,2019-02-01,,,,Outro
+RJ-23,RJ,204478,Vinicius Farah,titular,2019-02-01,2021-06-14,,,Secretário de Estado
+RJ-23,RJ,74253,Julio Lopes,suplente,2021-06-15,2021-11-12,baixa,vaga livre na UF,Volta do titular
+RJ-23,RJ,122158,Pedro Paulo,titular,2021-11-12,2021-11-19,baixa,volta com a vaga ocupada,Secretário municipal (capital)
+RJ-23,RJ,178943,Marcos Soares,suplente,2021-11-19,2022-10-05,alta,partido/federação,Volta do titular
+RJ-23,RJ,74693,Rodrigo Maia,titular,2022-10-05,,baixa,volta com a vaga ocupada,Outro
+RJ-24,RJ,178833,Alexandre Serfiotis,titular,2019-02-01,2021-01-01,,,Renúncia
+RJ-24,RJ,215045,Pedro Augusto Palareti,efetivado,2021-01-01,,alta,partido/federação,Outro
+RJ-25,RJ,204447,Flordelis,titular,2019-02-01,2021-08-12,,,Perda de mandato
+RJ-25,RJ,74254,Leonardo Picciani,suplente,2021-08-13,2021-11-03,alta,única saída na UF (partido diferente),Volta do titular
+RJ-25,RJ,204478,Vinicius Farah,titular,2021-11-03,2021-11-04,baixa,volta com a vaga ocupada,Secretário de Estado
+RJ-25,RJ,74254,Leonardo Picciani,suplente,2021-11-04,2021-11-09,alta,partido/federação,Volta do titular
+RJ-25,RJ,204457,Juninho do Pneu,titular,2021-11-09,2021-11-22,baixa,volta com a vaga ocupada,Secretário de Estado
+RJ-25,RJ,204457,Juninho do Pneu,titular,2021-11-24,,baixa,volta com a vaga ocupada,Outro
+RJ-26,RJ,141450,Hugo Leal,titular,2019-02-01,2023-01-05,,,Secretário de Estado
+RJ-26,RJ,141379,Andreia Zito,suplente,2023-01-05,2023-01-27,alta,partido/federação,Volta do titular
+RJ-26,RJ,141450,Hugo Leal,titular,2023-01-27,,,,Outro
+RJ-27,RJ,141439,Chico D'Angelo,titular,2019-02-01,,,,Outro
+RJ-28,RJ,133968,Paulo Ramos,titular,2019-02-01,,,,Outro
+RJ-29,RJ,204440,Christino Aureo,titular,2019-02-01,,,,Outro
+RJ-30,RJ,204450,Doutor Luizinho,titular,2019-02-01,2023-01-02,,,Secretário de Estado
+RJ-30,RJ,74253,Julio Lopes,suplente,2023-01-02,,alta,partido/federação,Outro
+RJ-31,RJ,178937,Altineu Côrtes,titular,2019-02-01,2019-12-18,,,Secretário de Estado
+RJ-31,RJ,212749,Marcão Gomes,suplente,2019-12-18,2020-10-08,alta,partido/federação,Volta do titular
+RJ-31,RJ,178937,Altineu Côrtes,titular,2020-10-08,,,,Outro
+RJ-32,RJ,178946,Soraya Santos,titular,2019-02-01,,,,Outro
+RJ-33,RJ,205550,Jorge Braz,efetivado,2019-02-01,,alta,posse em vaga sem titular original,Outro
+RJ-34,RJ,178945,Rosangela Gomes,titular,2019-02-01,,,,Outro
+RJ-35,RJ,204476,Chiquinho Brazão,titular,2019-02-01,,,,Outro
+RJ-36,RJ,204448,Luiz Antonio Corrêa,titular,2019-02-01,,,,Outro
+RJ-37,RJ,204461,Paulo Ganime,titular,2019-02-01,,,,Outro
+RJ-38,RJ,74848,Jandira Feghali,titular,2019-02-01,,,,Outro
+RJ-39,RJ,115746,Gelson Azevedo,titular,2019-02-01,,,,Outro
+RJ-40,RJ,204433,Marcelo Calero,titular,2019-02-01,2021-01-01,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-01-02,2021-01-29,alta,única saída na UF (partido diferente),Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2021-01-29,2021-02-03,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-02-03,2021-02-19,alta,volta do titular,Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2021-02-19,2021-02-20,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-02-20,2021-02-25,alta,única saída na UF (partido diferente),Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2021-02-25,2021-03-03,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-03-03,2021-03-25,alta,volta do titular,Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2021-03-25,2021-03-29,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-03-29,2021-07-07,alta,única saída na UF (partido diferente),Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2021-07-07,2021-07-19,,,Secretário de Estado
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-07-19,2021-08-10,alta,única saída na UF (partido diferente),Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2021-08-10,2021-08-16,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-08-16,2021-10-19,alta,única saída na UF (partido diferente),Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2021-10-19,2021-10-22,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-10-22,2021-11-16,alta,única saída na UF (partido diferente),Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2021-11-16,2021-11-19,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2021-11-19,2022-02-23,alta,volta do titular,Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2022-02-23,2022-03-02,,,Secretário municipal (capital)
+RJ-40,RJ,141515,Otavio Leite,suplente,2022-03-02,2022-04-01,alta,única saída na UF (partido diferente),Volta do titular
+RJ-40,RJ,204433,Marcelo Calero,titular,2022-04-01,,,,Outro
+RJ-41,RJ,178939,Clarissa Garotinho,titular,2019-02-01,,,,Outro
+RJ-42,RJ,204463,Wladimir Garotinho,titular,2019-02-01,2021-01-01,,,Renúncia
+RJ-42,RJ,215042,Ricardo da Karol,efetivado,2021-01-01,,alta,partido/federação,Outro
+RJ-43,RJ,160511,Alessandro Molon,titular,2019-02-01,,,,Outro
+RJ-44,RJ,204441,Otoni de Paula,titular,2019-02-01,,,,Outro
+RJ-45,RJ,73701,Benedita da Silva,titular,2019-02-01,,,,Outro
+RJ-46,RJ,160512,Aureo Ribeiro,titular,2019-02-01,,,,Outro
+SP-01,SP,204521,Abou Anni,titular,2019-02-01,,,,Outro
+SP-02,SP,204544,Alexandre Frota,titular,2019-02-01,,,,Outro
+SP-03,SP,204502,Bozzella,titular,2019-02-01,,,,Outro
+SP-04,SP,204507,Carla Zambelli,titular,2019-02-01,,,,Outro
+SP-05,SP,204514,Coronel Tadeu,titular,2019-02-01,,,,Outro
+SP-06,SP,92346,Eduardo Bolsonaro,titular,2019-02-01,,,,Outro
+SP-07,SP,204484,General Peternelli,titular,2019-02-01,,,,Outro
+SP-08,SP,204513,Guiga Peixoto,titular,2019-02-01,,,,Outro
+SP-09,SP,204546,Joice Hasselmann,titular,2019-02-01,,,,Outro
+SP-10,SP,204526,Luiz Philippe de Orleans e Bragança,titular,2019-02-01,,,,Outro
+SP-11,SP,204501,Alencar Santana,titular,2019-02-01,,,,Outro
+SP-12,SP,204503,Alexandre Padilha,titular,2019-02-01,2023-01-01,,,Ministro de Estado
+SP-12,SP,221148,Alfredinho,suplente,2023-01-01,,media,"vaga livre, mesma chave",Outro
+SP-13,SP,73433,Arlindo Chinaglia,titular,2019-02-01,,,,Outro
+SP-14,SP,141398,Carlos Zarattini,titular,2019-02-01,,,,Outro
+SP-15,SP,178986,Nilto Tatto,titular,2019-02-01,,,,Outro
+SP-16,SP,141488,Paulo Teixeira,titular,2019-02-01,2023-01-01,,,Ministro de Estado
+SP-16,SP,178984,Miguel Haddad,suplente,2023-01-01,,baixa,vaga livre na UF,Outro
+SP-17,SP,73604,Rui Falcão,titular,2019-02-01,,,,Outro
+SP-18,SP,74283,Vicentinho,titular,2019-02-01,,,,Outro
+SP-19,SP,178829,Capitão Augusto,titular,2019-02-01,,,,Outro
+SP-20,SP,204485,Luiz Carlos Motta,titular,2019-02-01,,,,Outro
+SP-21,SP,178983,Marcio Alvino,titular,2019-02-01,,,,Outro
+SP-22,SP,178985,Miguel Lombardi,titular,2019-02-01,,,,Outro
+SP-23,SP,160558,Paulo Freire Costa,titular,2019-02-01,,,,Outro
+SP-24,SP,204529,Policial Katia Sastre,titular,2019-02-01,,,,Outro
+SP-25,SP,160976,Tiririca,titular,2019-02-01,,,,Outro
+SP-26,SP,73441,Celso Russomanno,titular,2019-02-01,,,,Outro
+SP-27,SP,204506,Marcos Pereira,titular,2019-02-01,,,,Outro
+SP-28,SP,204540,Maria Rosas,titular,2019-02-01,2021-12-15,,,Licença (afastamento conjunto)
+SP-28,SP,118594,Marcelo Squassoni,suplente,2021-12-15,2022-03-10,alta,partido/federação,Volta do titular
+SP-28,SP,118594,Marcelo Squassoni,suplente,2022-03-10,2022-04-15,alta,volta do titular,Volta do titular
+SP-28,SP,204540,Maria Rosas,titular,2022-04-15,,,,Outro
+SP-29,SP,154178,Milton Vieira,titular,2019-02-01,2021-06-18,,,Licença (afastamento conjunto)
+SP-29,SP,217036,Henrique do Paraíso,suplente,2021-06-23,2021-10-17,alta,partido/federação,Volta do titular
+SP-29,SP,154178,Milton Vieira,titular,2021-10-17,,,,Outro
+SP-30,SP,152610,Roberto Alves,titular,2019-02-01,2021-11-08,,,Licença (afastamento conjunto)
+SP-30,SP,218086,Ely Santos,suplente,2021-11-09,2022-03-10,alta,partido/federação,Renúncia
+SP-30,SP,152610,Roberto Alves,titular,2022-03-10,,,,Outro
+SP-31,SP,141555,Vinicius Carvalho,titular,2019-02-01,,,,Outro
+SP-32,SP,160589,Bruna Furlan,titular,2019-02-01,2022-04-18,,,Licença (afastamento conjunto)
+SP-32,SP,154919,Eleuses Paiva,suplente,2022-04-26,2022-08-17,alta,única saída na UF (partido diferente),Volta do titular
+SP-32,SP,160589,Bruna Furlan,titular,2022-08-17,,,,Outro
+SP-33,SP,74262,Carlos Sampaio,titular,2019-02-01,,,,Outro
+SP-34,SP,178977,Eduardo Cury,titular,2019-02-01,,,,Outro
+SP-35,SP,178990,Samuel Moreira,titular,2019-02-01,,,,Outro
+SP-36,SP,141553,Vanderlei Macris,titular,2019-02-01,,,,Outro
+SP-37,SP,178992,Vitor Lippi,titular,2019-02-01,,,,Outro
+SP-38,SP,160545,Alexandre Leite,titular,2019-02-01,,,,Outro
+SP-39,SP,204511,David Soares,titular,2019-02-01,2021-11-11,,,Licença (afastamento conjunto)
+SP-39,SP,178984,Miguel Haddad,suplente,2021-11-11,2022-03-13,alta,única saída na UF (partido diferente),Volta do titular
+SP-39,SP,204511,David Soares,titular,2022-03-13,,,,Outro
+SP-40,SP,160532,Eli Corrêa Filho,titular,2019-02-01,2019-12-12,,,Licença (afastamento conjunto)
+SP-40,SP,178984,Miguel Haddad,suplente,2019-12-13,2020-04-16,alta,única saída na UF (partido diferente),Volta do titular
+SP-40,SP,160532,Eli Corrêa Filho,titular,2020-04-16,,,,Outro
+SP-41,SP,204527,Geninho Zuliani,titular,2019-02-01,,,,Outro
+SP-42,SP,204536,Kim Kataguiri,titular,2019-02-01,,,,Outro
+SP-43,SP,66828,Fausto Pinato,titular,2019-02-01,,,,Outro
+SP-44,SP,204531,Guilherme Derrite,titular,2019-02-01,2023-01-01,,,Secretário de Estado
+SP-44,SP,178830,Dr. Sinval Malheiros,suplente,2023-01-03,,baixa,vaga livre na UF,Outro
+SP-45,SP,160667,Guilherme Mussi,titular,2019-02-01,2019-08-13,,,Licença (afastamento conjunto)
+SP-45,SP,178984,Miguel Haddad,suplente,2019-08-20,2019-12-13,alta,única saída na UF (partido diferente),Volta do titular
+SP-45,SP,160667,Guilherme Mussi,titular,2019-12-13,,,,Outro
+SP-46,SP,160655,Ricardo Izar,titular,2019-02-01,2023-01-24,,,Outro
+SP-47,SP,74273,Jefferson Campos,titular,2019-02-01,2019-12-16,,,Licença (afastamento conjunto)
+SP-47,SP,178982,Luiz Lauro Filho,suplente,2019-12-17,2020-04-01,alta,partido/federação,Efetivação
+SP-47,SP,178982,Luiz Lauro Filho,efetivado,2020-04-01,2020-05-18,alta,efetivação,Falecimento
+SP-47,SP,213274,Ricardo Silva,suplente,2020-05-20,2020-05-20,alta,"saída de suplente, partido/federação",Efetivação
+SP-47,SP,213274,Ricardo Silva,efetivado,2020-05-20,,alta,efetivação,Outro
+SP-48,SP,204543,Luiz Flávio Gomes,titular,2019-02-01,2020-02-12,,,Licença para tratamento de saúde
+SP-48,SP,213274,Ricardo Silva,suplente,2020-02-17,2020-04-16,alta,partido/federação,Volta do titular
+SP-48,SP,74273,Jefferson Campos,titular,2020-04-16,,media,vaga livre,Outro
+SP-49,SP,204530,Rodrigo Agostinho,titular,2019-02-01,,,,Outro
+SP-50,SP,204525,Rosana Valle,titular,2019-02-01,,,,Outro
+SP-51,SP,204528,Adriana Ventura,titular,2019-02-01,,,,Outro
+SP-52,SP,204516,Alexis Fonteyne,titular,2019-02-01,,,,Outro
+SP-53,SP,204532,Vinicius Poit,titular,2019-02-01,,,,Outro
+SP-54,SP,160601,Pr. Marco Feliciano,titular,2019-02-01,,,,Outro
+SP-55,SP,178989,Renata Abreu,titular,2019-02-01,2020-03-03,,,Licença (afastamento conjunto)
+SP-55,SP,178830,Dr. Sinval Malheiros,suplente,2020-03-04,2020-11-16,alta,partido/federação,Volta do titular
+SP-55,SP,178989,Renata Abreu,titular,2020-11-16,2022-06-09,,,Licença (afastamento conjunto)
+SP-55,SP,219599,Sargento Alexandre,suplente,2022-06-09,2022-10-08,alta,partido/federação,Volta do titular
+SP-55,SP,178989,Renata Abreu,titular,2022-10-08,,,,Outro
+SP-56,SP,160653,Roberto de Lucena,titular,2019-02-01,2023-01-01,,,Secretário de Estado
+SP-56,SP,221149,Elói Pietá,suplente,2023-01-01,,baixa,vaga livre na UF,Outro
+SP-57,SP,73531,Ivan Valente,titular,2019-02-01,,,,Outro
+SP-58,SP,74784,Luiza Erundina,titular,2019-02-01,,,,Outro
+SP-59,SP,204535,Sâmia Bomfim,titular,2019-02-01,,,,Outro
+SP-60,SP,178975,Baleia Rossi,titular,2019-02-01,,,,Outro
+SP-61,SP,178981,Herculano Passos,titular,2019-02-01,,,,Outro
+SP-62,SP,178972,Alex Manente,titular,2019-02-01,,,,Outro
+SP-63,SP,141391,Arnaldo Jardim,titular,2019-02-01,,,,Outro
+SP-64,SP,204504,Cezinha de Madureira,titular,2019-02-01,,,,Outro
+SP-65,SP,204522,Marco Bertaiolli,titular,2019-02-01,,,,Outro
+SP-66,SP,178987,Orlando Silva,titular,2019-02-01,,,,Outro
+SP-67,SP,204534,Tabata Amaral,titular,2019-02-01,,,,Outro
+SP-68,SP,74270,Gilberto Nascimento,titular,2019-02-01,,,,Outro
+SP-69,SP,204537,Enrico Misasi,titular,2019-02-01,,,,Outro
+SP-70,SP,141518,Paulinho da Força,titular,2019-02-01,,,,Outro
+PR-01,PR,204384,Ney Leprevost,titular,2019-02-01,2019-02-04,,,Secretário de Estado
+PR-01,PR,178930,Roman,suplente,2019-02-05,2020-06-17,alta,volta do titular,Volta do titular
+PR-01,PR,204384,Ney Leprevost,titular,2020-06-17,2020-09-17,,,Secretário de Estado
+PR-01,PR,205865,Reinhold Stephanes,suplente,2020-09-17,2022-04-04,alta,partido/federação,Volta do titular
+PR-01,PR,178930,Roman,suplente,2022-04-04,2022-04-07,alta,remanejado na lista do partido,Volta do titular
+PR-01,PR,204384,Ney Leprevost,titular,2022-04-07,,,,Outro
+PR-02,PR,160621,Sandro Alex,titular,2019-02-01,2019-02-04,,,Secretário de Estado
+PR-02,PR,205865,Reinhold Stephanes,suplente,2019-02-05,2020-06-17,media,"vaga livre, mesma chave",Volta do titular
+PR-02,PR,178930,Roman,suplente,2020-06-17,2022-04-04,alta,remanejado na lista do partido,Volta do titular
+PR-02,PR,160621,Sandro Alex,titular,2022-04-04,,,,Outro
+PR-03,PR,204387,Sargento Fahur,titular,2019-02-01,,,,Outro
+PR-04,PR,204396,Vermelho,titular,2019-02-01,,,,Outro
+PR-05,PR,178928,Christiane de Souza Yared,titular,2019-02-01,,,,Outro
+PR-06,PR,74383,Giacobo,titular,2019-02-01,,,,Outro
+PR-07,PR,162332,Luiz Nishimori,titular,2019-02-01,,,,Outro
+PR-08,PR,204400,Aline Sleutjes,titular,2019-02-01,,,,Outro
+PR-09,PR,204398,Felipe Francischini,titular,2019-02-01,,,,Outro
+PR-10,PR,204411,Filipe Barros,titular,2019-02-01,,,,Outro
+PR-11,PR,132504,Enio Verri,titular,2019-02-01,,,,Outro
+PR-12,PR,107283,Gleisi Hoffmann,titular,2019-02-01,,,,Outro
+PR-13,PR,160592,Zeca Dirceu,titular,2019-02-01,,,,Outro
+PR-14,PR,73772,Hermes Parcianello,titular,2019-02-01,,,,Outro
+PR-15,PR,178933,Sergio Souza,titular,2019-02-01,,,,Outro
+PR-16,PR,73788,Ricardo Barros,titular,2019-02-01,,,,Outro
+PR-17,PR,204399,Schiavinato,titular,2019-02-01,2021-04-13,,,Falecimento
+PR-17,PR,178935,Rossoni,efetivado,2021-04-27,2022-06-08,baixa,vaga livre na UF,Licença (afastamento conjunto)
+PR-17,PR,219585,Marco Brasil,suplente,2022-06-08,2022-10-09,media,"vaga livre, mesma chave",Volta do titular
+PR-17,PR,178935,Rossoni,efetivado,2022-10-09,,baixa,vaga livre na UF,Outro
+PR-18,PR,204414,Aroldo Martins,titular,2019-02-01,,,,Outro
+PR-19,PR,204418,Luizão Goulart,titular,2019-02-01,,,,Outro
+PR-20,PR,204397,Boca Aberta,titular,2019-02-01,2021-09-17,,,Perda de mandato
+PR-20,PR,73463,Osmar Serraglio,efetivado,2021-09-17,,alta,única saída na UF (partido diferente),Outro
+PR-21,PR,178934,Toninho Wandscheer,titular,2019-02-01,,,,Outro
+PR-22,PR,178927,Aliel Machado,titular,2019-02-01,,,,Outro
+PR-23,PR,178931,Luciano Ducci,titular,2019-02-01,,,,Outro
+PR-24,PR,204395,Pedro Lupion,titular,2019-02-01,,,,Outro
+PR-25,PR,73460,Gustavo Fruet,titular,2019-02-01,,,,Outro
+PR-26,PR,178929,Diego Garcia,titular,2019-02-01,,,,Outro
+PR-27,PR,73466,Rubens Bueno,titular,2019-02-01,,,,Outro
+PR-28,PR,193726,Paulo Eduardo Martins,titular,2019-02-01,,,,Outro
+PR-29,PR,204410,Luisa Canziani,titular,2019-02-01,,,,Outro
+PR-30,PR,178832,Leandre,titular,2019-02-01,,,,Outro
+RS-01,RS,160538,Bohn Gass,titular,2019-02-01,,,,Outro
+RS-02,RS,73482,Henrique Fontana,titular,2019-02-01,,,,Outro
+RS-03,RS,160535,Marcon,titular,2019-02-01,,,,Outro
+RS-04,RS,74398,Maria do Rosário,titular,2019-02-01,,,,Outro
+RS-05,RS,74400,Paulo Pimenta,titular,2019-02-01,2023-01-01,,,Ministro de Estado
+RS-05,RS,133373,Marco Maia,suplente,2023-01-01,,alta,partido/federação,Outro
+RS-06,RS,160559,Alceu Moreira,titular,2019-02-01,,,,Outro
+RS-07,RS,178996,Giovani Feltes,titular,2019-02-01,2023-01-01,,,Secretário de Estado
+RS-07,RS,221147,Marcia Scherer,suplente,2023-01-01,,alta,partido/federação,Outro
+RS-08,RS,179001,Márcio Biolchi,titular,2019-02-01,,,,Outro
+RS-09,RS,73692,Osmar Terra,titular,2019-02-01,2019-02-05,,,Ministro de Estado
+RS-09,RS,73891,Darcísio Perondi,suplente,2019-02-05,2020-02-17,alta,partido/federação,Volta do titular
+RS-09,RS,73692,Osmar Terra,titular,2020-02-17,,,,Outro
+RS-10,RS,136811,Afonso Hamm,titular,2019-02-01,,,,Outro
+RS-11,RS,178963,Covatti Filho,titular,2019-02-01,2019-02-12,,,Secretário de Estado
+RS-11,RS,90842,Santini,suplente,2019-02-12,2019-10-21,alta,volta do titular,Volta do titular
+RS-11,RS,178963,Covatti Filho,titular,2019-10-21,2019-10-25,,,Secretário de Estado
+RS-11,RS,90842,Santini,suplente,2019-10-25,2020-01-07,alta,única saída na UF (partido diferente),Volta do titular
+RS-11,RS,178963,Covatti Filho,titular,2020-01-07,2020-02-03,,,Secretário de Estado
+RS-11,RS,90842,Santini,suplente,2020-02-03,2021-01-26,alta,única saída na UF (partido diferente),Volta do titular
+RS-11,RS,178963,Covatti Filho,titular,2021-01-26,2021-02-05,,,Secretário de Estado
+RS-11,RS,90842,Santini,suplente,2021-02-05,2021-02-26,alta,única saída na UF (partido diferente),Volta do titular
+RS-11,RS,178963,Covatti Filho,titular,2021-02-26,2021-03-02,,,Secretário de Estado
+RS-11,RS,90842,Santini,suplente,2021-03-02,2021-03-30,alta,volta do titular,Volta do titular
+RS-11,RS,178963,Covatti Filho,titular,2021-03-30,,,,Outro
+RS-12,RS,160570,Jerônimo Goergen,titular,2019-02-01,,,,Outro
+RS-13,RS,204406,Pedro Westphalen,titular,2019-02-01,,,,Outro
+RS-14,RS,178835,Afonso Motta,titular,2019-02-01,,,,Outro
+RS-15,RS,204403,Marlon Santos,titular,2019-02-01,,,,Outro
+RS-16,RS,73486,Pompeo de Mattos,titular,2019-02-01,,,,Outro
+RS-17,RS,204388,Bibo Nunes,titular,2019-02-01,,,,Outro
+RS-18,RS,204415,Nereu Crispim,titular,2019-02-01,,,,Outro
+RS-19,RS,204416,Sanderson,titular,2019-02-01,,,,Outro
+RS-20,RS,178964,Heitor Schuch,titular,2019-02-01,,,,Outro
+RS-21,RS,204405,Liziane Bayer,titular,2019-02-01,,,,Outro
+RS-22,RS,204409,Daniel Trzeciak,titular,2019-02-01,,,,Outro
+RS-23,RS,204404,Lucas Redecker,titular,2019-02-01,,,,Outro
+RS-24,RS,133810,Marcelo Moraes,titular,2019-02-01,,,,Outro
+RS-25,RS,75431,Maurício Dziedricki,titular,2019-02-01,,,,Outro
+RS-26,RS,74399,Onyx Lorenzoni,titular,2019-02-01,2019-02-03,,,Ministro de Estado
+RS-26,RS,205863,Marcelo Brum,suplente,2019-02-05,2019-02-07,alta,volta do titular,Volta do titular
+RS-26,RS,74399,Onyx Lorenzoni,titular,2019-02-07,2019-02-09,,,Ministro de Estado
+RS-26,RS,205863,Marcelo Brum,suplente,2019-02-11,2019-07-09,alta,volta do titular,Volta do titular
+RS-26,RS,74399,Onyx Lorenzoni,titular,2019-07-09,2019-07-15,,,Ministro de Estado
+RS-26,RS,205863,Marcelo Brum,suplente,2019-07-15,2019-08-06,alta,única saída na UF (partido diferente),Volta do titular
+RS-26,RS,74399,Onyx Lorenzoni,titular,2019-08-06,2019-08-08,,,Ministro de Estado
+RS-26,RS,205863,Marcelo Brum,suplente,2019-08-08,2021-01-29,alta,única saída na UF (partido diferente),Volta do titular
+RS-26,RS,74399,Onyx Lorenzoni,titular,2021-01-29,2021-02-02,,,Ministro de Estado
+RS-26,RS,205863,Marcelo Brum,suplente,2021-02-02,2021-02-26,alta,única saída na UF (partido diferente),Volta do titular
+RS-26,RS,74399,Onyx Lorenzoni,titular,2021-02-26,2021-03-03,,,Ministro de Estado
+RS-26,RS,205863,Marcelo Brum,suplente,2021-03-03,2021-11-11,alta,volta do titular,Volta do titular
+RS-26,RS,74399,Onyx Lorenzoni,titular,2021-11-11,2021-11-22,,,Ministro de Estado
+RS-26,RS,205863,Marcelo Brum,suplente,2021-11-22,2022-03-31,alta,volta do titular,Volta do titular
+RS-26,RS,74399,Onyx Lorenzoni,titular,2022-03-31,,,,Outro
+RS-27,RS,156190,Marcel van Hattem,titular,2019-02-01,,,,Outro
+RS-28,RS,160673,Giovani Cherini,titular,2019-02-01,,,,Outro
+RS-29,RS,178962,Carlos Gomes,titular,2019-02-01,,,,Outro
+RS-30,RS,160552,Danrlei de Deus Hinterholz,titular,2019-02-01,2021-05-04,,,Secretário de Estado
+RS-30,RS,216544,Paulo Vicente Caleffi,suplente,2021-05-04,2021-11-10,alta,partido/federação,Volta do titular
+RS-30,RS,160552,Danrlei de Deus Hinterholz,titular,2021-11-10,2021-11-22,,,Secretário de Estado
+RS-30,RS,216544,Paulo Vicente Caleffi,suplente,2021-11-22,2022-03-31,alta,partido/federação,Volta do titular
+RS-30,RS,160552,Danrlei de Deus Hinterholz,titular,2022-03-31,,,,Outro
+RS-31,RS,204407,Fernanda Melchionna,titular,2019-02-01,,,,Outro
+SC-01,SC,204369,Caroline de Toni,titular,2019-02-01,,,,Outro
+SC-02,SC,204376,Coronel Armando,titular,2019-02-01,2023-01-02,,,Secretário de Estado
+SC-02,SC,221157,Rui Godinho,suplente,2023-01-02,,alta,partido/federação,Outro
+SC-03,SC,204367,Daniel Freitas,titular,2019-02-01,,,,Outro
+SC-04,SC,204368,Fabio Schiochet,titular,2019-02-01,,,,Outro
+SC-05,SC,204361,Carlos Chiodini,titular,2019-02-01,,,,Outro
+SC-06,SC,141405,Celso Maldaner,titular,2019-02-01,,,,Outro
+SC-07,SC,160651,Rogério Peninha Mendonça,titular,2019-02-01,2020-10-01,,,Licença (afastamento conjunto)
+SC-07,SC,214694,Jorge Goetten,suplente,2020-10-06,2021-01-30,alta,única saída na UF (partido diferente),Volta do titular
+SC-07,SC,160651,Rogério Peninha Mendonça,titular,2021-01-30,,,,Outro
+SC-08,SC,116379,Darci de Matos,titular,2019-02-01,2020-09-02,,,Licença (afastamento conjunto)
+SC-08,SC,214445,Nilson F. Stainsack,suplente,2020-09-09,2021-01-01,alta,única saída na UF (partido diferente),Volta do titular
+SC-08,SC,116379,Darci de Matos,titular,2021-01-01,,,,Outro
+SC-09,SC,204362,Ricardo Guidi,titular,2019-02-01,,,,Outro
+SC-10,SC,204365,Gilson Marques,titular,2019-02-01,,,,Outro
+SC-11,SC,73696,Angela Amin,titular,2019-02-01,,,,Outro
+SC-12,SC,164360,Carmen Zanotto,titular,2019-02-01,2021-03-31,,,Secretário de Estado
+SC-12,SC,216198,Norma Pereira,suplente,2021-03-31,2021-05-11,alta,única saída na UF (partido diferente),Volta do titular
+SC-12,SC,164360,Carmen Zanotto,titular,2021-05-11,2023-01-02,,,Secretário de Estado
+SC-12,SC,216198,Norma Pereira,suplente,2023-01-02,,alta,única saída na UF (partido diferente),Outro
+SC-13,SC,204373,Hélio Costa,titular,2019-02-01,,,,Outro
+SC-14,SC,204366,Rodrigo Coelho,titular,2019-02-01,,,,Outro
+SC-15,SC,178966,Geovania de Sá,titular,2019-02-01,,,,Outro
+SC-16,SC,160604,Pedro Uczai,titular,2019-02-01,,,,Outro

@@ -24,14 +24,14 @@ S = requests.Session()
 PEDIDOS = 0
 
 
-def get(caminho, **params):
+def get_json(caminho, **params):
     global PEDIDOS
     for t in range(8):
         try:
             PEDIDOS += 1
             r = S.get(f"{API}/{caminho}", params=params, headers=CAB, timeout=90)
             if r.status_code == 200:
-                return r.json()["dados"]
+                return r.json()
             if r.status_code < 500 and r.status_code != 429:
                 r.raise_for_status()
         except requests.RequestException as e:
@@ -39,6 +39,21 @@ def get(caminho, **params):
                 raise
         time.sleep(4 * (t + 1))
     raise RuntimeError(f"falhou: {caminho} {params}")
+
+
+def get(caminho, **params):
+    return get_json(caminho, **params)["dados"]
+
+
+def get_todas(caminho, **params):
+    """Segue as páginas da API (o teto de itens por página vale também com itens=1000)."""
+    dados, pagina = [], 1
+    while True:
+        r = get_json(caminho, pagina=pagina, **params)
+        dados += r["dados"]
+        if not any(l["rel"] == "next" for l in r.get("links", [])):
+            return dados
+        pagina += 1
 
 
 def um(id_dep: int) -> tuple[int, dict]:
@@ -57,7 +72,7 @@ def main() -> None:
     saida.mkdir(parents=True, exist_ok=True)
     inicio = time.time()
 
-    lista = get("deputados", idLegislatura=a.leg, itens=1000)
+    lista = get_todas("deputados", idLegislatura=a.leg, itens=1000, ordem="ASC", ordenarPor="nome")
     ids = sorted({d["id"] for d in lista})
     with ThreadPoolExecutor(10) as ex:
         deputados = dict(ex.map(um, ids))

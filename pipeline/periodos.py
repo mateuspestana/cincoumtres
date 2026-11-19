@@ -64,7 +64,8 @@ def periodos(id_dep: int, hs: list[dict], corte: dt.date, ignorados: list) -> li
             ignorados.append({"id": id_dep, "dataHora": h["dataHora"], "descricao": desc})
             continue
         if aberto and (not em_exercicio or cond != aberto["condicao"]):
-            aberto["fim"] = t.date()
+            # o evento de término cai no último dia da legislatura, que ainda conta como exercício
+            aberto["fim"] = t.date() + (dt.timedelta(days=1) if "Término da Legislatura" in desc else dt.timedelta(0))
             aberto["motivo_saida"] = desc
             out.append(aberto)
             aberto = None
@@ -173,7 +174,7 @@ def cadeiras_do_tse(t: pd.DataFrame) -> dict:
 
 def montar(leg: int, snap: Path) -> dict:
     cfg = dict(LEGISLATURAS[leg])
-    corte = dt.date.fromisoformat(snap.name)
+    corte = min(dt.date.fromisoformat(snap.name), cfg["fim"])  # legislatura encerrada: o corte é o último dia dela
     deps = {int(k): v for k, v in json.loads((snap / "deputados.json").read_text()).items()}
     lista = json.loads((snap / "lista.json").read_text())
     fotos = {d["id"]: d["urlFoto"] for d in lista}

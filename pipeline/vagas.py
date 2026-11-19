@@ -88,7 +88,7 @@ def distribuir(base: dict) -> dict:
     volta_de = pares_de_volta(per)
 
     vagas: list[Vaga] = []
-    conflitos, remanejos = [], []
+    conflitos, remanejos, sobrepostos = [], [], []
 
     for uf, k in base["cfg"]["cadeiras"].items():
         pu = per[per.uf == uf]
@@ -152,6 +152,14 @@ def distribuir(base: dict) -> dict:
                         remanejos.append({"id": s.pid, "uf": uf, "data": r.inicio, "de_vaga": i, "para_vaga": j})
                 if vs[i].livre(r.inicio):
                     ocupar(r, idx, i)
+                    continue
+                # o registro da Câmara deixa o dono e quem ocupa a vaga dele em exercício ao mesmo tempo
+                # (acontece na 56ª, quando o afastamento do suplente é lançado depois da volta do titular).
+                # Se a UF tem outra vaga livre, o dono senta nela, com confiança baixa.
+                j, _ = livre_qualquer(r)
+                if j is not None:
+                    ocupar(r, idx, j, "baixa", "volta com a vaga ocupada")
+                    sobrepostos.append({"id": r.id, "uf": uf, "inicio": r.inicio, "ocupante": vs[i].segs[-1].pid})
                     continue
                 conflitos.append({"id": r.id, "uf": uf, "inicio": r.inicio, "tipo": "dono com vaga ocupada",
                                   "ocupante": vs[i].segs[-1].pid})
@@ -219,7 +227,8 @@ def distribuir(base: dict) -> dict:
             else:
                 ocupar(r, idx, i, conf, "vaga livre, mesma chave" if conf == "media" else "vaga livre na UF")
 
-    return {"per": per, "vagas": vagas, "conflitos": pd.DataFrame(conflitos), "remanejos": pd.DataFrame(remanejos)}
+    return {"per": per, "vagas": vagas, "conflitos": pd.DataFrame(conflitos), "remanejos": pd.DataFrame(remanejos),
+            "sobrepostos": pd.DataFrame(sobrepostos)}
 
 
 def verificar(base: dict, res: dict) -> dict:
@@ -272,4 +281,4 @@ def verificar(base: dict, res: dict) -> dict:
             dono_na_data += 1
     return {"dias": n_dias, "max_ocupadas": max(ocup), "ocupadas_no_corte": ocup[-1],
             "casadas_estudo": len(casadas), "casadas_na_vaga_do_titular": dono_na_data,
-            "remanejos": len(res["remanejos"])}
+            "remanejos": len(res["remanejos"]), "sobrepostos": len(res["sobrepostos"])}
