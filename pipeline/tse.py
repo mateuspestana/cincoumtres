@@ -3,7 +3,8 @@
 O arquivo do TSE (consulta_cand_<ano>.zip) traz o CPF de cada candidato. O CPF é usado só aqui dentro,
 para cruzar com a Câmara; o parquet gerado fica em pipeline/tse/, fora do controle de versão.
 
-Uso: python tse.py [ano ...]   (padrão: os anos das legislaturas ativas em config.py)
+Uso: python tse.py [--se-faltar] [ano ...]   (padrão: os anos das legislaturas ativas em config.py)
+Com --se-faltar, pula os anos cujo parquet já existe.
 Autor: Matheus C. Pestana.
 """
 import io
@@ -40,6 +41,9 @@ def baixar(ano: int) -> None:
 
 
 if __name__ == "__main__":
-    anos = [int(a) for a in sys.argv[1:]] or sorted({c["ano_eleicao"] for c in LEGISLATURAS.values() if c["ativa"]})
+    se_faltar = "--se-faltar" in sys.argv
+    anos = [int(a) for a in sys.argv[1:] if a.isdigit()] or sorted({c["ano_eleicao"] for c in LEGISLATURAS.values() if c["ativa"]})
     for ano in anos:
+        if se_faltar and (PASTA_TSE / f"candidatos_{ano}.parquet").exists():
+            continue
         baixar(ano)

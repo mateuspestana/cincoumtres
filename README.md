@@ -80,7 +80,7 @@ Os arquivos de cada legislatura ficam em `site/public/data/<legislatura>/`: `met
 
 ## Atualização diária
 
-O site é estático. Um timer diário (systemd, num servidor) roda a coleta e o processamento. Se os dados mudaram, faz commit e push dos JSON em `site/public/data/`, e a Vercel publica a cada push. Se nada mudou, não acontece nada: a Câmara muda pouco de um dia para o outro.
+O site é estático. Um timer diário (systemd, num servidor) roda `scripts/atualizar-diario.sh`: coleta na Câmara, processa e confere os dados e faz commit e push dos JSON em `site/public/data/`. A Vercel publica a cada push. Como a série avança um dia por vez, há um commit por dia. Se alguma verificação falhar, nada é commitado e o site continua com os dados do dia anterior.
 
 ## Privacidade
 
@@ -97,6 +97,8 @@ pipeline/
   exportar.py     JSON e CSV do site
   processar.py    roda tudo e só grava se as verificações passarem
   config.py       legislaturas, cadeiras por UF e caminhos
+scripts/
+  atualizar-diario.sh   coleta, processa, commita e envia os JSON (roda no servidor)
 site/
   src/app/        páginas (Next.js 16, exportação estática)
   src/concha/     a concha: geometria, cena em canvas e régua
