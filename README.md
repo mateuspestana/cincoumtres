@@ -6,7 +6,7 @@
 
 Quem entrou e quem saiu de cada uma das 513 cadeiras da Câmara dos Deputados, dia a dia, na 57ª legislatura (2023 a 2027), com a 56ª (2019 a 2023) para consulta. Quando um titular sai e um suplente assume, o site liga um ao outro.
 
-**Site:** https://cincoumtres.vercel.app (também em https://cincoumtres.macape.dev)
+**Site:** https://cincoumtres.macape.dev
 
 **Autor:** Matheus C. Pestana — MACAPE Pesquisas e Consultoria em Tecnologia Ltda
 
@@ -82,6 +82,8 @@ Os arquivos de cada legislatura ficam em `site/public/data/<legislatura>/`: `met
 ## Atualização diária
 
 O site é estático. Um timer diário (systemd, num servidor) roda `scripts/atualizar-diario.sh`: coleta na Câmara, processa e confere os dados e faz commit e push dos JSON em `site/public/data/`. A Vercel publica a cada push. Como a série avança um dia por vez, há um commit por dia. Se alguma verificação falhar, nada é commitado e o site continua com os dados do dia anterior.
+
+O endereço público vem da variável `NEXT_PUBLIC_SITE_URL`, lida no build (canonical, sitemap, `og:image`). Na Vercel ela vale `https://cincoumtres.macape.dev`; sem ela, o build usa `http://localhost:4400`.
 
 ## Privacidade
 

@@ -7,7 +7,7 @@ Este arquivo cobre o que não é código:
 - os dados gerados pelo projeto e publicados em site/public/data/;
 - os textos do site (as páginas em português) e o README.
 
-Atribuição: citar "Cinco Um Três (Matheus C. Pestana, MACAPE)" e o endereço https://cincoumtres.vercel.app.
+Atribuição: citar "Cinco Um Três (Matheus C. Pestana, MACAPE)" e o endereço https://cincoumtres.macape.dev.
 
 O código (pipeline/ e site/) segue a GNU Affero General Public License v3.0, no arquivo LICENSE.
 
