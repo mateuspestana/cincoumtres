@@ -3,7 +3,7 @@ import { Cabecalho } from '@/components/Cabecalho';
 import { Simbolo } from '@/components/Marca';
 import { Motion } from '@/components/Motion';
 import { Rodape } from '@/components/Rodape';
-import { legislaturas } from '@/lib/dados';
+import { legislaturas, LEG_ATUAL } from '@/lib/dados';
 import { SITE } from '@/lib/site';
 import { mono, sans } from './fonts';
 import './globals.css';
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: { default: `${SITE.nome}: quem ocupa as 513 cadeiras da Câmara`, template: `%s | ${SITE.nome}` },
   description: SITE.descricao,
   alternates: { canonical: './' },
-  openGraph: { type: 'website', siteName: SITE.nome, locale: 'pt_BR', images: ['/og.png'] },
+  openGraph: { type: 'website', siteName: SITE.nome, locale: 'pt_BR', images: [{ url: '/og.png', width: 1200, height: 630, alt: 'A concha da Câmara com as 513 cadeiras, titulares em verde e suplentes em laranja' }] },
   twitter: { card: 'summary_large_image' },
   authors: [{ name: 'Matheus C. Pestana' }],
 };
@@ -28,7 +28,7 @@ const flags = `document.documentElement.classList.add('js');if(!matchMedia('(pre
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Dataset',
-  name: 'Ocupação das cadeiras da Câmara dos Deputados, 57ª legislatura',
+  name: `Ocupação das cadeiras da Câmara dos Deputados, ${LEG_ATUAL}ª legislatura`,
   description: SITE.descricao,
   creator: { '@type': 'Person', name: 'Matheus C. Pestana' },
   publisher: { '@type': 'Organization', name: 'MACAPE Pesquisas e Consultoria em Tecnologia Ltda.', url: 'https://macape.dev' },
@@ -42,6 +42,8 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
     <html lang="pt-BR" className={`${sans.variable} ${mono.variable}`} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: flags }} />
+        <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-NHFTBDF3" />
+        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());` }} />
       </head>
       <body>
         <a className="skip-link" href="#main">Pular para o conteúdo</a>
