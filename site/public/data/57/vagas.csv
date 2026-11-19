@@ -1,0 +1,983 @@
+vaga,uf,id_camara,nome,condicao,inicio,fim,confianca,regra,motivo_saida
+AC-01,AC,220587,Gerlen Diniz,titular,2023-02-01,2025-01-01,,,Renúncia
+AC-01,AC,230768,Zé Adriano,efetivado,2025-01-01,,alta,partido/federação,
+AC-02,AC,104552,Socorro Neri,titular,2023-02-01,,,,
+AC-03,AC,220592,Zezinho Barbary,titular,2023-02-01,,,,
+AC-04,AC,220590,Coronel Ulysses,titular,2023-02-01,,,,
+AC-05,AC,220589,Eduardo Velloso,titular,2023-02-01,2023-12-13,,,Licença (afastamento conjunto)
+AC-05,AC,227401,Dr Fabio Rueda,suplente,2023-12-14,2024-04-12,alta,partido/federação,Volta do titular
+AC-05,AC,220589,Eduardo Velloso,titular,2024-04-12,,,,
+AC-06,AC,220591,Meire Serafim,titular,2023-02-01,,,,
+AC-07,AC,123756,Antônia Lúcia,titular,2023-02-01,,,,
+AC-08,AC,220588,Roberto Duarte,titular,2023-02-01,,,,
+AM-01,AM,204557,Sidney Leite,titular,2023-02-01,,,,
+AM-02,AM,74090,Átila Lins,titular,2023-02-01,,,,
+AM-03,AM,220714,Adail Filho,titular,2023-02-01,,,,
+AM-04,AM,74356,Silas Câmara,titular,2023-02-01,2026-04-13,,,Licença (afastamento conjunto)
+AM-04,AM,235869,João Carlos,suplente,2026-04-14,2026-08-12,alta,partido/federação,Volta do titular
+AM-04,AM,74356,Silas Câmara,titular,2026-08-12,,,,
+AM-05,AM,220712,Fausto Jr.,titular,2023-02-01,2024-01-19,,,Secretário de Estado
+AM-05,AM,74095,Pauderney Avelino,suplente,2024-01-22,2024-10-31,alta,partido/federação,Volta do titular
+AM-05,AM,220712,Fausto Jr.,titular,2024-10-31,,,,
+AM-06,AM,220713,Saullo Vianna,titular,2023-02-01,2025-01-07,,,Secretário municipal (capital)
+AM-06,AM,74095,Pauderney Avelino,suplente,2025-01-07,2025-11-10,alta,partido/federação,Volta do titular
+AM-06,AM,220713,Saullo Vianna,titular,2025-11-10,2025-11-19,,,Secretário municipal (capital)
+AM-06,AM,74095,Pauderney Avelino,suplente,2025-11-19,2026-03-04,alta,partido/federação,Volta do titular
+AM-06,AM,220713,Saullo Vianna,titular,2026-03-04,,,,
+AM-07,AM,204572,Capitão Alberto Neto,titular,2023-02-01,,,,
+AM-08,AM,220715,Amom Mandel,titular,2023-02-01,,,,
+AP-01,AP,220573,Dorinaldo Malafaia,titular,2023-02-01,,,,
+AP-02,AP,220578,Josenildo,titular,2023-02-01,,,,
+AP-03,AP,220580,Professora Goreth,titular,2023-02-01,2025-07-30,,,Recontagem/retotalização
+AP-03,AP,233592,Paulo Lemos,titular,2025-08-01,2025-11-12,alta,recontagem/retotalização,Secretário de Estado
+AP-03,AP,234253,Lucas Abrahao,suplente,2025-11-12,2025-12-18,alta,partido/federação,Secretário de Estado
+AP-03,AP,234840,Cristiano Furlan,suplente,2025-12-18,2026-03-04,alta,"saída de suplente, partido/federação",Volta do titular
+AP-03,AP,234253,Lucas Abrahao,suplente,2026-03-04,2026-03-31,alta,volta do titular,Volta do titular
+AP-03,AP,233592,Paulo Lemos,titular,2026-03-31,,,,
+AP-04,AP,220579,Silvia Waiãpi,titular,2023-02-01,2025-07-30,,,Recontagem/retotalização
+AP-04,AP,160641,Professora Marcivania,titular,2025-08-01,,alta,recontagem/retotalização,
+AP-05,AP,220575,Sonize Barbosa,titular,2023-02-01,2025-07-30,,,Recontagem/retotalização
+AP-05,AP,178831,André Abdon,titular,2025-08-01,,alta,recontagem/retotalização,
+AP-06,AP,160591,Vinicius Gurgel,titular,2023-02-01,,,,
+AP-07,AP,204379,Acácio Favacho,titular,2023-02-01,,,,
+AP-08,AP,220577,Augusto Puppio,titular,2023-02-01,2025-07-30,,,Recontagem/retotalização
+AP-08,AP,204353,Aline Gurgel,titular,2025-08-01,2025-10-09,alta,recontagem/retotalização,Secretário de Estado
+AP-08,AP,74065,Fatima Pelaes,suplente,2025-10-09,2026-04-01,alta,partido/federação,Volta do titular
+AP-08,AP,204353,Aline Gurgel,titular,2026-04-01,,,,
+PA-01,PA,220676,Andreia Siqueira,titular,2023-02-01,,,,
+PA-02,PA,220675,Antônio Doido,titular,2023-02-01,,,,
+PA-03,PA,220674,Dra. Alessandra Haber,titular,2023-02-01,,,,
+PA-04,PA,74075,Elcione Barbalho,titular,2023-02-01,,,,
+PA-05,PA,220672,Henderson Pinto,titular,2023-02-01,,,,
+PA-06,PA,74079,José Priante,titular,2023-02-01,,,,
+PA-07,PA,220677,Keniston Braga,titular,2023-02-01,,,,
+PA-08,PA,204498,Olival Marques,titular,2023-02-01,,,,
+PA-09,PA,153423,Renilce Nicodemos,titular,2023-02-01,,,,
+PA-10,PA,220673,Delegado Caveira,titular,2023-02-01,,,,
+PA-11,PA,178908,Delegado Éder Mauro,titular,2023-02-01,,,,
+PA-12,PA,178910,Joaquim Passarinho,titular,2023-02-01,,,,
+PA-13,PA,204497,Júnior Ferrari,titular,2023-02-01,,,,
+PA-14,PA,74084,Raimundo Santos,titular,2023-02-01,,,,
+PA-15,PA,204495,Airton Faleiro,titular,2023-02-01,,,,
+PA-16,PA,220671,Dilvanda Faro,titular,2023-02-01,,,,
+PA-17,PA,204496,Celso Sabino,titular,2023-02-01,2023-07-18,,,Ministro de Estado
+PA-17,PA,178909,Hélio Leite,suplente,2023-07-25,2023-11-30,alta,partido/federação,Volta do titular
+PA-17,PA,204496,Celso Sabino,titular,2023-11-30,2023-12-06,,,Ministro de Estado
+PA-17,PA,178909,Hélio Leite,suplente,2023-12-12,2024-12-03,alta,partido/federação,Volta do titular
+PA-17,PA,204496,Celso Sabino,titular,2024-12-03,2024-12-06,,,Ministro de Estado
+PA-17,PA,178909,Hélio Leite,suplente,2024-12-06,2025-01-01,alta,partido/federação,Renúncia
+PA-17,PA,230762,Pastor Claudio Mariano,suplente,2025-01-01,2025-02-01,alta,volta do titular,Volta do titular
+PA-17,PA,204496,Celso Sabino,titular,2025-02-01,2025-02-03,,,Ministro de Estado
+PA-17,PA,230762,Pastor Claudio Mariano,suplente,2025-02-03,2025-10-08,alta,partido/federação,Volta do titular
+PA-17,PA,204496,Celso Sabino,titular,2025-10-08,2025-10-09,,,Ministro de Estado
+PA-17,PA,230762,Pastor Claudio Mariano,suplente,2025-10-09,2025-11-13,alta,partido/federação,Volta do titular
+PA-17,PA,204496,Celso Sabino,titular,2025-11-13,2025-11-17,,,Ministro de Estado
+PA-17,PA,230762,Pastor Claudio Mariano,suplente,2025-11-17,2025-12-19,alta,partido/federação,Volta do titular
+PA-17,PA,204496,Celso Sabino,titular,2025-12-19,,,,
+RO-01,RO,220608,Cristiane Lopes,titular,2023-02-01,,,,
+RO-02,RO,220610,Dr. Fernando Máximo,titular,2023-02-01,,,,
+RO-03,RO,220600,Lebrão,titular,2023-02-01,2025-07-30,,,Recontagem/retotalização
+RO-03,RO,233594,Rafael Fera,titular,2025-07-31,,alta,recontagem/retotalização,
+RO-04,RO,220609,Maurício Carvalho,titular,2023-02-01,,,,
+RO-05,RO,178954,Lucio Mosquini,titular,2023-02-01,,,,
+RO-06,RO,220597,Thiago Flores,titular,2023-02-01,,,,
+RO-07,RO,204378,Coronel Chrisóstomo,titular,2023-02-01,,,,
+RO-08,RO,204360,Silvia Cristina,titular,2023-02-01,,,,
+RR-01,RR,220538,Albuquerque,titular,2023-02-01,,,,
+RR-02,RR,220539,Defensor Stélio Dener,titular,2023-02-01,,,,
+RR-03,RR,160531,Jhonatan de Jesus,titular,2023-02-01,2023-03-08,,,Renúncia
+RR-03,RR,224117,Gabriel Mota,efetivado,2023-03-08,,alta,partido/federação,
+RR-04,RR,220540,Duda Ramos,titular,2023-02-01,,,,
+RR-05,RR,220537,Helena Lima,titular,2023-02-01,,,,
+RR-06,RR,204479,Nicoletti,titular,2023-02-01,,,,
+RR-07,RR,180214,Pastor Diniz,titular,2023-02-01,,,,
+RR-08,RR,220536,Zé Haroldo Cathedral,titular,2023-02-01,,,,
+TO-01,TO,220542,Alexandre Guimarães,titular,2023-02-01,,,,
+TO-02,TO,220544,Antonio Andrade,titular,2023-02-01,,,,
+TO-03,TO,220543,Ricardo Ayres,titular,2023-02-01,,,,
+TO-04,TO,204364,Eli Borges,titular,2023-02-01,2024-06-19,,,Licença (afastamento conjunto)
+TO-04,TO,229112,Pedro Jr,suplente,2024-06-20,2024-10-18,alta,partido/federação,Volta do titular
+TO-04,TO,204364,Eli Borges,titular,2024-10-18,,,,
+TO-05,TO,220545,Filipe Martins,titular,2023-02-01,,,,
+TO-06,TO,141480,Lázaro Botelho,titular,2023-02-01,2025-07-30,,,Recontagem/retotalização
+TO-06,TO,143084,Tiago Dimas,titular,2025-07-31,,alta,recontagem/retotalização,
+TO-07,TO,137070,Vicentinho Júnior,titular,2023-02-01,2024-05-22,,,Secretário de Estado
+TO-07,TO,228797,Júlio Oliveira,suplente,2024-05-22,2024-10-10,alta,partido/federação,Volta do titular
+TO-07,TO,137070,Vicentinho Júnior,titular,2024-10-10,,,,
+TO-08,TO,178993,Carlos Henrique Gaguim,titular,2023-02-01,,,,
+AL-01,AL,160541,Arthur Lira,titular,2023-02-01,,,,
+AL-02,AL,220582,Daniel Barbosa,titular,2023-02-01,,,,
+AL-03,AL,220583,Delegado Fabio Costa,titular,2023-02-01,,,,
+AL-04,AL,178843,Marx Beltrão,titular,2023-02-01,,,,
+AL-05,AL,204436,Isnaldo Bulhões Jr.,titular,2023-02-01,,,,
+AL-06,AL,220586,Rafael Brito,titular,2023-02-01,,,,
+AL-07,AL,220581,Luciano Amaral,titular,2023-02-01,,,,
+AL-08,AL,171617,Paulão,titular,2023-02-01,2026-07-09,,,Recontagem/retotalização
+AL-08,AL,194260,Nivaldo Albuquerque,titular,2026-07-09,2026-10-09,alta,recontagem/retotalização,Perda de mandato
+AL-08,AL,171617,Paulão,titular,2026-10-09,,alta,volta à vaga que já foi dele,
+AL-09,AL,220576,Alfredo Gaspar,titular,2023-02-01,,,,
+BA-01,BA,160508,Afonso Florence,titular,2023-02-01,2023-02-07,,,Secretário de Estado
+BA-01,BA,74141,Josias Gomes,suplente,2023-02-07,2023-11-22,alta,partido/federação,Volta do titular
+BA-01,BA,160508,Afonso Florence,titular,2023-11-22,2023-11-24,,,Secretário de Estado
+BA-01,BA,74141,Josias Gomes,suplente,2023-11-24,2023-11-30,alta,partido/federação,Volta do titular
+BA-01,BA,160508,Afonso Florence,titular,2023-11-30,2023-12-07,,,Secretário de Estado
+BA-01,BA,74141,Josias Gomes,suplente,2023-12-07,2024-11-29,alta,partido/federação,Volta do titular
+BA-01,BA,160508,Afonso Florence,titular,2024-11-29,2024-12-10,,,Secretário de Estado
+BA-01,BA,74141,Josias Gomes,suplente,2024-12-10,2025-07-16,alta,partido/federação,Volta do titular
+BA-01,BA,160508,Afonso Florence,titular,2025-07-16,2025-07-17,,,Secretário de Estado
+BA-01,BA,74141,Josias Gomes,suplente,2025-07-17,2025-11-12,alta,partido/federação,Volta do titular
+BA-01,BA,160508,Afonso Florence,titular,2025-11-12,2025-11-18,,,Secretário de Estado
+BA-01,BA,74141,Josias Gomes,suplente,2025-11-18,2026-01-02,alta,partido/federação,Renúncia
+BA-01,BA,229585,Elisangela Araujo,suplente,2026-01-02,2026-04-01,alta,volta do titular,Volta do titular
+BA-01,BA,160508,Afonso Florence,titular,2026-04-01,,,,
+BA-02,BA,74057,Alice Portugal,titular,2023-02-01,,,,
+BA-03,BA,69871,Bacelar,titular,2023-02-01,,,,
+BA-04,BA,74060,Daniel Almeida,titular,2023-02-01,,,,
+BA-05,BA,220696,Ivoneide Caetano,titular,2023-02-01,,,,
+BA-06,BA,178857,Jorge Solla,titular,2023-02-01,,,,
+BA-07,BA,209189,Joseildo Ramos,titular,2023-02-01,,,,
+BA-08,BA,160610,Valmir Assunção,titular,2023-02-01,,,,
+BA-09,BA,160569,Waldenor Pereira,titular,2023-02-01,,,,
+BA-10,BA,204559,Zé Neto,titular,2023-02-01,2024-07-22,,,Licença (afastamento conjunto)
+BA-10,BA,229585,Elisangela Araujo,suplente,2024-07-24,2024-11-20,alta,partido/federação,Volta do titular
+BA-10,BA,204559,Zé Neto,titular,2024-11-20,,,,
+BA-11,BA,160553,Antonio Brito,titular,2023-02-01,,,,
+BA-12,BA,220691,Diego Coronel,titular,2023-02-01,,,,
+BA-13,BA,220708,Gabriel Nunes,titular,2023-02-01,,,,
+BA-14,BA,204573,Otto Alencar Filho,titular,2023-02-01,2025-12-23,,,Renúncia
+BA-14,BA,205476,Charles Fernandes,efetivado,2025-12-23,,alta,partido/federação,
+BA-15,BA,74574,Paulo Magalhães,titular,2023-02-01,,,,
+BA-16,BA,73808,Sérgio Brito,titular,2023-02-01,2023-02-08,,,Secretário de Estado
+BA-16,BA,205476,Charles Fernandes,suplente,2023-02-08,2023-11-17,alta,partido/federação,Volta do titular
+BA-16,BA,73808,Sérgio Brito,titular,2023-11-17,2023-12-06,,,Secretário de Estado
+BA-16,BA,205476,Charles Fernandes,suplente,2023-12-06,2024-11-29,alta,partido/federação,Volta do titular
+BA-16,BA,73808,Sérgio Brito,titular,2024-11-29,2024-12-10,,,Secretário de Estado
+BA-16,BA,205476,Charles Fernandes,suplente,2024-12-10,2025-11-11,alta,partido/federação,Volta do titular
+BA-16,BA,73808,Sérgio Brito,titular,2025-11-11,,,,
+BA-17,BA,160600,Arthur Oliveira Maia,titular,2023-02-01,,,,
+BA-18,BA,220692,Dal Barreto,titular,2023-02-01,,,,
+BA-19,BA,178854,Elmar Nascimento,titular,2023-02-01,,,,
+BA-20,BA,74554,José Rocha,titular,2023-02-01,,,,
+BA-21,BA,92102,Leur Lomanto Júnior,titular,2023-02-01,,,,
+BA-22,BA,178860,Paulo Azi,titular,2023-02-01,,,,
+BA-23,BA,74537,Claudio Cajado,titular,2023-02-01,,,,
+BA-24,BA,74550,João Leão,titular,2023-02-01,2026-04-08,,,Secretário municipal (capital)
+BA-24,BA,235800,Jorge Araújo,suplente,2026-04-08,2026-10-13,alta,partido/federação,Volta do titular
+BA-24,BA,74550,João Leão,titular,2026-10-13,,,,
+BA-25,BA,178858,Mário Negromonte Jr.,titular,2023-02-01,,,,
+BA-26,BA,220703,Neto Carletto,titular,2023-02-01,,,,
+BA-27,BA,220690,Capitão Alden,titular,2023-02-01,,,,
+BA-28,BA,141458,João Carlos Bacelar,titular,2023-02-01,,,,
+BA-29,BA,220693,Roberta Roma,titular,2023-02-01,,,,
+BA-30,BA,204571,Alex Santana,titular,2023-02-01,2026-04-08,,,Secretário municipal (capital)
+BA-30,BA,204558,Marcelo Nilo,suplente,2026-04-08,2026-11-18,alta,partido/federação,Volta do titular
+BA-30,BA,204571,Alex Santana,titular,2026-11-18,,,,
+BA-31,BA,150418,Márcio Marinho,titular,2023-02-01,,,,
+BA-32,BA,220695,Rogéria Santos,titular,2023-02-01,,,,
+BA-33,BA,160666,Félix Mendonça Júnior,titular,2023-02-01,,,,
+BA-34,BA,80815,Leo Prates,titular,2023-02-01,2026-06-26,,,Licença (afastamento conjunto)
+BA-34,BA,74140,José Carlos Araujo,suplente,2026-06-30,2026-10-25,alta,partido/federação,Volta do titular
+BA-34,BA,80815,Leo Prates,titular,2026-10-25,,,,
+BA-35,BA,204553,Pastor Sargento Isidório,titular,2023-02-01,,,,
+BA-36,BA,220694,Ricardo Maia,titular,2023-02-01,,,,
+BA-37,BA,204567,Raimundo Costa,titular,2023-02-01,,,,
+BA-38,BA,139285,Lídice da Mata,titular,2023-02-01,,,,
+BA-39,BA,204560,Adolfo Viana,titular,2023-02-01,,,,
+CE-01,CE,133439,André Figueiredo,titular,2023-02-01,,,,
+CE-02,CE,204541,Eduardo Bismarck,titular,2023-02-01,2023-05-31,,,Licença (afastamento conjunto)
+CE-02,CE,225730,Enfermeira Ana Paula,suplente,2023-05-31,2023-10-01,alta,partido/federação,Volta do titular
+CE-02,CE,204541,Eduardo Bismarck,titular,2023-10-01,2025-01-06,,,Secretário de Estado
+CE-02,CE,225730,Enfermeira Ana Paula,suplente,2025-01-06,2025-11-13,alta,partido/federação,Volta do titular
+CE-02,CE,204541,Eduardo Bismarck,titular,2025-11-13,2025-11-19,,,Secretário de Estado
+CE-02,CE,225730,Enfermeira Ana Paula,suplente,2025-11-19,2026-03-27,alta,partido/federação,Volta do titular
+CE-02,CE,74299,Leônidas Cristino,suplente,2026-03-27,2026-04-01,alta,remanejado na lista do partido,Volta do titular
+CE-02,CE,204541,Eduardo Bismarck,titular,2026-04-01,,,,
+CE-03,CE,204533,Idilvan Alencar,titular,2023-02-01,2025-01-03,,,Secretário municipal (capital)
+CE-03,CE,74299,Leônidas Cristino,suplente,2025-01-03,2026-03-27,alta,partido/federação,Volta do titular
+CE-03,CE,204533,Idilvan Alencar,titular,2026-03-27,,,,
+CE-04,CE,204486,Mauro Benevides Filho,titular,2023-02-01,,,,
+CE-05,CE,204489,Robério Monteiro,titular,2023-02-01,2023-02-28,,,Secretário de Estado
+CE-05,CE,74299,Leônidas Cristino,suplente,2023-02-28,2023-11-14,alta,partido/federação,Volta do titular
+CE-05,CE,204489,Robério Monteiro,titular,2023-11-14,2024-01-03,,,Secretário de Estado
+CE-05,CE,74299,Leônidas Cristino,suplente,2024-01-04,2024-06-21,alta,partido/federação,Volta do titular
+CE-05,CE,204489,Robério Monteiro,titular,2024-06-21,,,,
+CE-06,CE,220657,André Fernandes,titular,2023-02-01,2024-09-11,,,Licença (afastamento conjunto)
+CE-06,CE,230088,Dra. Mayra Pinheiro,suplente,2024-09-16,2025-01-10,alta,partido/federação,Volta do titular
+CE-06,CE,220657,André Fernandes,titular,2025-01-10,,,,
+CE-07,CE,204481,Dr. Jaziel,titular,2023-02-01,,,,
+CE-08,CE,204550,Júnior Mano,titular,2023-02-01,2024-09-19,,,Licença (afastamento conjunto)
+CE-08,CE,230177,Tadeu Oliveira,suplente,2024-09-23,2025-01-10,alta,partido/federação,Volta do titular
+CE-08,CE,230088,Dra. Mayra Pinheiro,suplente,2025-01-10,2025-01-18,alta,remanejado na lista do partido,Volta do titular
+CE-08,CE,204550,Júnior Mano,titular,2025-01-18,,,,
+CE-09,CE,220661,Matheus Noronha,titular,2023-02-01,,,,
+CE-10,CE,220660,Yury Bruno,titular,2023-02-01,2023-06-28,,,Licença (afastamento conjunto)
+CE-10,CE,226075,Priscila Costa,suplente,2023-06-30,2023-10-27,alta,partido/federação,Volta do titular
+CE-10,CE,220660,Yury Bruno,titular,2023-10-27,2025-12-29,,,Licença (afastamento conjunto)
+CE-10,CE,129618,Gorete Pereira,suplente,2025-12-29,2026-04-29,alta,partido/federação,Volta do titular
+CE-10,CE,220660,Yury Bruno,titular,2026-04-29,,,,
+CE-11,CE,62881,Danilo Forte,titular,2023-02-01,,,,
+CE-12,CE,220659,Dayany Bittencourt,titular,2023-02-01,2026-02-02,,,Licença (afastamento conjunto)
+CE-12,CE,222565,Soldado Noelio,suplente,2026-02-11,2026-04-03,alta,partido/federação,Volta do titular
+CE-12,CE,234673,Vanderlan Alves,suplente,2026-04-03,2026-06-03,alta,remanejado na lista do partido,Volta do titular
+CE-12,CE,220659,Dayany Bittencourt,titular,2026-06-03,2026-07-09,,,Recontagem/retotalização
+CE-12,CE,226075,Priscila Costa,titular,2026-08-06,,baixa,vaga livre,
+CE-13,CE,220656,Fernanda Pessoa,titular,2023-02-01,2025-12-01,,,Licença (afastamento conjunto)
+CE-13,CE,234673,Vanderlan Alves,suplente,2025-12-02,2026-04-03,alta,partido/federação,Volta do titular
+CE-13,CE,220656,Fernanda Pessoa,titular,2026-04-03,,,,
+CE-14,CE,178997,Moses Rodrigues,titular,2023-02-01,,,,
+CE-15,CE,204488,Célio Studart,titular,2023-02-01,2023-08-22,,,Secretário de Estado
+CE-15,CE,226553,Eliane Braz,suplente,2023-08-22,2023-11-14,alta,partido/federação,Volta do titular
+CE-15,CE,204488,Célio Studart,titular,2023-11-14,2024-03-13,,,Secretário de Estado
+CE-15,CE,228042,Naumi Amorim,suplente,2024-03-13,2024-03-27,alta,partido/federação,Volta do titular
+CE-15,CE,204488,Célio Studart,titular,2024-03-27,,,,
+CE-16,CE,143632,Domingos Neto,titular,2023-02-01,,,,
+CE-17,CE,220658,Luiz Gastão,titular,2023-02-01,,,,
+CE-18,CE,141464,José Airton Félix Cirilo,titular,2023-02-01,,,,
+CE-19,CE,141470,José Guimarães,titular,2023-02-01,2026-04-14,,,Ministro de Estado
+CE-19,CE,74295,Inácio Arruda,suplente,2026-04-14,,alta,partido/federação,
+CE-20,CE,178866,Luizianne Lins,titular,2023-02-01,,,,
+CE-21,CE,74454,Eunício Oliveira,titular,2023-02-01,2025-06-12,,,Licença (afastamento conjunto)
+CE-21,CE,233218,Nelinho Freitas,suplente,2025-06-16,2025-10-11,alta,partido/federação,Volta do titular
+CE-21,CE,74454,Eunício Oliveira,titular,2025-10-11,,,,
+CE-22,CE,204549,AJ Albuquerque,titular,2023-02-01,,,,
+MA-01,MA,220689,Detinha,titular,2023-02-01,2023-12-01,,,Licença (afastamento conjunto)
+MA-01,MA,227324,Henrique Júnior,suplente,2023-12-06,2024-04-04,alta,volta do titular,Volta do titular
+MA-01,MA,220689,Detinha,titular,2024-04-04,2026-02-06,,,Licença (afastamento conjunto)
+MA-01,MA,227310,Silvio Antonio,suplente,2026-02-06,2026-06-11,alta,partido/federação,Volta do titular
+MA-01,MA,220689,Detinha,titular,2026-06-11,,,,
+MA-02,MA,204563,Josimar Maranhãozinho,titular,2023-02-01,2023-12-02,,,Licença (afastamento conjunto)
+MA-02,MA,128760,Paulo Marinho Jr,suplente,2023-12-05,2024-04-05,alta,volta do titular,Volta do titular
+MA-02,MA,204563,Josimar Maranhãozinho,titular,2024-04-05,2026-02-08,,,Licença (afastamento conjunto)
+MA-02,MA,128760,Paulo Marinho Jr,suplente,2026-02-09,2026-06-11,alta,partido/federação,Volta do titular
+MA-02,MA,204563,Josimar Maranhãozinho,titular,2026-06-11,,,,
+MA-03,MA,204574,Junior Lourenço,titular,2023-02-01,2023-12-04,,,Licença (afastamento conjunto)
+MA-03,MA,227323,Luciano Galego,suplente,2023-12-06,2024-04-04,alta,volta do titular,Volta do titular
+MA-03,MA,204574,Junior Lourenço,titular,2024-04-04,,,,
+MA-04,MA,204570,Pastor Gil,titular,2023-02-01,2023-12-05,,,Licença (afastamento conjunto)
+MA-04,MA,227310,Silvio Antonio,suplente,2023-12-05,2024-04-06,alta,"partido/federação, mais próxima",Volta do titular
+MA-04,MA,204570,Pastor Gil,titular,2024-04-06,,,,
+MA-05,MA,220707,Amanda Gentil,titular,2023-02-01,2024-05-06,,,Licença (afastamento conjunto)
+MA-05,MA,228616,Dr. Remy Soares,suplente,2024-05-07,2024-09-04,alta,partido/federação,Volta do titular
+MA-05,MA,220707,Amanda Gentil,titular,2024-09-04,,,,
+MA-06,MA,178882,André Fufuca,titular,2023-02-01,2023-09-13,,,Ministro de Estado
+MA-06,MA,226708,Allan Garcês,suplente,2023-09-13,2024-12-03,alta,partido/federação,Volta do titular
+MA-06,MA,178882,André Fufuca,titular,2024-12-03,2024-12-06,,,Ministro de Estado
+MA-06,MA,226708,Allan Garcês,suplente,2024-12-06,2025-02-01,alta,partido/federação,Volta do titular
+MA-06,MA,178882,André Fufuca,titular,2025-02-01,2025-02-03,,,Ministro de Estado
+MA-06,MA,226708,Allan Garcês,suplente,2025-02-03,2025-10-08,alta,partido/federação,Volta do titular
+MA-06,MA,178882,André Fufuca,titular,2025-10-08,2025-10-09,,,Ministro de Estado
+MA-06,MA,226708,Allan Garcês,suplente,2025-10-09,2025-11-13,alta,partido/federação,Volta do titular
+MA-06,MA,178882,André Fufuca,titular,2025-11-13,2025-11-15,,,Ministro de Estado
+MA-06,MA,226708,Allan Garcês,suplente,2025-11-15,2026-03-31,alta,partido/federação,Volta do titular
+MA-06,MA,178882,André Fufuca,titular,2026-03-31,,,,
+MA-07,MA,81055,Márcio Jerry,titular,2023-02-01,,,,
+MA-08,MA,178887,Rubens Pereira Júnior,titular,2023-02-01,,,,
+MA-09,MA,178886,Juscelino Filho,titular,2023-02-01,2023-02-03,,,Ministro de Estado
+MA-09,MA,221339,Dr. Benjamim,suplente,2023-02-03,2025-01-01,alta,partido/federação,Renúncia
+MA-09,MA,230764,Ivan Junior,suplente,2025-01-01,2025-02-01,alta,volta do titular,Volta do titular
+MA-09,MA,178886,Juscelino Filho,titular,2025-02-01,2025-02-03,,,Ministro de Estado
+MA-09,MA,230764,Ivan Junior,suplente,2025-02-03,2025-04-09,alta,partido/federação,Volta do titular
+MA-09,MA,178886,Juscelino Filho,titular,2025-04-09,,,,
+MA-10,MA,122974,Pedro Lucas Fernandes,titular,2023-02-01,,,,
+MA-11,MA,73806,Roseana Sarney,titular,2023-02-01,2024-05-06,,,Licença (afastamento conjunto)
+MA-11,MA,178884,Hildo Rocha,suplente,2024-05-07,2024-09-04,alta,partido/federação,Volta do titular
+MA-11,MA,73806,Roseana Sarney,titular,2024-09-04,2025-01-31,,,Secretário de Estado
+MA-11,MA,178884,Hildo Rocha,suplente,2025-01-31,2025-02-11,alta,partido/federação,Volta do titular
+MA-11,MA,73806,Roseana Sarney,titular,2025-02-11,2025-02-12,,,Licença (afastamento conjunto)
+MA-11,MA,178884,Hildo Rocha,suplente,2025-02-12,2026-07-19,alta,partido/federação,Volta do titular
+MA-11,MA,73806,Roseana Sarney,titular,2026-07-19,2026-08-31,,,Licença (afastamento conjunto)
+MA-11,MA,178884,Hildo Rocha,suplente,2026-08-31,,alta,partido/federação,
+MA-12,MA,204566,Marreca Filho,titular,2023-02-01,2023-12-19,,,Licença (afastamento conjunto)
+MA-12,MA,182146,Wolmer Araújo,suplente,2023-12-19,2024-04-19,alta,partido/federação,Volta do titular
+MA-12,MA,204566,Marreca Filho,titular,2024-04-19,2026-02-05,,,Licença (afastamento conjunto)
+MA-12,MA,235088,Ribeiro Neto,suplente,2026-02-05,2026-06-06,alta,partido/federação,Volta do titular
+MA-12,MA,204566,Marreca Filho,titular,2026-06-06,,,,
+MA-13,MA,220687,Márcio Honaiser,titular,2023-02-01,2024-06-16,,,Licença (afastamento conjunto)
+MA-13,MA,229082,Lucyana Genésio,suplente,2024-06-18,2024-10-16,alta,partido/federação,Volta do titular
+MA-13,MA,220687,Márcio Honaiser,titular,2024-10-16,,,,
+MA-14,MA,220681,Fábio Macedo,titular,2023-02-01,2024-07-01,,,Licença (afastamento conjunto)
+MA-14,MA,212625,Dr. Gonçalo,suplente,2024-07-02,2024-10-30,alta,partido/federação,Volta do titular
+MA-14,MA,220681,Fábio Macedo,titular,2024-10-30,,,,
+MA-15,MA,220686,Duarte Jr.,titular,2023-02-01,,,,
+MA-16,MA,178881,Aluisio Mendes,titular,2023-02-01,2023-11-30,,,Licença (afastamento conjunto)
+MA-16,MA,227275,Mariana Carvalho,suplente,2023-11-30,2024-03-30,alta,partido/federação,Volta do titular
+MA-16,MA,178881,Aluisio Mendes,titular,2024-03-30,,,,
+MA-17,MA,215043,Josivaldo JP,titular,2023-02-01,,,,
+MA-18,MA,141408,Cleber Verde,titular,2023-02-01,,,,
+PB-01,PB,160674,Hugo Motta,titular,2023-02-01,,,,
+PB-02,PB,220584,Murilo Galdino,titular,2023-02-01,2026-05-27,,,Licença (afastamento conjunto)
+PB-02,PB,115200,Raniery Paulino,suplente,2026-05-28,2026-09-27,alta,partido/federação,Volta do titular
+PB-02,PB,220584,Murilo Galdino,titular,2026-09-27,,,,
+PB-03,PB,74044,Wilson Santiago,titular,2023-02-01,2024-01-04,,,Secretário de Estado
+PB-03,PB,115200,Raniery Paulino,suplente,2024-01-04,2024-05-09,alta,partido/federação,Volta do titular
+PB-03,PB,74044,Wilson Santiago,titular,2024-05-09,2026-06-01,,,Licença (afastamento conjunto)
+PB-03,PB,236423,Valdir Trindade,suplente,2026-06-10,2026-09-27,alta,partido/federação,Volta do titular
+PB-03,PB,115200,Raniery Paulino,suplente,2026-09-27,2026-09-30,alta,remanejado na lista do partido,Volta do titular
+PB-03,PB,74044,Wilson Santiago,titular,2026-09-30,,,,
+PB-04,PB,220574,Cabo Gilberto Silva,titular,2023-02-01,,,,
+PB-05,PB,74043,Wellington Roberto,titular,2023-02-01,,,,
+PB-06,PB,160527,Aguinaldo Ribeiro,titular,2023-02-01,,,,
+PB-07,PB,220585,Mersinho Lucena,titular,2023-02-01,2024-07-02,,,Licença (afastamento conjunto)
+PB-07,PB,220008,Eliza Virgínia,suplente,2024-07-02,2024-10-31,alta,partido/federação,Volta do titular
+PB-07,PB,220585,Mersinho Lucena,titular,2024-10-31,,,,
+PB-08,PB,160629,Romero Rodrigues,titular,2023-02-01,2026-07-06,,,Licença (afastamento conjunto)
+PB-08,PB,122195,Leonardo Gadelha,suplente,2026-07-09,2026-11-06,alta,partido/federação,Volta do titular
+PB-08,PB,160629,Romero Rodrigues,titular,2026-11-06,,,,
+PB-09,PB,160635,Ruy Carneiro,titular,2023-02-01,2024-06-17,,,Licença (afastamento conjunto)
+PB-09,PB,122195,Leonardo Gadelha,suplente,2024-06-18,2024-10-16,alta,partido/federação,Volta do titular
+PB-09,PB,160635,Ruy Carneiro,titular,2024-10-16,,,,
+PB-10,PB,204394,Gervásio Maia,titular,2023-02-01,,,,
+PB-11,PB,74041,Luiz Couto,titular,2023-02-01,,,,
+PB-12,PB,74467,Damião Feliciano,titular,2023-02-01,,,,
+PE-01,PE,220663,Eriberto Medeiros,titular,2023-02-01,,,,
+PE-02,PE,72442,Felipe Carreras,titular,2023-02-01,,,,
+PE-03,PE,220664,Guilherme Uchoa,titular,2023-02-01,,,,
+PE-04,PE,220662,Lucas Ramos,titular,2023-02-01,,,,
+PE-05,PE,220667,Pedro Campos,titular,2023-02-01,,,,
+PE-06,PE,204423,André Ferreira,titular,2023-02-01,,,,
+PE-07,PE,220666,Coronel Meira,titular,2023-02-01,,,,
+PE-08,PE,204427,Fernando Rodolfo,titular,2023-02-01,,,,
+PE-09,PE,160642,Pastor Eurico,titular,2023-02-01,,,,
+PE-10,PE,220665,Clarissa Tércio,titular,2023-02-01,2024-07-01,,,Licença (afastamento conjunto)
+PE-10,PE,229225,Missionária Michele Collins,suplente,2024-07-03,2024-11-01,alta,partido/federação,Volta do titular
+PE-10,PE,220665,Clarissa Tércio,titular,2024-11-01,,,,
+PE-11,PE,141421,Eduardo da Fonte,titular,2023-02-01,,,,
+PE-12,PE,92699,Fernando Monteiro,titular,2023-02-01,,,,
+PE-13,PE,220669,Lula da Fonte,titular,2023-02-01,,,,
+PE-14,PE,204426,Carlos Veras,titular,2023-02-01,,,,
+PE-15,PE,88256,Clodoaldo Magalhães,titular,2023-02-01,,,,
+PE-16,PE,73801,Renildo Calheiros,titular,2023-02-01,,,,
+PE-17,PE,141431,Fernando Coelho Filho,titular,2023-02-01,,,,
+PE-18,PE,74478,Luciano Bivar,titular,2023-02-01,,,,
+PE-19,PE,74428,Mendonça Filho,titular,2023-02-01,,,,
+PE-20,PE,160665,Augusto Coutinho,titular,2023-02-01,,,,
+PE-21,PE,204425,Silvio Costa Filho,titular,2023-02-01,2023-09-13,,,Ministro de Estado
+PE-21,PE,204422,Ossesio Silva,suplente,2023-09-13,2025-02-01,alta,partido/federação,Volta do titular
+PE-21,PE,204425,Silvio Costa Filho,titular,2025-02-01,2025-02-03,,,Ministro de Estado
+PE-21,PE,204422,Ossesio Silva,suplente,2025-02-03,2025-10-08,alta,partido/federação,Volta do titular
+PE-21,PE,204425,Silvio Costa Filho,titular,2025-10-08,2025-10-09,,,Ministro de Estado
+PE-21,PE,204422,Ossesio Silva,suplente,2025-10-09,2026-03-31,alta,partido/federação,Volta do titular
+PE-21,PE,204425,Silvio Costa Filho,titular,2026-03-31,,,,
+PE-22,PE,91228,Waldemar Oliveira,titular,2023-02-01,,,,
+PE-23,PE,220670,Iza Arruda,titular,2023-02-01,,,,
+PE-24,PE,157130,Túlio Gadêlha,titular,2023-02-01,,,,
+PE-25,PE,220668,Maria Arraes,titular,2023-02-01,,,,
+PI-01,PI,220688,Dr. Francisco,titular,2023-02-01,,,,
+PI-02,PI,220700,Florentino Neto,titular,2023-02-01,,,,
+PI-03,PI,191923,Flávio Nogueira,titular,2023-02-01,,,,
+PI-04,PI,220697,Jadyel Alencar,titular,2023-02-01,,,,
+PI-05,PI,188097,Merlong Solano,efetivado,2023-02-01,,alta,posse em vaga sem titular original,
+PI-06,PI,220699,Castro Neto,titular,2023-02-01,,,,
+PI-07,PI,74317,Júlio Cesar,titular,2023-02-01,,,,
+PI-08,PI,204431,Marcos Aurélio Sampaio,titular,2023-02-01,,,,
+PI-09,PI,66385,Julio Arcoverde,titular,2023-02-01,2025-11-04,,,Secretário municipal (capital)
+PI-09,PI,234406,Elmano Férrer,suplente,2025-11-04,2026-02-04,alta,partido/federação,Volta do titular
+PI-09,PI,66385,Julio Arcoverde,titular,2026-02-04,,,,
+PI-10,PI,123086,Átila Lira,titular,2023-02-01,,,,
+RN-01,RN,204473,General Girão,titular,2023-02-01,,,,
+RN-02,RN,141459,João Maia,titular,2023-02-01,,,,
+RN-03,RN,220624,Robinson Faria,titular,2023-02-01,,,,
+RN-04,RN,220621,Sargento Gonçalves,titular,2023-02-01,,,,
+RN-05,RN,204445,Fernando Mineiro,titular,2023-02-01,,,,
+RN-06,RN,204453,Natália Bonavides,titular,2023-02-01,,,,
+RN-07,RN,109429,Benes Leocádio,titular,2023-02-01,,,,
+RN-08,RN,220627,Paulinho Freire,titular,2023-02-01,2025-01-01,,,Renúncia
+RN-08,RN,213762,Carla Dickson,efetivado,2025-01-01,,alta,partido/federação,
+SE-01,SE,220561,Delegada Katarina,titular,2023-02-01,,,,
+SE-02,SE,171623,Fabio Reis,titular,2023-02-01,2024-02-06,,,Secretário de Estado
+SE-02,SE,227660,Nitinho,suplente,2024-02-06,2024-11-28,alta,partido/federação,Volta do titular
+SE-02,SE,171623,Fabio Reis,titular,2024-11-28,2024-12-16,,,Secretário de Estado
+SE-02,SE,227660,Nitinho,suplente,2024-12-16,2024-12-30,alta,partido/federação,Volta do titular
+SE-02,SE,171623,Fabio Reis,titular,2024-12-30,2025-01-08,,,Secretário de Estado
+SE-02,SE,227660,Nitinho,suplente,2025-01-08,2025-07-21,alta,partido/federação,Volta do titular
+SE-02,SE,171623,Fabio Reis,titular,2025-07-21,,,,
+SE-03,SE,165470,Rodrigo Valadares,titular,2023-02-01,,,,
+SE-04,SE,220564,Yandra Moura,titular,2023-02-01,2024-07-04,,,Licença (afastamento conjunto)
+SE-04,SE,68720,Fábio Henrique,suplente,2024-07-09,2024-11-03,alta,partido/federação,Volta do titular
+SE-04,SE,220564,Yandra Moura,titular,2024-11-03,,,,
+SE-05,SE,220563,Icaro de Valmir,titular,2023-02-01,2024-07-05,,,Licença (afastamento conjunto)
+SE-05,SE,74052,Bosco Costa,suplente,2024-07-08,2024-11-04,alta,partido/federação,Volta do titular
+SE-05,SE,220563,Icaro de Valmir,titular,2024-11-04,,,,
+SE-06,SE,220560,Thiago de Joaldo,titular,2023-02-01,2024-06-14,,,Licença (afastamento conjunto)
+SE-06,SE,229069,Capitão Samuel,suplente,2024-06-18,2024-10-13,alta,partido/federação,Volta do titular
+SE-06,SE,220560,Thiago de Joaldo,titular,2024-10-13,,,,
+SE-07,SE,178970,João Daniel,titular,2023-02-01,,,,
+SE-08,SE,204408,Gustinho Ribeiro,titular,2023-02-01,,,,
+DF-01,DF,220534,Fred Linhares,titular,2023-02-01,,,,
+DF-02,DF,220531,Gilvan Maximo,titular,2023-02-01,2025-07-30,,,Recontagem/retotalização
+DF-02,DF,141533,Rodrigo Rollemberg,titular,2025-07-31,,alta,recontagem/retotalização,
+DF-03,DF,204372,Julio Cesar Ribeiro,titular,2023-02-01,2023-03-07,,,Secretário de Estado
+DF-03,DF,89536,Prof. Paulo Fernando,suplente,2023-03-07,2023-04-18,alta,partido/federação,Volta do titular
+DF-03,DF,204372,Julio Cesar Ribeiro,titular,2023-04-18,2023-05-09,,,Secretário de Estado
+DF-03,DF,89536,Prof. Paulo Fernando,suplente,2023-05-09,2023-07-13,alta,partido/federação,Volta do titular
+DF-03,DF,204372,Julio Cesar Ribeiro,titular,2023-07-13,2023-08-02,,,Secretário de Estado
+DF-03,DF,89536,Prof. Paulo Fernando,suplente,2023-08-02,2023-10-02,alta,partido/federação,Volta do titular
+DF-03,DF,204372,Julio Cesar Ribeiro,titular,2023-10-02,2023-10-24,,,Secretário de Estado
+DF-03,DF,89536,Prof. Paulo Fernando,suplente,2023-10-24,2024-01-04,alta,partido/federação,Volta do titular
+DF-03,DF,204372,Julio Cesar Ribeiro,titular,2024-01-04,,,,
+DF-04,DF,73579,Alberto Fraga,titular,2023-02-01,,,,
+DF-05,DF,204374,Bia Kicis,titular,2023-02-01,,,,
+DF-06,DF,160575,Erika Kokay,titular,2023-02-01,,,,
+DF-07,DF,220533,Prof. Reginaldo Veras,titular,2023-02-01,,,,
+DF-08,DF,220532,Rafael Prudente,titular,2023-02-01,,,,
+GO-01,GO,220571,Daniel Agrobom,titular,2023-02-01,,,,
+GO-02,GO,220568,Gustavo Gayer,titular,2023-02-01,,,,
+GO-03,GO,166402,Magda Mofatto,titular,2023-02-01,,,,
+GO-04,GO,204390,Professor Alcides,titular,2023-02-01,,,,
+GO-05,GO,178876,Célio Silveira,titular,2023-02-01,2023-08-03,,,Licença (afastamento conjunto)
+GO-05,GO,226410,Márcio Correa,suplente,2023-08-08,2023-12-06,alta,partido/federação,Volta do titular
+GO-05,GO,178876,Célio Silveira,titular,2023-12-06,,,,
+GO-06,GO,220572,Marussa Boldrin,titular,2023-02-01,,,,
+GO-07,GO,121948,Adriano do Baldy,titular,2023-02-01,,,,
+GO-08,GO,204391,José Nelto,titular,2023-02-01,,,,
+GO-09,GO,220565,Delegada Adriana Accorsi,titular,2023-02-01,,,,
+GO-10,GO,74371,Rubens Otoni,titular,2023-02-01,,,,
+GO-11,GO,204412,Dr. Zacharias Calil,titular,2023-02-01,,,,
+GO-12,GO,220569,Silvye Alves,titular,2023-02-01,,,,
+GO-13,GO,160598,Flávia Morais,titular,2023-02-01,,,,
+GO-14,GO,204419,Glaustin da Fokus,titular,2023-02-01,2025-08-01,,,Licença (afastamento conjunto)
+GO-14,GO,233598,Samuel Santos,suplente,2025-08-05,2025-12-03,alta,partido/federação,Volta do titular
+GO-14,GO,204419,Glaustin da Fokus,titular,2025-12-03,,,,
+GO-15,GO,220570,Dr. Ismael Alexandrino,titular,2023-02-01,,,,
+GO-16,GO,220566,Lêda Borges,titular,2023-02-01,,,,
+GO-17,GO,220567,Jeferson Rodrigues,titular,2023-02-01,2023-12-12,,,Licença (afastamento conjunto)
+GO-17,GO,100689,Hildo do Candango,suplente,2023-12-12,2024-04-11,alta,partido/federação,Volta do titular
+GO-17,GO,220567,Jeferson Rodrigues,titular,2024-04-11,,,,
+MS-01,MS,204358,Beto Pereira,titular,2023-02-01,,,,
+MS-02,MS,141411,Dagoberto Nogueira,titular,2023-02-01,,,,
+MS-03,MS,74374,Geraldo Resende,titular,2023-02-01,,,,
+MS-04,MS,220547,Marcos Pollon,titular,2023-02-01,,,,
+MS-05,MS,220546,Rodolfo Nogueira,titular,2023-02-01,,,,
+MS-06,MS,220548,Camila Jara,titular,2023-02-01,,,,
+MS-07,MS,74376,Vander Loubet,titular,2023-02-01,,,,
+MS-08,MS,204351,Dr. Luiz Ovando,titular,2023-02-01,,,,
+MT-01,MT,220593,Abilio Brunini,titular,2023-02-01,2025-01-01,,,Renúncia
+MT-01,MT,230767,Rodrigo da Zaeli,efetivado,2025-01-01,,alta,partido/federação,
+MT-02,MT,220596,Amália Barros,titular,2023-02-01,2024-05-12,,,Falecimento
+MT-02,MT,204449,Nelson Barbudo,efetivado,2024-05-21,,alta,partido/federação,
+MT-03,MT,220595,Coronel Fernanda,titular,2023-02-01,,,,
+MT-04,MT,204472,José Medeiros,titular,2023-02-01,,,,
+MT-05,MT,198783,Emanuel Pinheiro Neto,titular,2023-02-01,,,,
+MT-06,MT,204474,Juarez Costa,titular,2023-02-01,2023-05-30,,,Licença (afastamento conjunto)
+MT-06,MT,225727,Flavinha,suplente,2023-05-30,2023-09-29,alta,partido/federação,Volta do titular
+MT-06,MT,204474,Juarez Costa,titular,2023-09-29,2024-05-27,,,Licença (afastamento conjunto)
+MT-06,MT,228837,Juliana Kolankiewicz,suplente,2024-05-27,2024-09-27,alta,partido/federação,Volta do titular
+MT-06,MT,204474,Juarez Costa,titular,2024-09-27,,,,
+MT-07,MT,220594,Coronel Assis,titular,2023-02-01,,,,
+MT-08,MT,178905,Fabio Garcia,titular,2023-02-01,2023-07-07,,,Secretário de Estado
+MT-08,MT,226179,Gisela Simona,suplente,2023-07-07,2023-12-01,alta,partido/federação,Volta do titular
+MT-08,MT,178905,Fabio Garcia,titular,2023-12-01,2023-12-04,,,Secretário de Estado
+MT-08,MT,226179,Gisela Simona,suplente,2023-12-04,2024-12-05,alta,partido/federação,Volta do titular
+MT-08,MT,178905,Fabio Garcia,titular,2024-12-05,2024-12-06,,,Secretário de Estado
+MT-08,MT,226179,Gisela Simona,suplente,2024-12-06,2025-09-17,alta,partido/federação,Volta do titular
+MT-08,MT,178905,Fabio Garcia,titular,2025-09-17,2025-09-18,,,Secretário de Estado
+MT-08,MT,226179,Gisela Simona,suplente,2025-09-18,2025-11-13,alta,partido/federação,Volta do titular
+MT-08,MT,178905,Fabio Garcia,titular,2025-11-13,2025-11-14,,,Secretário de Estado
+MT-08,MT,226179,Gisela Simona,suplente,2025-11-14,2026-04-06,alta,partido/federação,Volta do titular
+MT-08,MT,178905,Fabio Garcia,titular,2026-04-06,,,,
+ES-01,ES,220528,Dr. Victor Linhalis,titular,2023-02-01,,,,
+ES-02,ES,220529,Gilson Daniel,titular,2023-02-01,,,,
+ES-03,ES,204355,Da Vitoria,titular,2023-02-01,,,,
+ES-04,ES,178871,Evair Vieira de Melo,titular,2023-02-01,,,,
+ES-05,ES,178873,Helder Salomão,titular,2023-02-01,,,,
+ES-06,ES,220527,Jack Rocha,titular,2023-02-01,,,,
+ES-07,ES,204356,Amaro Neto,titular,2023-02-01,,,,
+ES-08,ES,220530,Messias Donato,titular,2023-02-01,,,,
+ES-09,ES,220526,Gilvan da Federal,titular,2023-02-01,2025-05-06,,,Suspensão
+ES-09,ES,220526,Gilvan da Federal,titular,2025-08-04,,,,
+ES-10,ES,160517,Paulo Folletto,titular,2023-02-01,,,,
+MG-01,MG,160758,Domingos Sávio,titular,2023-02-01,,,,
+MG-02,MG,161550,Emidinho Madeira,titular,2023-02-01,,,,
+MG-03,MG,160640,Eros Biondini,titular,2023-02-01,,,,
+MG-04,MG,204520,Junio Amaral,titular,2023-02-01,2024-07-09,,,Licença (afastamento conjunto)
+MG-04,MG,229333,Gláucia Santiago,suplente,2024-07-09,2024-11-08,alta,partido/federação,Volta do titular
+MG-04,MG,204520,Junio Amaral,titular,2024-11-08,,,,
+MG-05,MG,74585,Lincoln Portela,titular,2023-02-01,,,,
+MG-06,MG,179000,Marcelo Álvaro Antônio,titular,2023-02-01,,,,
+MG-07,MG,220628,Mauricio do Vôlei,titular,2023-02-01,,,,
+MG-08,MG,209787,Nikolas Ferreira,titular,2023-02-01,,,,
+MG-09,MG,220620,Rosângela Reis,titular,2023-02-01,,,,
+MG-10,MG,220631,Samuel Viana,titular,2023-02-01,,,,
+MG-11,MG,204517,Zé Vitor,titular,2023-02-01,,,,
+MG-12,MG,220632,Ana Pimentel,titular,2023-02-01,,,,
+MG-13,MG,220629,Dandara,titular,2023-02-01,,,,
+MG-14,MG,74156,Leonardo Monteiro,titular,2023-02-01,,,,
+MG-15,MG,171786,Miguel Ângelo,titular,2023-02-01,,,,
+MG-16,MG,74159,Odair Cunha,titular,2023-02-01,2026-05-19,,,Renúncia
+MG-16,MG,236284,Glaycon Franco,efetivado,2026-05-20,2026-09-14,alta,partido/federação,Perda de mandato
+MG-16,MG,74581,Gilmar Machado,efetivado,2026-09-15,,alta,"saída de suplente, partido/federação",
+MG-17,MG,160556,Padre João,titular,2023-02-01,,,,
+MG-18,MG,74160,Patrus Ananias,titular,2023-02-01,,,,
+MG-19,MG,204492,Paulo Guedes,titular,2023-02-01,,,,
+MG-20,MG,74161,Reginaldo Lopes,titular,2023-02-01,,,,
+MG-21,MG,204480,Rogério Correia,titular,2023-02-01,,,,
+MG-22,MG,204515,André Janones,titular,2023-02-01,2025-07-15,,,Suspensão
+MG-22,MG,204515,André Janones,titular,2025-10-16,,,,
+MG-23,MG,210989,Bruno Farias,titular,2023-02-01,,,,
+MG-24,MG,220625,Delegada Ione,titular,2023-02-01,,,,
+MG-25,MG,198197,Greyce Elias,titular,2023-02-01,,,,
+MG-26,MG,160510,Luis Tibé,titular,2023-02-01,2026-03-31,,,Licença (afastamento conjunto)
+MG-26,MG,235712,Vavá,suplente,2026-04-01,2026-07-31,alta,partido/federação,Volta do titular
+MG-26,MG,160510,Luis Tibé,titular,2026-07-31,,,,
+MG-27,MG,160588,Diego Andrade,titular,2023-02-01,,,,
+MG-28,MG,141487,Luiz Fernando Faria,titular,2023-02-01,,,,
+MG-29,MG,178895,Misael Varella,titular,2023-02-01,,,,
+MG-30,MG,92776,Stefano Aguiar,titular,2023-02-01,,,,
+MG-31,MG,204518,Dr. Frederico,titular,2023-02-01,,,,
+MG-32,MG,204494,Fred Costa,titular,2023-02-01,2023-12-12,,,Licença (afastamento conjunto)
+MG-32,MG,227370,Felipe Saliba,suplente,2023-12-12,2024-04-12,alta,partido/federação,Volta do titular
+MG-32,MG,204494,Fred Costa,titular,2024-04-12,,,,
+MG-33,MG,220630,Pedro Aihara,titular,2023-02-01,2025-10-30,,,Licença (afastamento conjunto)
+MG-33,MG,234388,Fabiano Cazeca,suplente,2025-10-30,2026-02-28,alta,partido/federação,Volta do titular
+MG-33,MG,220630,Pedro Aihara,titular,2026-02-28,,,,
+MG-34,MG,107970,Ana Paula Leão,titular,2023-02-01,,,,
+MG-35,MG,160599,Dimas Fabiano,titular,2023-02-01,,,,
+MG-36,MG,204524,Pinheirinho,titular,2023-02-01,,,,
+MG-37,MG,204512,Delegado Marcelo Freitas,titular,2023-02-01,,,,
+MG-38,MG,220626,Rafael Simoes,titular,2023-02-01,,,,
+MG-39,MG,141531,Rodrigo de Castro,titular,2023-02-01,,,,
+MG-40,MG,204539,Hercílio Coelho Diniz,titular,2023-02-01,,,,
+MG-41,MG,178896,Newton Cardoso Jr,titular,2023-02-01,2024-03-07,,,Licença (afastamento conjunto)
+MG-41,MG,223398,Ulisses Guimarães,suplente,2024-03-12,2024-07-06,alta,partido/federação,Volta do titular
+MG-41,MG,178896,Newton Cardoso Jr,titular,2024-07-06,,,,
+MG-42,MG,220623,Duda Salabert,titular,2023-02-01,,,,
+MG-43,MG,74158,Mário Heringer,titular,2023-02-01,2024-04-08,,,Licença (afastamento conjunto)
+MG-43,MG,228272,Délio Pinheiro,suplente,2024-04-09,2024-08-07,alta,partido/federação,Volta do titular
+MG-43,MG,74158,Mário Heringer,titular,2024-08-07,,,,
+MG-44,MG,204508,Igor Timo,titular,2023-02-01,,,,
+MG-45,MG,220622,Nely Aquino,titular,2023-02-01,2025-11-18,,,Licença (afastamento conjunto)
+MG-45,MG,77003,Sergio Santos Rodrigues,suplente,2025-11-18,2026-03-19,alta,partido/federação,Volta do titular
+MG-45,MG,220622,Nely Aquino,titular,2026-03-19,,,,
+MG-46,MG,74646,Aécio Neves,titular,2023-02-01,,,,
+MG-47,MG,141516,Paulo Abi-Ackel,titular,2023-02-01,,,,
+MG-48,MG,204491,Gilberto Abramo,titular,2023-02-01,,,,
+MG-49,MG,98057,Lafayette de Andrada,titular,2023-02-01,,,,
+MG-50,MG,160518,Weliton Prado,titular,2023-02-01,,,,
+MG-51,MG,204482,Euclydes Pettersen,titular,2023-02-01,2024-02-22,,,Licença (afastamento conjunto)
+MG-51,MG,227800,Duarte Gonçalves Jr,suplente,2024-02-27,2024-06-22,alta,partido/federação,Volta do titular
+MG-51,MG,204482,Euclydes Pettersen,titular,2024-06-22,2025-02-26,,,Licença (afastamento conjunto)
+MG-51,MG,208297,Katia Dias,suplente,2025-02-27,2025-06-28,alta,partido/federação,Volta do titular
+MG-51,MG,204482,Euclydes Pettersen,titular,2025-06-28,2026-03-25,,,Licença (afastamento conjunto)
+MG-51,MG,235620,Ilacir Bicalho,suplente,2026-03-25,2026-07-25,alta,partido/federação,Volta do titular
+MG-51,MG,204482,Euclydes Pettersen,titular,2026-07-25,,,,
+MG-52,MG,206018,Célia Xakriabá,titular,2023-02-01,,,,
+MG-53,MG,160632,Zé Silva,titular,2023-02-01,,,,
+RJ-01,RJ,178937,Altineu Côrtes,titular,2023-02-01,,,,
+RJ-02,RJ,204460,Carlos Jordy,titular,2023-02-01,2024-05-06,,,Licença (afastamento conjunto)
+RJ-02,RJ,227991,Dr Flávio,suplente,2024-05-07,2024-09-04,alta,partido/federação,Volta do titular
+RJ-02,RJ,204460,Carlos Jordy,titular,2024-09-04,,,,
+RJ-03,RJ,204462,Chris Tonietto,titular,2023-02-01,,,,
+RJ-04,RJ,220619,Delegado Ramagem,titular,2023-02-01,2025-12-18,,,Perda de mandato
+RJ-04,RJ,227991,Dr Flávio,efetivado,2025-12-29,,media,"vaga livre, mesma chave",
+RJ-05,RJ,220611,General Pazuello,titular,2023-02-01,,,,
+RJ-06,RJ,204444,Helio Lopes,titular,2023-02-01,,,,
+RJ-07,RJ,220616,Luciano Vieira,titular,2023-02-01,2026-05-28,,,Licença (afastamento conjunto)
+RJ-07,RJ,236375,Marcos Braz,suplente,2026-05-28,2026-10-10,alta,partido/federação,Volta do titular
+RJ-07,RJ,220616,Luciano Vieira,titular,2026-10-10,,,,
+RJ-08,RJ,204455,Luiz Lima,titular,2023-02-01,,,,
+RJ-09,RJ,220613,Roberto Monteiro Pai,titular,2023-02-01,,,,
+RJ-10,RJ,178946,Soraya Santos,titular,2023-02-01,,,,
+RJ-11,RJ,178947,Sóstenes Cavalcante,titular,2023-02-01,,,,
+RJ-12,RJ,73701,Benedita da Silva,titular,2023-02-01,,,,
+RJ-13,RJ,220602,Dimas Gadelha,titular,2023-02-01,,,,
+RJ-14,RJ,74848,Jandira Feghali,titular,2023-02-01,,,,
+RJ-15,RJ,74858,Lindbergh Farias,titular,2023-02-01,,,,
+RJ-16,RJ,220606,Reimont,titular,2023-02-01,,,,
+RJ-17,RJ,220601,Washington Quaquá,titular,2023-02-01,2025-01-01,,,Renúncia
+RJ-17,RJ,230765,Enfermeira Rejane,efetivado,2025-01-01,,alta,partido/federação,
+RJ-18,RJ,204476,Chiquinho Brazão,titular,2023-02-01,2023-10-03,,,Secretário municipal (capital)
+RJ-18,RJ,221329,Ricardo Abrão,suplente,2023-10-03,2023-11-21,alta,partido/federação,Volta do titular
+RJ-18,RJ,204476,Chiquinho Brazão,titular,2023-11-21,2023-11-23,,,Secretário municipal (capital)
+RJ-18,RJ,221329,Ricardo Abrão,suplente,2023-11-23,2024-02-01,alta,partido/federação,Volta do titular
+RJ-18,RJ,204476,Chiquinho Brazão,titular,2024-02-01,2025-04-24,,,Perda de mandato
+RJ-18,RJ,221329,Ricardo Abrão,efetivado,2025-04-25,,alta,partido/federação,
+RJ-19,RJ,220603,Dani Cunha,titular,2023-02-01,,,,
+RJ-20,RJ,204459,Daniela do Waguinho,titular,2023-02-01,2023-02-02,,,Ministro de Estado
+RJ-20,RJ,221329,Ricardo Abrão,suplente,2023-02-03,2023-07-17,alta,partido/federação,Volta do titular
+RJ-20,RJ,204459,Daniela do Waguinho,titular,2023-07-17,,,,
+RJ-21,RJ,204457,Juninho do Pneu,titular,2023-02-01,,,,
+RJ-22,RJ,178943,Marcos Soares,titular,2023-02-01,,,,
+RJ-23,RJ,220617,Murillo Gouvea,titular,2023-02-01,,,,
+RJ-24,RJ,74171,Chico Alencar,titular,2023-02-01,,,,
+RJ-25,RJ,152605,Glauber Braga,titular,2023-02-01,2025-12-11,,,Suspensão
+RJ-25,RJ,234788,Heloísa Helena,suplente,2025-12-16,2026-06-12,alta,partido/federação,Volta do titular
+RJ-25,RJ,152605,Glauber Braga,titular,2026-06-12,,,,
+RJ-26,RJ,220615,Pastor Henrique Vieira,titular,2023-02-01,,,,
+RJ-27,RJ,204464,Talíria Petrone,titular,2023-02-01,,,,
+RJ-28,RJ,220598,Tarcísio Motta,titular,2023-02-01,,,,
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2023-02-01,2023-05-23,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2023-05-23,2023-05-24,alta,partido/federação,Secretário municipal (capital)
+RJ-29,RJ,217480,Jones Moura,suplente,2023-05-24,2023-07-04,alta,"saída de suplente, partido/federação",Volta do titular
+RJ-29,RJ,143942,Caio Vianna,suplente,2023-07-04,2023-11-21,alta,remanejado na lista do partido,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2023-11-21,2023-12-05,,,Secretário municipal (capital)
+RJ-29,RJ,204433,Marcelo Calero,suplente,2023-12-05,2023-12-06,alta,"partido/federação, mais próxima",Secretário municipal (capital)
+RJ-29,RJ,143942,Caio Vianna,suplente,2023-12-06,2024-04-01,alta,"saída de suplente, partido/federação",Volta do titular
+RJ-29,RJ,204433,Marcelo Calero,suplente,2024-04-01,2024-05-03,alta,volta do titular,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2024-05-03,2024-05-27,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2024-05-27,2024-06-27,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2024-06-27,2024-07-16,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2024-07-16,2024-08-15,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2024-08-15,2024-10-08,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2024-10-08,2024-10-25,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2024-10-25,2024-11-04,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2024-11-04,2024-12-03,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2024-12-03,2024-12-06,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2024-12-06,2024-12-23,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2024-12-23,2024-12-30,,,Secretário municipal (capital)
+RJ-29,RJ,204433,Marcelo Calero,suplente,2024-12-30,2025-01-22,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2025-01-22,2025-02-03,,,Secretário municipal (capital)
+RJ-29,RJ,204433,Marcelo Calero,suplente,2025-02-03,2025-02-07,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2025-02-07,2025-03-07,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2025-03-07,2025-03-12,alta,partido/federação,Secretário municipal (capital)
+RJ-29,RJ,143942,Caio Vianna,suplente,2025-03-12,2025-11-07,alta,volta do titular,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2025-11-07,2025-11-10,,,Secretário municipal (capital)
+RJ-29,RJ,143942,Caio Vianna,suplente,2025-11-10,2025-11-24,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2025-11-24,2025-11-25,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2025-11-25,2025-11-26,alta,partido/federação,Secretário municipal (capital)
+RJ-29,RJ,143942,Caio Vianna,suplente,2025-11-26,2025-12-22,alta,volta do titular,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2025-12-22,2025-12-23,,,Secretário municipal (capital)
+RJ-29,RJ,143942,Caio Vianna,suplente,2025-12-23,2026-02-04,alta,partido/federação,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2026-02-04,2026-02-05,,,Secretário municipal (capital)
+RJ-29,RJ,225386,Renan Ferreirinha,suplente,2026-02-05,2026-02-06,alta,partido/federação,Secretário municipal (capital)
+RJ-29,RJ,143942,Caio Vianna,suplente,2026-02-06,2026-03-31,alta,volta do titular,Volta do titular
+RJ-29,RJ,220614,Dr. Daniel Soranz,titular,2026-03-31,,,,
+RJ-30,RJ,141450,Hugo Leal,titular,2023-02-01,2023-04-28,,,Secretário de Estado
+RJ-30,RJ,204433,Marcelo Calero,suplente,2023-05-09,2023-05-10,media,"vaga livre, mesma chave",Secretário municipal (capital)
+RJ-30,RJ,143942,Caio Vianna,suplente,2023-05-23,2023-07-04,media,"vaga livre, mesma chave",Volta do titular
+RJ-30,RJ,141450,Hugo Leal,titular,2023-07-04,2023-07-13,,,Secretário de Estado
+RJ-30,RJ,217480,Jones Moura,suplente,2023-07-13,2023-08-16,alta,partido/federação,Volta do titular
+RJ-30,RJ,225386,Renan Ferreirinha,suplente,2023-08-16,2023-08-18,alta,"saída de suplente, partido/federação",Secretário municipal (capital)
+RJ-30,RJ,217480,Jones Moura,suplente,2023-08-18,2023-09-25,alta,"saída de suplente, partido/federação",Volta do titular
+RJ-30,RJ,204433,Marcelo Calero,suplente,2023-09-25,2023-09-29,alta,"saída de suplente, partido/federação",Secretário municipal (capital)
+RJ-30,RJ,217480,Jones Moura,suplente,2023-09-29,2023-10-02,alta,volta do titular,Volta do titular
+RJ-30,RJ,141450,Hugo Leal,titular,2023-10-02,2023-10-06,,,Secretário de Estado
+RJ-30,RJ,217480,Jones Moura,suplente,2023-10-06,2023-11-16,alta,partido/federação,Volta do titular
+RJ-30,RJ,141450,Hugo Leal,titular,2023-11-16,2023-12-05,,,Secretário de Estado
+RJ-30,RJ,225386,Renan Ferreirinha,suplente,2023-12-05,2023-12-06,alta,partido/federação,Secretário municipal (capital)
+RJ-30,RJ,217480,Jones Moura,suplente,2023-12-06,2024-01-30,alta,volta do titular,Volta do titular
+RJ-30,RJ,141450,Hugo Leal,titular,2024-01-30,,,,
+RJ-31,RJ,74856,Laura Carneiro,titular,2023-02-01,,,,
+RJ-32,RJ,122158,Pedro Paulo,titular,2023-02-01,,,,
+RJ-33,RJ,204450,Doutor Luizinho,titular,2023-02-01,2023-02-13,,,Secretário de Estado
+RJ-33,RJ,204448,Luiz Antonio Corrêa,suplente,2023-02-15,2023-09-12,alta,partido/federação,Volta do titular
+RJ-33,RJ,204450,Doutor Luizinho,titular,2023-09-12,,,,
+RJ-34,RJ,74253,Julio Lopes,titular,2023-02-01,,,,
+RJ-35,RJ,160161,Marcelo Queiroz,titular,2023-02-01,2025-08-22,,,Secretário municipal (capital)
+RJ-35,RJ,204448,Luiz Antonio Corrêa,suplente,2025-08-22,2025-11-07,alta,partido/federação,Volta do titular
+RJ-35,RJ,160161,Marcelo Queiroz,titular,2025-11-07,2025-11-19,,,Secretário municipal (capital)
+RJ-35,RJ,204448,Luiz Antonio Corrêa,suplente,2025-11-19,2025-12-01,alta,partido/federação,Volta do titular
+RJ-35,RJ,160161,Marcelo Queiroz,titular,2025-12-01,2025-12-03,,,Secretário municipal (capital)
+RJ-35,RJ,204448,Luiz Antonio Corrêa,suplente,2025-12-03,2026-02-04,alta,partido/federação,Volta do titular
+RJ-35,RJ,160161,Marcelo Queiroz,titular,2026-02-04,2026-02-23,,,Secretário municipal (capital)
+RJ-35,RJ,204448,Luiz Antonio Corrêa,suplente,2026-02-23,2026-03-02,alta,partido/federação,Volta do titular
+RJ-35,RJ,160161,Marcelo Queiroz,titular,2026-03-02,,,,
+RJ-36,RJ,205550,Jorge Braz,titular,2023-02-01,,,,
+RJ-37,RJ,220599,Marcelo Crivella,titular,2023-02-01,,,,
+RJ-38,RJ,178945,Rosangela Gomes,titular,2023-02-01,2023-02-08,,,Secretário de Estado
+RJ-38,RJ,222429,Luis Carlos Gomes,suplente,2023-02-08,2023-11-21,alta,partido/federação,Volta do titular
+RJ-38,RJ,178945,Rosangela Gomes,titular,2023-11-21,2023-11-28,,,Secretário de Estado
+RJ-38,RJ,222429,Luis Carlos Gomes,suplente,2023-11-28,2024-12-03,alta,partido/federação,Volta do titular
+RJ-38,RJ,178945,Rosangela Gomes,titular,2024-12-03,2024-12-06,,,Secretário de Estado
+RJ-38,RJ,222429,Luis Carlos Gomes,suplente,2024-12-06,2025-11-04,alta,partido/federação,Volta do titular
+RJ-38,RJ,178945,Rosangela Gomes,titular,2025-11-04,2025-11-07,,,Secretário de Estado
+RJ-38,RJ,222429,Luis Carlos Gomes,suplente,2025-11-07,2026-03-25,alta,partido/federação,Volta do titular
+RJ-38,RJ,178945,Rosangela Gomes,titular,2026-03-25,,,,
+RJ-39,RJ,204456,Gutemberg Reis,titular,2023-02-01,,,,
+RJ-40,RJ,204441,Otoni de Paula,titular,2023-02-01,,,,
+RJ-41,RJ,220604,Marcos Tavares,titular,2023-02-01,,,,
+RJ-42,RJ,220618,Sargento Portugal,titular,2023-02-01,,,,
+RJ-43,RJ,220607,Max Lemos,titular,2023-02-01,,,,
+RJ-44,RJ,220605,Bandeira de Mello,titular,2023-02-01,,,,
+RJ-45,RJ,220612,Bebeto,titular,2023-02-01,,,,
+RJ-46,RJ,160512,Aureo Ribeiro,titular,2023-02-01,,,,
+SP-01,SP,220638,Antonio Carlos Rodrigues,titular,2023-02-01,,,,
+SP-02,SP,178829,Capitão Augusto,titular,2023-02-01,,,,
+SP-03,SP,204507,Carla Zambelli,titular,2023-02-01,2025-05-29,,,Licença (afastamento conjunto)
+SP-03,SP,204514,Coronel Tadeu,suplente,2025-06-16,2025-07-20,media,"vaga livre, mesma chave",Volta do titular
+SP-03,SP,160561,Missionário José Olimpio,suplente,2025-07-20,2025-10-03,alta,remanejado na lista do partido,Volta do titular
+SP-03,SP,204507,Carla Zambelli,titular,2025-10-03,2025-12-14,,,Renúncia
+SP-03,SP,221328,Adilson Barroso,efetivado,2025-12-14,,alta,partido/federação,
+SP-04,SP,220654,Delegado Paulo Bilynskyj,titular,2023-02-01,,,,
+SP-05,SP,92346,Eduardo Bolsonaro,titular,2023-02-01,2025-03-20,,,Licença (afastamento conjunto)
+SP-05,SP,160561,Missionário José Olimpio,suplente,2025-03-21,2025-07-20,alta,partido/federação,Volta do titular
+SP-05,SP,92346,Eduardo Bolsonaro,titular,2025-07-20,2025-12-18,,,Perda de mandato
+SP-05,SP,160561,Missionário José Olimpio,efetivado,2025-12-18,,alta,partido/federação,
+SP-06,SP,204531,Guilherme Derrite,titular,2023-02-01,2023-02-02,,,Secretário de Estado
+SP-06,SP,221328,Adilson Barroso,suplente,2023-02-02,2024-03-12,alta,partido/federação,Volta do titular
+SP-06,SP,204531,Guilherme Derrite,titular,2024-03-12,2024-03-21,,,Secretário de Estado
+SP-06,SP,221328,Adilson Barroso,suplente,2024-03-21,2025-11-06,alta,partido/federação,Volta do titular
+SP-06,SP,204531,Guilherme Derrite,titular,2025-11-06,2025-11-24,,,Secretário de Estado
+SP-06,SP,221328,Adilson Barroso,suplente,2025-11-24,2025-12-02,alta,partido/federação,Volta do titular
+SP-06,SP,204531,Guilherme Derrite,titular,2025-12-02,,,,
+SP-07,SP,74273,Jefferson Campos,titular,2023-02-01,,,,
+SP-08,SP,204485,Luiz Carlos Motta,titular,2023-02-01,,,,
+SP-09,SP,204526,Luiz Philippe de Orleans e Bragança,titular,2023-02-01,,,,
+SP-10,SP,178983,Marcio Alvino,titular,2023-02-01,,,,
+SP-11,SP,220655,Mario Frias,titular,2023-02-01,,,,
+SP-12,SP,178985,Miguel Lombardi,titular,2023-02-01,,,,
+SP-13,SP,160558,Paulo Freire Costa,titular,2023-02-01,,,,
+SP-14,SP,160601,Pr. Marco Feliciano,titular,2023-02-01,,,,
+SP-15,SP,220633,Ricardo Salles,titular,2023-02-01,,,,
+SP-16,SP,204525,Rosana Valle,titular,2023-02-01,,,,
+SP-17,SP,160976,Tiririca,titular,2023-02-01,,,,
+SP-18,SP,204501,Alencar Santana,titular,2023-02-01,,,,
+SP-19,SP,204503,Alexandre Padilha,titular,2023-02-01,2023-02-02,,,Ministro de Estado
+SP-19,SP,74283,Vicentinho,suplente,2023-02-03,2025-01-31,alta,volta do titular,Volta do titular
+SP-19,SP,204503,Alexandre Padilha,titular,2025-01-31,2025-02-03,,,Ministro de Estado
+SP-19,SP,221148,Alfredinho,suplente,2025-02-03,,alta,"partido/federação, mais próxima",
+SP-20,SP,73433,Arlindo Chinaglia,titular,2023-02-01,,,,
+SP-21,SP,141398,Carlos Zarattini,titular,2023-02-01,,,,
+SP-22,SP,141456,Jilmar Tatto,titular,2023-02-01,,,,
+SP-23,SP,220640,Juliana Cardoso,titular,2023-02-01,,,,
+SP-24,SP,162067,Kiko Celeguim,titular,2023-02-01,,,,
+SP-25,SP,220636,Luiz Marinho,titular,2023-02-01,2023-02-02,,,Ministro de Estado
+SP-25,SP,178987,Orlando Silva,suplente,2023-02-02,2025-02-01,alta,"partido/federação, mais próxima",Volta do titular
+SP-25,SP,220636,Luiz Marinho,titular,2025-02-01,2025-02-03,,,Ministro de Estado
+SP-25,SP,178987,Orlando Silva,suplente,2025-02-03,,alta,"partido/federação, mais próxima",
+SP-26,SP,178986,Nilto Tatto,titular,2023-02-01,,,,
+SP-27,SP,141488,Paulo Teixeira,titular,2023-02-01,2023-02-02,,,Ministro de Estado
+SP-27,SP,221148,Alfredinho,suplente,2023-02-07,2025-02-01,alta,volta do titular,Volta do titular
+SP-27,SP,141488,Paulo Teixeira,titular,2025-02-01,2025-02-03,,,Ministro de Estado
+SP-27,SP,74283,Vicentinho,suplente,2025-02-03,2026-03-31,alta,partido/federação,Volta do titular
+SP-27,SP,141488,Paulo Teixeira,titular,2026-03-31,,,,
+SP-28,SP,73604,Rui Falcão,titular,2023-02-01,2024-07-03,,,Licença (afastamento conjunto)
+SP-28,SP,229259,Pedro Tourinho,suplente,2024-07-08,2024-11-02,alta,partido/federação,Volta do titular
+SP-28,SP,73604,Rui Falcão,titular,2024-11-02,,,,
+SP-29,SP,220645,Erika Hilton,titular,2023-02-01,,,,
+SP-30,SP,220639,Guilherme Boulos,titular,2023-02-01,2025-10-29,,,Ministro de Estado
+SP-30,SP,234310,Ricardo Galvão,suplente,2025-10-29,2026-03-31,alta,partido/federação,Volta do titular
+SP-30,SP,73531,Ivan Valente,suplente,2026-03-31,2026-04-01,alta,remanejado na lista do partido,Volta do titular
+SP-30,SP,221338,Professora Luciene Cavalcante,suplente,2026-04-01,,alta,remanejado na lista do partido,
+SP-31,SP,74784,Luiza Erundina,titular,2023-02-01,,,,
+SP-32,SP,220637,Marina Silva,titular,2023-02-01,2023-02-03,,,Ministro de Estado
+SP-32,SP,221338,Professora Luciene Cavalcante,suplente,2023-02-03,2026-04-01,alta,"partido/federação, mais próxima",
+SP-32,SP,220637,Marina Silva,titular,2026-04-01,,,,
+SP-33,SP,204535,Sâmia Bomfim,titular,2023-02-01,,,,
+SP-34,SP,220643,Sônia Guajajara,titular,2023-02-01,2023-02-02,,,Ministro de Estado
+SP-34,SP,73531,Ivan Valente,suplente,2023-02-03,2026-03-31,alta,partido/federação,Volta do titular
+SP-34,SP,220643,Sônia Guajajara,titular,2026-03-31,,,,
+SP-35,SP,160545,Alexandre Leite,titular,2023-02-01,2025-02-26,,,Secretário municipal (capital)
+SP-35,SP,227433,Douglas Viegas,suplente,2025-02-26,2025-10-30,alta,partido/federação,Volta do titular
+SP-35,SP,160545,Alexandre Leite,titular,2025-10-30,2025-11-03,,,Secretário municipal (capital)
+SP-35,SP,227433,Douglas Viegas,suplente,2025-11-03,2026-03-16,alta,partido/federação,Volta do titular
+SP-35,SP,160545,Alexandre Leite,titular,2026-03-16,,,,
+SP-36,SP,204511,David Soares,titular,2023-02-01,,,,
+SP-37,SP,220646,Felipe Becari,titular,2023-02-01,2023-12-20,,,Secretário municipal (capital)
+SP-37,SP,227433,Douglas Viegas,suplente,2023-12-20,2024-12-02,alta,partido/federação,Volta do titular
+SP-37,SP,220646,Felipe Becari,titular,2024-12-02,2024-12-04,,,Secretário municipal (capital)
+SP-37,SP,227433,Douglas Viegas,suplente,2024-12-04,2025-01-02,alta,partido/federação,Volta do titular
+SP-37,SP,220646,Felipe Becari,titular,2025-01-02,,,,
+SP-38,SP,204536,Kim Kataguiri,titular,2023-02-01,,,,
+SP-39,SP,220648,Marangoni,titular,2023-02-01,,,,
+SP-40,SP,220644,Rosangela Moro,titular,2023-02-01,,,,
+SP-41,SP,74696,Alberto Mourão,titular,2023-02-01,2025-01-01,,,Renúncia
+SP-41,SP,230957,João Cury,efetivado,2025-01-07,,alta,partido/federação,
+SP-42,SP,178975,Baleia Rossi,titular,2023-02-01,,,,
+SP-43,SP,220652,Delegado Palumbo,titular,2023-02-01,,,,
+SP-44,SP,220653,Fábio Teruel,titular,2023-02-01,,,,
+SP-45,SP,220651,Simone Marquetto,titular,2023-02-01,,,,
+SP-46,SP,178972,Alex Manente,titular,2023-02-01,,,,
+SP-47,SP,141391,Arnaldo Jardim,titular,2023-02-01,,,,
+SP-48,SP,74262,Carlos Sampaio,titular,2023-02-01,,,,
+SP-49,SP,220650,Paulo Alexandre Barbosa,titular,2023-02-01,,,,
+SP-50,SP,178992,Vitor Lippi,titular,2023-02-01,,,,
+SP-51,SP,73441,Celso Russomanno,titular,2023-02-01,,,,
+SP-52,SP,204506,Marcos Pereira,titular,2023-02-01,,,,
+SP-53,SP,204540,Maria Rosas,titular,2023-02-01,,,,
+SP-54,SP,154178,Milton Vieira,titular,2023-02-01,2023-07-05,,,Secretário municipal (capital)
+SP-54,SP,218086,Ely Santos,suplente,2023-07-05,2026-03-31,alta,partido/federação,Volta do titular
+SP-54,SP,154178,Milton Vieira,titular,2026-03-31,,,,
+SP-55,SP,141555,Vinicius Carvalho,titular,2023-02-01,,,,
+SP-56,SP,220642,Delegado Bruno Lima,titular,2023-02-01,2023-02-07,,,Secretário municipal (capital)
+SP-56,SP,222142,Coronel Telhada,suplente,2023-02-08,2023-04-27,alta,partido/federação,Volta do titular
+SP-56,SP,220642,Delegado Bruno Lima,titular,2023-04-27,2023-04-28,,,Secretário municipal (capital)
+SP-56,SP,222142,Coronel Telhada,suplente,2023-04-28,2023-08-03,alta,partido/federação,Volta do titular
+SP-56,SP,220642,Delegado Bruno Lima,titular,2023-08-03,2023-08-04,,,Secretário municipal (capital)
+SP-56,SP,222142,Coronel Telhada,suplente,2023-08-04,2024-03-22,alta,partido/federação,Volta do titular
+SP-56,SP,220642,Delegado Bruno Lima,titular,2024-03-22,2024-03-25,,,Secretário municipal (capital)
+SP-56,SP,222142,Coronel Telhada,suplente,2024-03-25,2024-08-01,alta,partido/federação,Volta do titular
+SP-56,SP,220642,Delegado Bruno Lima,titular,2024-08-01,,,,
+SP-57,SP,220649,Delegado da Cunha,titular,2023-02-01,,,,
+SP-58,SP,66828,Fausto Pinato,titular,2023-02-01,,,,
+SP-59,SP,220647,Mauricio Neves,titular,2023-02-01,,,,
+SP-60,SP,220635,Bruno Ganem,titular,2023-02-01,,,,
+SP-61,SP,178989,Renata Abreu,titular,2023-02-01,2024-06-10,,,Licença (afastamento conjunto)
+SP-61,SP,228941,Daniel José,suplente,2024-06-11,2024-10-09,alta,partido/federação,Volta do titular
+SP-61,SP,178989,Renata Abreu,titular,2024-10-09,2026-06-16,,,Licença (afastamento conjunto)
+SP-61,SP,154700,Paulo Soares,suplente,2026-06-16,2026-10-15,alta,partido/federação,Volta do titular
+SP-61,SP,178989,Renata Abreu,titular,2026-10-15,,,,
+SP-62,SP,220641,Rodrigo Gambale,titular,2023-02-01,,,,
+SP-63,SP,204504,Cezinha de Madureira,titular,2023-02-01,,,,
+SP-64,SP,204522,Marco Bertaiolli,titular,2023-02-01,2023-09-27,,,Renúncia
+SP-64,SP,226837,Saulo Pedroso,efetivado,2023-10-03,,alta,partido/federação,
+SP-65,SP,213274,Ricardo Silva,titular,2023-02-01,2024-12-18,,,Licença (afastamento conjunto)
+SP-65,SP,175765,Ribamar Silva,suplente,2024-12-18,2025-01-01,alta,partido/federação,Efetivação
+SP-65,SP,175765,Ribamar Silva,efetivado,2025-01-01,,alta,efetivação,
+SP-66,SP,160548,Jonas Donizette,titular,2023-02-01,,,,
+SP-67,SP,204534,Tabata Amaral,titular,2023-02-01,,,,
+SP-68,SP,204528,Adriana Ventura,titular,2023-02-01,,,,
+SP-69,SP,74270,Gilberto Nascimento,titular,2023-02-01,,,,
+SP-70,SP,220634,Marcelo Lima,titular,2023-02-01,2023-11-30,,,Perda de mandato
+SP-70,SP,141518,Paulinho da Força,efetivado,2023-11-30,2024-03-29,alta,partido/federação,Licença (afastamento conjunto)
+SP-70,SP,171139,Loreny,suplente,2024-04-09,2024-07-28,media,"vaga livre, mesma chave",Volta do titular
+SP-70,SP,141518,Paulinho da Força,efetivado,2024-07-28,,alta,"saída de suplente, partido/federação",
+PR-01,PR,220698,Beto Preto,titular,2023-02-01,2023-04-19,,,Secretário de Estado
+PR-01,PR,138286,Luciano Alves,suplente,2023-04-19,2023-11-21,alta,partido/federação,Volta do titular
+PR-01,PR,220698,Beto Preto,titular,2023-11-21,2023-11-29,,,Secretário de Estado
+PR-01,PR,138286,Luciano Alves,suplente,2023-11-29,2024-06-06,alta,partido/federação,Volta do titular
+PR-01,PR,220698,Beto Preto,titular,2024-06-06,2024-11-14,,,Secretário de Estado
+PR-01,PR,138286,Luciano Alves,suplente,2024-11-14,2024-12-03,alta,partido/federação,Volta do titular
+PR-01,PR,220698,Beto Preto,titular,2024-12-03,2024-12-04,,,Secretário de Estado
+PR-01,PR,138286,Luciano Alves,suplente,2024-12-04,2025-11-13,alta,partido/federação,Volta do titular
+PR-01,PR,220698,Beto Preto,titular,2025-11-13,2025-11-17,,,Secretário de Estado
+PR-01,PR,138286,Luciano Alves,suplente,2025-11-17,2026-04-06,alta,partido/federação,Volta do titular
+PR-01,PR,220698,Beto Preto,titular,2026-04-06,,,,
+PR-02,PR,178832,Leandre,titular,2023-02-01,2023-02-15,,,Secretário de Estado
+PR-02,PR,223128,Rodrigo Estacho,suplente,2023-02-15,2023-11-21,alta,partido/federação,Volta do titular
+PR-02,PR,178832,Leandre,titular,2023-11-21,2023-11-24,,,Secretário de Estado
+PR-02,PR,205865,Reinhold Stephanes,suplente,2023-11-24,2024-12-03,alta,volta do titular,Volta do titular
+PR-02,PR,178832,Leandre,titular,2024-12-03,2024-12-04,,,Secretário de Estado
+PR-02,PR,223128,Rodrigo Estacho,suplente,2024-12-04,2025-11-13,alta,"partido/federação, mais próxima",Volta do titular
+PR-02,PR,178832,Leandre,titular,2025-11-13,2025-11-14,,,Secretário de Estado
+PR-02,PR,223128,Rodrigo Estacho,suplente,2025-11-14,2026-04-06,alta,volta do titular,Volta do titular
+PR-02,PR,178832,Leandre,titular,2026-04-06,,,,
+PR-03,PR,204410,Luisa Canziani,titular,2023-02-01,,,,
+PR-04,PR,162332,Luiz Nishimori,titular,2023-02-01,,,,
+PR-05,PR,220685,Paulo Litro,titular,2023-02-01,,,,
+PR-06,PR,160621,Sandro Alex,titular,2023-02-01,2023-04-12,,,Secretário de Estado
+PR-06,PR,205865,Reinhold Stephanes,suplente,2023-04-12,2023-11-21,alta,partido/federação,Volta do titular
+PR-06,PR,160621,Sandro Alex,titular,2023-11-21,2023-11-24,,,Secretário de Estado
+PR-06,PR,223128,Rodrigo Estacho,suplente,2023-11-24,2024-12-03,alta,volta do titular,Volta do titular
+PR-06,PR,160621,Sandro Alex,titular,2024-12-03,2024-12-04,,,Secretário de Estado
+PR-06,PR,205865,Reinhold Stephanes,suplente,2024-12-04,2025-11-13,alta,"partido/federação, mais próxima",Volta do titular
+PR-06,PR,160621,Sandro Alex,titular,2025-11-13,2025-11-14,,,Secretário de Estado
+PR-06,PR,205865,Reinhold Stephanes,suplente,2025-11-14,2026-04-06,alta,volta do titular,Volta do titular
+PR-06,PR,160621,Sandro Alex,titular,2026-04-06,,,,
+PR-07,PR,204387,Sargento Fahur,titular,2023-02-01,,,,
+PR-08,PR,178927,Aliel Machado,titular,2023-02-01,,,,
+PR-09,PR,220704,Carol Dartora,titular,2023-02-01,,,,
+PR-10,PR,132504,Enio Verri,titular,2023-02-01,2023-03-14,,,Renúncia
+PR-10,PR,224333,Welter,efetivado,2023-03-14,,alta,partido/federação,
+PR-11,PR,107283,Gleisi Hoffmann,titular,2023-02-01,2025-03-10,,,Ministro de Estado
+PR-11,PR,231911,Lenir de Assis,suplente,2025-03-11,2026-04-06,alta,partido/federação,Volta do titular
+PR-11,PR,107283,Gleisi Hoffmann,titular,2026-04-06,,,,
+PR-12,PR,220682,Tadeu Veneri,titular,2023-02-01,,,,
+PR-13,PR,160592,Zeca Dirceu,titular,2023-02-01,,,,
+PR-14,PR,73768,Dilceu Sperafico,titular,2023-02-01,,,,
+PR-15,PR,204395,Pedro Lupion,titular,2023-02-01,,,,
+PR-16,PR,73788,Ricardo Barros,titular,2023-02-01,2023-02-07,,,Secretário de Estado
+PR-16,PR,219585,Marco Brasil,suplente,2023-02-07,2023-11-22,alta,partido/federação,Volta do titular
+PR-16,PR,73788,Ricardo Barros,titular,2023-11-22,2023-11-24,,,Secretário de Estado
+PR-16,PR,219585,Marco Brasil,suplente,2023-11-24,2024-12-03,alta,partido/federação,Volta do titular
+PR-16,PR,73788,Ricardo Barros,titular,2024-12-03,2024-12-04,,,Secretário de Estado
+PR-16,PR,219585,Marco Brasil,suplente,2024-12-04,2025-03-19,alta,partido/federação,Volta do titular
+PR-16,PR,73788,Ricardo Barros,titular,2025-03-19,,,,
+PR-17,PR,220684,Tião Medeiros,titular,2023-02-01,,,,
+PR-18,PR,220701,Delegado Matheus Laiola,titular,2023-02-01,,,,
+PR-19,PR,204398,Felipe Francischini,titular,2023-02-01,,,,
+PR-20,PR,220702,Geraldo Mendes,titular,2023-02-01,2024-08-27,,,Licença (afastamento conjunto)
+PR-20,PR,229939,Newton Bonin,suplente,2024-08-28,2024-12-26,alta,partido/federação,Volta do titular
+PR-20,PR,220702,Geraldo Mendes,titular,2024-12-26,,,,
+PR-21,PR,220706,Padovani,titular,2023-02-01,2026-06-09,,,Licença (afastamento conjunto)
+PR-21,PR,236518,Santin Roveda,suplente,2026-06-10,2026-10-09,alta,partido/federação,Volta do titular
+PR-21,PR,220706,Padovani,titular,2026-10-09,,,,
+PR-22,PR,204411,Filipe Barros,titular,2023-02-01,,,,
+PR-23,PR,74383,Giacobo,titular,2023-02-01,2026-05-05,,,Secretário de Estado
+PR-23,PR,225846,Itamar Paim,suplente,2026-05-05,2026-11-16,alta,partido/federação,Volta do titular
+PR-23,PR,74383,Giacobo,titular,2026-11-16,,,,
+PR-24,PR,204396,Vermelho,titular,2023-02-01,,,,
+PR-25,PR,178933,Sergio Souza,titular,2023-02-01,,,,
+PR-26,PR,220705,Deltan Dallagnol,titular,2023-02-01,2023-06-06,,,Perda de mandato
+PR-26,PR,73778,Luiz Carlos Hauly,titular,2023-06-13,,media,vaga livre,
+PR-27,PR,178934,Toninho Wandscheer,titular,2023-02-01,,,,
+PR-28,PR,178931,Luciano Ducci,titular,2023-02-01,,,,
+PR-29,PR,220683,Beto Richa,titular,2023-02-01,,,,
+PR-30,PR,178929,Diego Garcia,titular,2023-02-01,,,,
+RS-01,RS,220554,Alexandre Lindenmeyer,titular,2023-02-01,,,,
+RS-02,RS,160538,Bohn Gass,titular,2023-02-01,,,,
+RS-03,RS,220555,Daiana Santos,titular,2023-02-01,,,,
+RS-04,RS,220553,Denise Pessôa,titular,2023-02-01,,,,
+RS-05,RS,160535,Marcon,titular,2023-02-01,,,,
+RS-06,RS,74398,Maria do Rosário,titular,2023-02-01,,,,
+RS-07,RS,74400,Paulo Pimenta,titular,2023-02-01,2023-02-03,,,Ministro de Estado
+RS-07,RS,221378,Reginete Bispo,suplente,2023-02-03,2025-01-14,alta,partido/federação,Volta do titular
+RS-07,RS,74400,Paulo Pimenta,titular,2025-01-14,,,,
+RS-08,RS,204388,Bibo Nunes,titular,2023-02-01,,,,
+RS-09,RS,160673,Giovani Cherini,titular,2023-02-01,,,,
+RS-10,RS,133810,Marcelo Moraes,titular,2023-02-01,,,,
+RS-11,RS,204416,Sanderson,titular,2023-02-01,,,,
+RS-12,RS,160559,Alceu Moreira,titular,2023-02-01,,,,
+RS-13,RS,179001,Márcio Biolchi,titular,2023-02-01,,,,
+RS-14,RS,73692,Osmar Terra,titular,2023-02-01,,,,
+RS-15,RS,136811,Afonso Hamm,titular,2023-02-01,,,,
+RS-16,RS,178963,Covatti Filho,titular,2023-02-01,2026-04-07,,,Licença (afastamento conjunto)
+RS-16,RS,235776,Sérgio Turra,suplente,2026-04-07,2026-08-06,alta,partido/federação,Volta do titular
+RS-16,RS,178963,Covatti Filho,titular,2026-08-06,,,,
+RS-17,RS,204406,Pedro Westphalen,titular,2023-02-01,,,,
+RS-18,RS,220549,Any Ortiz,titular,2023-02-01,,,,
+RS-19,RS,204409,Daniel Trzeciak,titular,2023-02-01,,,,
+RS-20,RS,204404,Lucas Redecker,titular,2023-02-01,,,,
+RS-21,RS,178962,Carlos Gomes,titular,2023-02-01,2023-11-08,,,Secretário de Estado
+RS-21,RS,163321,Ronaldo Nogueira,suplente,2023-11-08,2023-11-21,alta,partido/federação,Volta do titular
+RS-21,RS,178962,Carlos Gomes,titular,2023-11-21,2023-11-27,,,Secretário de Estado
+RS-21,RS,163321,Ronaldo Nogueira,suplente,2023-11-27,2023-11-30,alta,partido/federação,Volta do titular
+RS-21,RS,178962,Carlos Gomes,titular,2023-11-30,2023-12-07,,,Secretário de Estado
+RS-21,RS,163321,Ronaldo Nogueira,suplente,2023-12-07,2024-12-03,alta,partido/federação,Volta do titular
+RS-21,RS,178962,Carlos Gomes,titular,2024-12-03,2024-12-10,,,Secretário de Estado
+RS-21,RS,163321,Ronaldo Nogueira,suplente,2024-12-10,2025-11-11,alta,partido/federação,Volta do titular
+RS-21,RS,178962,Carlos Gomes,titular,2025-11-11,2025-11-17,,,Secretário de Estado
+RS-21,RS,163321,Ronaldo Nogueira,suplente,2025-11-17,2026-02-05,alta,partido/federação,Volta do titular
+RS-21,RS,178962,Carlos Gomes,titular,2026-02-05,,,,
+RS-22,RS,220551,Franciane Bayer,titular,2023-02-01,,,,
+RS-23,RS,220552,Zucco,titular,2023-02-01,,,,
+RS-24,RS,178835,Afonso Motta,titular,2023-02-01,,,,
+RS-25,RS,73486,Pompeo de Mattos,titular,2023-02-01,,,,
+RS-26,RS,156190,Marcel van Hattem,titular,2023-02-01,,,,
+RS-27,RS,220550,Mauricio Marcon,titular,2023-02-01,,,,
+RS-28,RS,178964,Heitor Schuch,titular,2023-02-01,,,,
+RS-29,RS,160552,Danrlei de Deus Hinterholz,titular,2023-02-01,2023-03-02,,,Secretário de Estado
+RS-29,RS,103758,Luciano Azevedo,suplente,2023-03-02,2023-11-17,alta,partido/federação,Volta do titular
+RS-29,RS,160552,Danrlei de Deus Hinterholz,titular,2023-11-17,2023-12-08,,,Secretário de Estado
+RS-29,RS,103758,Luciano Azevedo,suplente,2023-12-08,2024-10-17,alta,partido/federação,Volta do titular
+RS-29,RS,160552,Danrlei de Deus Hinterholz,titular,2024-10-17,,,,
+RS-30,RS,204407,Fernanda Melchionna,titular,2023-02-01,,,,
+RS-31,RS,141485,Luiz Carlos Busato,titular,2023-02-01,,,,
+SC-01,SC,204369,Caroline de Toni,titular,2023-02-01,,,,
+SC-02,SC,204367,Daniel Freitas,titular,2023-02-01,,,,
+SC-03,SC,220557,Daniela Reinehr,titular,2023-02-01,,,,
+SC-04,SC,214694,Jorge Goetten,titular,2023-02-01,2025-04-25,,,Licença (afastamento conjunto)
+SC-04,SC,204376,Coronel Armando,suplente,2025-04-25,2025-08-24,alta,partido/federação,Volta do titular
+SC-04,SC,214694,Jorge Goetten,titular,2025-08-24,,,,
+SC-05,SC,220559,Julia Zanatta,titular,2023-02-01,,,,
+SC-06,SC,220558,Zé Trovão,titular,2023-02-01,,,,
+SC-07,SC,204361,Carlos Chiodini,titular,2023-02-01,2024-07-12,,,Licença (afastamento conjunto)
+SC-07,SC,229432,Luiz Fernando Vampiro,suplente,2024-07-16,2024-11-10,alta,partido/federação,Volta do titular
+SC-07,SC,204361,Carlos Chiodini,titular,2024-11-10,2025-03-10,,,Secretário de Estado
+SC-07,SC,229432,Luiz Fernando Vampiro,suplente,2025-03-14,2025-11-12,alta,partido/federação,Volta do titular
+SC-07,SC,204361,Carlos Chiodini,titular,2025-11-12,2025-11-18,,,Secretário de Estado
+SC-07,SC,229432,Luiz Fernando Vampiro,suplente,2025-11-18,2026-02-03,alta,partido/federação,Volta do titular
+SC-07,SC,204361,Carlos Chiodini,titular,2026-02-03,,,,
+SC-08,SC,98148,Cobalchini,titular,2023-02-01,,,,
+SC-09,SC,161440,Pezenti,titular,2023-02-01,,,,
+SC-10,SC,98615,Ismael,titular,2023-02-01,,,,
+SC-11,SC,204362,Ricardo Guidi,titular,2023-02-01,2023-08-01,,,Secretário de Estado
+SC-11,SC,116379,Darci de Matos,suplente,2023-08-01,2023-11-21,alta,partido/federação,Volta do titular
+SC-11,SC,204362,Ricardo Guidi,titular,2023-11-21,2023-11-23,,,Secretário de Estado
+SC-11,SC,116379,Darci de Matos,suplente,2023-11-23,2024-06-05,alta,partido/federação,Volta do titular
+SC-11,SC,204362,Ricardo Guidi,titular,2024-06-05,2024-07-04,,,Licença (afastamento conjunto)
+SC-11,SC,116379,Darci de Matos,suplente,2024-07-04,2024-11-02,alta,partido/federação,Volta do titular
+SC-11,SC,204362,Ricardo Guidi,titular,2024-11-02,,,,
+SC-12,SC,220556,Ana Paula Lima,titular,2023-02-01,,,,
+SC-13,SC,160604,Pedro Uczai,titular,2023-02-01,2024-06-18,,,Licença (afastamento conjunto)
+SC-13,SC,229106,Carla Ayres,suplente,2024-06-26,2024-10-17,alta,partido/federação,Volta do titular
+SC-13,SC,160604,Pedro Uczai,titular,2024-10-17,,,,
+SC-14,SC,204365,Gilson Marques,titular,2023-02-01,,,,
+SC-15,SC,164360,Carmen Zanotto,titular,2023-02-01,2023-02-03,,,Secretário de Estado
+SC-15,SC,178966,Geovania de Sá,suplente,2023-02-03,2023-09-26,alta,partido/federação,Volta do titular
+SC-15,SC,164360,Carmen Zanotto,titular,2023-09-26,2023-09-27,,,Secretário de Estado
+SC-15,SC,178966,Geovania de Sá,suplente,2023-09-27,2023-11-21,alta,partido/federação,Volta do titular
+SC-15,SC,164360,Carmen Zanotto,titular,2023-11-21,2023-11-24,,,Secretário de Estado
+SC-15,SC,178966,Geovania de Sá,suplente,2023-11-24,2024-06-05,alta,partido/federação,Volta do titular
+SC-15,SC,164360,Carmen Zanotto,titular,2024-06-05,2025-01-01,,,Renúncia
+SC-15,SC,178966,Geovania de Sá,efetivado,2025-01-01,,alta,partido/federação,
+SC-16,SC,204368,Fabio Schiochet,titular,2023-02-01,,,,
