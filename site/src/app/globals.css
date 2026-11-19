@@ -490,7 +490,8 @@ table.tabela { width: 100%; border-collapse: collapse; font-size: var(--t-s); }
   .capitulos__painel { grid-column: 1 / -1; grid-row: 1; align-self: start; gap: 0.5rem; }
   .capitulos__legenda { display: none; }
   /* altura pela largura: a faixa de destinos ocupa ~9,5 rem acima da borda, e o resto é a meia-coroa */
-  .capitulos__concha { grid-column: 1 / -1; grid-row: 2; height: min(54svh, calc(50vw + 9.5rem)); align-self: start; margin-top: 0.5rem; }
+  /* e o teto pelo que sobra da tela: o texto da abertura (~15 rem) fica embaixo e não pode cobrir a base da concha em telas curtas */
+  .capitulos__concha { grid-column: 1 / -1; grid-row: 2; height: min(54svh, calc(50vw + 9.5rem), max(13rem, calc(100svh - 27.5rem))); align-self: start; margin-top: 0.5rem; }
   .passo { align-items: end; padding: 0 var(--gutter) 1.25rem; }
   .passo__texto { grid-column: 1 / -1; background: var(--c-bg); padding: 1rem 1rem 1.1rem; border: 1px solid var(--c-fg); max-width: none; }
   .passo--hero { align-items: end; padding-top: 0; }
