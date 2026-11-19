@@ -74,6 +74,9 @@ export const Concha = forwardRef<ConchaApi, Props>(function Concha(
       },
     });
     c.setDia(proxy.current.d);
+    // a cena começa no dia 0 e não avisa quando o pedido também é o dia 0: sincroniza à mão
+    setDia(c.diaAtual);
+    callbacks.current.aoMudarDia?.(c.diaAtual);
     c.setModo(modo);
     cena.current = c;
     return () => { c.destruir(); cena.current = null; };
@@ -88,7 +91,10 @@ export const Concha = forwardRef<ConchaApi, Props>(function Concha(
     if (!suave || reduz || !cena.current) {
       proxy.current.d = d;
       cena.current?.setDia(d);
-      if (!cena.current) setDia(d);
+      if (!cena.current) {
+        setDia(d);
+        callbacks.current.aoMudarDia?.(d);
+      }
       return;
     }
     const delta = Math.abs(d - proxy.current.d);
