@@ -41,15 +41,16 @@ LEGISLATURAS = {
         "cadeiras": CADEIRAS_LC78,
         "ativa": True,
     },
-    # A 58ª começa em 1º/02/2027. As cadeiras por UF saem dos eleitos de 2026 quando a coleta
-    # for ligada (ativa=True); até lá o site mostra a legislatura como "em breve".
-    # Conferir antes de ligar: o arquivo do TSE só traz os eleitos já totalizados (505 em 19/11/2026).
+    # A 58ª começa em 1º/02/2027; até a coleta ser ligada (ativa=True) o site mostra a legislatura
+    # como "em breve". As cadeiras por UF são as da LC 78/1993, as mesmas da eleição de 2026: a conta
+    # pelos eleitos do TSE fica só como conferência, porque o arquivo traz apenas as UFs já totalizadas
+    # (em 20/11/2026: 505 eleitos, o Amapá ainda sem nenhum).
     58: {
         "inicio": dt.date(2027, 2, 1),
         "fim": dt.date(2031, 1, 31),
         "ano_eleicao": 2026,
         "tse": PASTA_TSE / "candidatos_2026.parquet",
-        "cadeiras": None,
+        "cadeiras": CADEIRAS_LC78,
         "ativa": False,
     },
 }

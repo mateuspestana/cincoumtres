@@ -182,6 +182,12 @@ def montar(leg: int, snap: Path) -> dict:
     t = ler_tse(cfg["tse"])
     if cfg["cadeiras"] is None:
         cfg["cadeiras"] = cadeiras_do_tse(t)
+    else:
+        # conferência: os eleitos do TSE batem com a tabela? (só avisa; o TSE pode estar incompleto)
+        tse = cadeiras_do_tse(t)
+        difs = {uf: (tse.get(uf, 0), n) for uf, n in cfg["cadeiras"].items() if tse.get(uf, 0) != n}
+        if difs:
+            print(f"aviso: eleitos no TSE diferem das cadeiras por UF (TSE, tabela): {difs}")
     cpf_chave = dict(zip(t.NR_CPF_CANDIDATO, t.chave))
 
     ignorados: list[dict] = []
